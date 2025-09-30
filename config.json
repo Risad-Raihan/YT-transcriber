@@ -1,0 +1,76 @@
+{
+  "video": {
+    "download_format": "bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best",
+    "output_dir": "data/videos",
+    "audio_output_dir": "data/audio",
+    "audio_format": "wav",
+    "audio_sample_rate": 16000
+  },
+  "transcription": {
+    "model": "facebook/seamless-m4t-v2-large",
+    "language": "ben",
+    "device": "cuda",
+    "batch_size": 8,
+    "return_timestamps": true,
+    "forced_alignment": {
+      "enabled": true,
+      "task": "transcribe",
+      "language": "ben"
+    }
+  },
+  "reference_detection": {
+    "phrases": [
+      "এই ডায়াগ্রাম",
+      "এই সমীকরণ",
+      "এটা দেখুন",
+      "এখানে দেখুন",
+      "এখানে",
+      "ওই",
+      "ওটা",
+      "এই গ্রাফ",
+      "এই চিত্র",
+      "দেখুন এখানে"
+    ],
+    "context_window_words": 10,
+    "bert_model": "sagorsarker/bangla-bert-base",
+    "confidence_threshold": 0.75,
+    "use_bert": true
+  },
+  "visual_extraction": {
+    "frame_offsets_seconds": [-2, 0, 2],
+    "output_dir": "data/frames",
+    "perceptual_hash_threshold": 5,
+    "scene_change_threshold": 30,
+    "mathpix_api": {
+      "endpoint": "https://api.mathpix.com/v3/text",
+      "formats": ["text", "latex_styled", "mathml"]
+    },
+    "gemini_model": "gemini-1.5-flash",
+    "max_retries": 3
+  },
+  "deduplication": {
+    "clip_model": "openai/clip-vit-base-patch32",
+    "clustering": {
+      "algorithm": "DBSCAN",
+      "eps": 0.15,
+      "min_samples": 2,
+      "metric": "cosine"
+    },
+    "quality_metrics": {
+      "prefer_centered": true,
+      "blur_threshold": 100,
+      "brightness_range": [50, 200]
+    }
+  },
+  "output": {
+    "dir": "output",
+    "save_intermediate": true,
+    "final_output": "enriched_transcript.json"
+  },
+  "logging": {
+    "level": "INFO",
+    "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+    "file": "logs/pipeline.log"
+  }
+}
+
