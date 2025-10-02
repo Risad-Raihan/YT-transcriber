@@ -1,0 +1,89 @@
+{
+  "clusters": {
+    "VISUAL_0": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "VISUAL_1": [
+      5
+    ],
+    "VISUAL_2": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "VISUAL_3": [
+      12
+    ]
+  },
+  "frame_to_cluster": {
+    "REF_1_F0": "VISUAL_0",
+    "REF_1_F1": "VISUAL_0",
+    "REF_1_F2": "VISUAL_0",
+    "REF_2_F0": "VISUAL_2",
+    "REF_2_F1": "VISUAL_2",
+    "REF_2_F2": "VISUAL_2",
+    "REF_15_F0": "VISUAL_2",
+    "REF_15_F1": "VISUAL_2",
+    "REF_15_F2": "VISUAL_2",
+    "REF_16_F0": "VISUAL_2",
+    "REF_16_F1": "VISUAL_2",
+    "REF_16_F2": "VISUAL_2",
+    "REF_17_F0": "VISUAL_3",
+    "REF_17_F1": "VISUAL_2",
+    "REF_17_F2": "VISUAL_2",
+    "REF_19_F0": "VISUAL_2",
+    "REF_19_F1": "VISUAL_2",
+    "REF_19_F2": "VISUAL_2",
+    "REF_22_F0": "VISUAL_2",
+    "REF_22_F1": "VISUAL_2",
+    "REF_22_F2": "VISUAL_2",
+    "REF_23_F0": "VISUAL_2",
+    "REF_23_F1": "VISUAL_2",
+    "REF_23_F2": "VISUAL_2",
+    "REF_24_F0": "VISUAL_2",
+    "REF_24_F1": "VISUAL_2",
+    "REF_24_F2": "VISUAL_2",
+    "REF_31_F0": "VISUAL_2",
+    "REF_31_F1": "VISUAL_2",
+    "REF_31_F2": "VISUAL_2",
+    "REF_35_F0": "VISUAL_2",
+    "REF_35_F1": "VISUAL_2",
+    "REF_35_F2": "VISUAL_2"
+  },
+  "cluster_representatives": {
+    "VISUAL_0": 4,
+    "VISUAL_1": 5,
+    "VISUAL_2": 30,
+    "VISUAL_3": 12
+  }
+}

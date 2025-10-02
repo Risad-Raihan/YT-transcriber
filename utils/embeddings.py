@@ -119,6 +119,13 @@ def cluster_embeddings(embeddings: np.ndarray, eps: float = 0.15,
         similarity_matrix = cosine_similarity(embeddings)
         distance_matrix = 1 - similarity_matrix
         
+        # Clip to handle floating point errors (ensure non-negative distances)
+        distance_matrix = np.clip(distance_matrix, 0, 2)
+        
+        # Ensure symmetry and zero diagonal
+        distance_matrix = (distance_matrix + distance_matrix.T) / 2
+        np.fill_diagonal(distance_matrix, 0)
+        
         clustering = DBSCAN(
             eps=eps,
             min_samples=min_samples,

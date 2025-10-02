@@ -47,8 +47,20 @@ class BengaliReferenceDetector:
                 device = "cuda" if torch.cuda.is_available() else "cpu"
                 logger.info(f"Loading BERT model: {bert_model} on {device}")
                 
-                self.tokenizer = AutoTokenizer.from_pretrained(bert_model)
-                self.bert_model = AutoModel.from_pretrained(bert_model).to(device)
+                # Get HuggingFace token from environment
+                hf_token = os.getenv("HUGGINGFACE_TOKEN")
+                
+                # Load model with token
+                self.tokenizer = AutoTokenizer.from_pretrained(
+                    bert_model,
+                    token=hf_token,
+                    trust_remote_code=True
+                )
+                self.bert_model = AutoModel.from_pretrained(
+                    bert_model,
+                    token=hf_token,
+                    trust_remote_code=True
+                ).to(device)
                 self.bert_model.eval()
                 
                 logger.info("BERT model loaded successfully")
@@ -98,6 +110,9 @@ class BengaliReferenceDetector:
         """
         Detect references using BERT contextual understanding.
         
+        Scans ALL utterances using BERT embeddings to find visual references
+        based on semantic similarity, not just keywords.
+        
         Args:
             utterances: List of utterances with timestamps
             
@@ -108,29 +123,59 @@ class BengaliReferenceDetector:
             logger.warning("BERT model not available, skipping BERT detection")
             return []
         
+        logger.info(f"BERT scanning {len(utterances)} utterances for contextual references...")
+        
         references = []
         reference_id = 1
         
-        # Define reference indicators using semantic understanding
-        # This is a simplified approach - in production, you'd train a classifier
-        reference_keywords = [
-            'দেখুন', 'দেখ', 'দেখো', 'এখানে', 'ওখানে', 'এটা', 'ওটা',
-            'ডায়াগ্রাম', 'চিত্র', 'গ্রাফ', 'সমীকরণ', 'ছবি'
+        # Reference patterns that indicate visual elements
+        visual_reference_phrases = [
+            'এই ডায়াগ্রাম দেখুন',  # look at this diagram
+            'এই চিত্র',  # this figure/image
+            'এখানে দেখুন',  # look here
+            'এই গ্রাফ',  # this graph
+            'এই সমীকরণ',  # this equation
+            'প্রধান ফোকাস',  # principal focus
+            'বিম্ব গঠিত হবে',  # image will form
         ]
         
+        # Get embeddings for reference phrases (semantic templates)
+        reference_embeddings = []
+        for phrase in visual_reference_phrases:
+            emb = self._get_bert_embedding(phrase)
+            if emb is not None:
+                reference_embeddings.append(emb)
+        
+        if not reference_embeddings:
+            logger.warning("Could not generate reference embeddings")
+            return []
+        
+        # Scan each utterance
         for i, utterance in enumerate(utterances):
             text = utterance['text']
             
-            # Quick check for reference keywords
-            has_keyword = any(kw in text for kw in reference_keywords)
-            if not has_keyword:
+            # Skip very short utterances
+            if len(text.split()) < 5:
                 continue
             
-            # Use BERT to verify if this is a visual reference
-            # This is simplified - ideally you'd have a fine-tuned classifier
-            is_reference, confidence = self._classify_with_bert(text, utterances, i)
+            # Get BERT embedding for this utterance
+            text_embedding = self._get_bert_embedding(text)
+            if text_embedding is None:
+                continue
             
-            if is_reference and confidence >= self.confidence_threshold:
+            # Calculate similarity to reference patterns
+            max_similarity = 0.0
+            for ref_emb in reference_embeddings:
+                similarity = self._cosine_similarity(text_embedding, ref_emb)
+                max_similarity = max(max_similarity, similarity)
+            
+            # Debug: Log similarity scores
+            if max_similarity > 0.5:  # Show any moderately similar utterances
+                logger.info(f"  Utterance {i}: similarity={max_similarity:.3f} - {text[:80]}...")
+            
+            # If similarity is high, it's likely a visual reference
+            # Threshold: 0.55 based on Bengali BERT embeddings
+            if max_similarity >= 0.55:
                 references.append({
                     "reference_id": f"REF_{reference_id}",
                     "text": text,
@@ -139,13 +184,51 @@ class BengaliReferenceDetector:
                     "reference_phrase": self._extract_reference_phrase(text),
                     "reference_type": "contextual",
                     "detection_method": "bert",
-                    "confidence": confidence,
+                    "confidence": float(max_similarity),
                     "context_before": self._get_context(utterances, utterance, -1),
                     "context_after": self._get_context(utterances, utterance, 1)
                 })
                 reference_id += 1
+                logger.debug(f"BERT found reference at {utterance['start_ms']}ms (similarity: {max_similarity:.2f})")
         
         return references
+    
+    def _get_bert_embedding(self, text: str):
+        """Get BERT embedding for text."""
+        try:
+            inputs = self.tokenizer(
+                text,
+                return_tensors="pt",
+                truncation=True,
+                max_length=512,
+                padding=True
+            )
+            
+            inputs = {k: v.to(self.bert_model.device) for k, v in inputs.items()}
+            
+            with torch.no_grad():
+                outputs = self.bert_model(**inputs)
+                # Use CLS token embedding (first token)
+                embedding = outputs.last_hidden_state[:, 0, :].cpu().numpy()[0]
+            
+            return embedding
+            
+        except Exception as e:
+            logger.error(f"Error getting BERT embedding: {e}")
+            return None
+    
+    def _cosine_similarity(self, emb1, emb2):
+        """Calculate cosine similarity between two embeddings."""
+        import numpy as np
+        
+        dot_product = np.dot(emb1, emb2)
+        norm1 = np.linalg.norm(emb1)
+        norm2 = np.linalg.norm(emb2)
+        
+        if norm1 == 0 or norm2 == 0:
+            return 0.0
+        
+        return dot_product / (norm1 * norm2)
     
     def _classify_with_bert(self, text: str, utterances: List[Dict], 
                            index: int) -> Tuple[bool, float]:

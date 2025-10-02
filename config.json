@@ -45,15 +45,15 @@
       "endpoint": "https://api.mathpix.com/v3/text",
       "formats": ["text", "latex_styled", "mathml"]
     },
-    "gemini_model": "gemini-1.5-flash",
+    "gemini_model": "gemini-2.5-flash-preview-09-2025",
     "max_retries": 3
   },
   "deduplication": {
     "clip_model": "openai/clip-vit-base-patch32",
     "clustering": {
       "algorithm": "DBSCAN",
-      "eps": 0.15,
-      "min_samples": 2,
+      "eps": 0.08,
+      "min_samples": 1,
       "metric": "cosine"
     },
     "quality_metrics": {

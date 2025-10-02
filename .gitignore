@@ -28,16 +28,21 @@ wheels/
 *.egg
 
 # Data and outputs
-data/
-output/
+data/videos/
+data/audio/
+data/frames/
 logs/
 *.mp4
 *.mp3
 *.wav
 *.m4a
+*.webm
 *.jpg
 *.png
 *.json.bak
+
+# Allow output JSON files (pipeline results)
+!output/*.json
 
 # IDE
 .vscode/

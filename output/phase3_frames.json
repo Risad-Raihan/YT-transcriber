@@ -1,0 +1,1168 @@
+{
+  "video_id": "Qp15iVGv2oA",
+  "frames": [
+    {
+      "frame_id": "REF_1_F0",
+      "frame_path": "data/frames/REF_1/frame_0ms_offset_-2s.jpg",
+      "timestamp_ms": -2000,
+      "offset_seconds": -2,
+      "perceptual_hash": "9f9ee0c3f1e050f0",
+      "is_duplicate": false,
+      "quality": {
+        "blur_score": 58.72563446298174,
+        "brightness": 174.15825303819443,
+        "contrast": 40.03838470533879
+      },
+      "reference_id": "REF_1",
+      "mathpix_data": {
+        "request_id": "2025_10_02_7d6c1780aa7a5fda3e6ag",
+        "version": "SuperNet-106p1",
+        "is_printed": true,
+        "is_handwritten": true,
+        "auto_rotate_confidence": 0.042081041116599494,
+        "auto_rotate_degrees": 0,
+        "image_height": 720,
+        "image_width": 1280,
+        "confidence": 0.6128382682800293,
+        "confidence_rate": 0.9564621908981203,
+        "text": "AMADER\nSCHOOL"
+      },
+      "gemini_description": "This frame captures the introductory phase of a lecture on Geometric Optics, focusing on the formation of images using diverging spherical mirrors.\n\n---\n\n### 1. Visual Elements (Diagrams, Graphs, Illustrations)\n\nThis frame does not contain any completed diagrams, graphs, or mathematical illustrations. The visual content consists solely of the lecture title written in Bengali on a white background (likely a whiteboard or digital screen) and the lecturer in the foreground.\n\n*   **Content Area:** The majority of the background is a blank white surface, indicating that the content—the ray diagrams (রশ্মিচিত্র)—is about to be drawn or presented.\n*   **Lecturer:** A male lecturer occupies the left side of the frame, providing instruction.\n*   **Branding:** A logo/watermark is visible in the top right corner, reading \"AMADER SCHOOL.\"\n\n### 2. Physical Concepts or Phenomena Illustrated\n\nThe primary physical concept introduced by the title is **Reflection and Image Formation** within the domain of **Geometric Optics**.\n\n*   **Specific Subject:** The topic is the qualitative analysis of light behavior using a **Convex Spherical Mirror** (উত্তল দর্পণ).\n*   **Key Process:** The lecture will cover **Ray Tracing** (রশ্মিচিত্র) to determine the characteristics (position, nature, and size) of the **Virtual Image** (প্রতিবিম্ব) formed when an object is placed in front of the convex mirror.\n\n### 3. Key Relationships or Structures Shown\n\nWhile no structural diagrams are present, the topic necessitates the discussion of the following fundamental relationships in geometric optics for a convex mirror:\n\n*   **Image Nature:** All real objects placed in front of a convex mirror will produce a **virtual, upright, and diminished** image.\n*   **Image Location:** The image will always be formed **behind the mirror**, between the Pole ($P$) and the principal Focus ($F$).\n*   **Sign Convention:** The focal length ($f$) of a convex mirror is conventionally taken as **positive** because the focus is virtual (behind the mirror). The object distance ($u$) is negative (real object), and the image distance ($v$) will be positive (virtual image).\n*   **Mirror Equation Implication:** The relationship between object distance ($u$), image distance ($v$), and focal length ($f$) defined by $\\frac{1}{v} + \\frac{1}{u} = \\frac{1}{f}$ is the underlying quantitative structure that the ray diagrams visualize.\n\n### 4. Labels, Annotations, or Text Visible\n\nTwo distinct textual elements are visible:\n\n**A. Lecture Title (Top Center, Handwritten Bengali):**\n*   **Text:** \"উত্তল দর্পণে রশ্মিচিত্র/প্রতিবিম্ব\"\n*   **Translation:** \"Ray Diagrams/Images in a Convex Mirror\"\n*   **Technical Breakdown:**\n    *   উত্তল দর্পণে (Uttol Dorpone): In a Convex Mirror\n    *   রশ্মিচিত্র (Roshmichitro): Ray Diagram/Ray Tracing\n    *   প্রতিবিম্ব (Protibimbo): Image/Reflection\n\n**B. Branding (Top Right, Printed):**\n*   **Text:** \"AMADER SCHOOL\" (Institution/Channel name)\n\n### 5. The Educational Purpose of This Visual\n\nThe purpose of this frame is purely **introductory and organizational**:\n\n1.  **Topic Identification:** It clearly establishes the specific subject matter being covered—the behavior of light rays when reflecting off a convex surface.\n2.  **Context Setting:** It prepares the student for a graphical analysis (ray tracing), which is a prerequisite for understanding the quantitative relationships governed by the thin lens/mirror formula.\n3.  **Structuring the Lesson:** It signals the transition from theoretical definitions of convex mirrors to practical application through graphical representation of image formation."
+    },
+    {
+      "frame_id": "REF_1_F1",
+      "frame_path": "data/frames/REF_1/frame_0ms_offset_0s.jpg",
+      "timestamp_ms": 0,
+      "offset_seconds": 0,
+      "perceptual_hash": "9f9ee0c3f1e050f0",
+      "is_duplicate": true,
+      "quality": {
+        "blur_score": 58.72563446298174,
+        "brightness": 174.15825303819443,
+        "contrast": 40.03838470533879
+      },
+      "reference_id": "REF_1",
+      "mathpix_data": null,
+      "gemini_description": null
+    },
+    {
+      "frame_id": "REF_1_F2",
+      "frame_path": "data/frames/REF_1/frame_0ms_offset_2s.jpg",
+      "timestamp_ms": 2000,
+      "offset_seconds": 2,
+      "perceptual_hash": "9edce0c773c15350",
+      "is_duplicate": false,
+      "quality": {
+        "blur_score": 145.72499446939415,
+        "brightness": 184.34144965277778,
+        "contrast": 42.31140457694008
+      },
+      "reference_id": "REF_1",
+      "mathpix_data": {
+        "request_id": "2025_10_02_2c6ca45d2bc15ae8241bg",
+        "version": "SuperNet-106p1",
+        "is_printed": true,
+        "is_handwritten": true,
+        "auto_rotate_confidence": 0.01037914318410671,
+        "auto_rotate_degrees": 0,
+        "image_height": 720,
+        "image_width": 1280,
+        "confidence": 0.026279078316885914,
+        "confidence_rate": 0.9130409438974773,
+        "text": "উত্তল দর্পন বঙ্গগ⿱㇒日勺／প্রতিষ্কর্ধ্ব\nAMADER\nSCHOOL"
+      },
+      "gemini_description": "This frame captures the opening moments of a physics lecture, setting the topic for a detailed discussion on geometrical optics.\n\n## Detailed Frame Analysis\n\n### 1. Visual Elements (Diagrams, Graphs, Illustrations)\n\nThe frame features a clear whiteboard background, used for instruction, with a lecturer positioned in the lower-left quadrant.\n\n*   **Instructional Content:** The only written content is the lecture title, handwritten in black ink at the top center of the board and underlined in red.\n*   **Diagram Status:** Crucially, there are **no diagrams, graphs, or geometric illustrations (such as the mirror shape, principal axis, or rays) present yet.** The content is purely introductory text.\n*   **Branding:** The logo \"AMADER SCHOOL\" (Our School) is visible in the top right corner.\n\n### 2. Physical Concepts or Phenomena Illustrated\n\nBased on the title, the frame introduces a fundamental topic in **Geometric Optics** (specifically, Reflection and Spherical Mirrors).\n\n*   **Primary Concept:** Reflection of light rays from a **Convex Mirror** (উত্তল দর্পন).\n*   **Phenomena to be Illustrated:** The determination of the location, size, and nature (real/virtual, inverted/upright) of the image formed when an object is placed in front of a convex spherical mirror. This is typically achieved using the principles of ray tracing.\n\n### 3. Key Relationships or Structures Shown\n\nWhile no structural diagrams are visible, the title refers directly to the methodology used in geometric optics to analyze image formation:\n\n*   **Ray Tracing (রশ্মিচিত্র):** This implies the lecture will demonstrate the specific paths of characteristic light rays (e.g., rays parallel to the principal axis, rays directed toward the center of curvature or focus) and their reflection rules.\n*   **Image Formation (প্রতিবিম্ব):** The goal is to show the relationship between object distance ($u$), image distance ($v$), and focal length ($f$), although for a convex mirror, the image is always virtual, upright, and diminished, regardless of object position.\n\n### 4. Labels, Annotations, or Text Visible\n\nThe text is written in Bengali:\n\n| Text Location | Bengali Script | Transliteration | English Translation | Technical Context |\n| :--- | :--- | :--- | :--- | :--- |\n| **Title (Top Center)** | উত্তল দর্পনে রশ্মিচিত্র/প্রতিবিম্ব | *Uttol Dorpone Roshmichitro / Protibimbo* | Ray Diagram / Image in a Convex Mirror | Core topic of the lecture. |\n| **Branding (Top Right)** | AMADER SCHOOL | AMADER SCHOOL | Our School | Educational platform identifier. |\n\n*(Note: The Mathpix OCR output was corrupted but correctly identified the key terms \"উত্তল দর্পন\" (Convex Mirror) and a reference to the image/reflection.)*\n\n### 5. The Educational Purpose of the Visual\n\nThe primary educational purpose of this specific frame is **topic introduction and orientation.**\n\n1.  **Setting the Agenda:** It clearly states the precise technical subject matter to be covered, allowing students to mentally prepare for the concepts of convex mirrors, reflection rules, and ray tracing.\n2.  **Structuring the Lesson:** It confirms that the lecturer will proceed to draw and explain the geometric constructions (ray diagrams) necessary to understand image formation, which is a standard procedure in high school or introductory university physics curricula."
+    },
+    {
+      "frame_id": "REF_2_F0",
+      "frame_path": "data/frames/REF_2/frame_71548ms_offset_-2s.jpg",
+      "timestamp_ms": 69548,
+      "offset_seconds": -2,
+      "perceptual_hash": "9edce0c7e3c061c3",
+      "is_duplicate": false,
+      "quality": {
+        "blur_score": 166.99336141379547,
+        "brightness": 176.03525499131945,
+        "contrast": 46.70910541857968
+      },
+      "reference_id": "REF_2",
+      "mathpix_data": {
+        "request_id": "2025_10_02_62b84114510876203e69g",
+        "version": "SuperNet-106p1",
+        "is_printed": true,
+        "is_handwritten": true,
+        "auto_rotate_confidence": 0.009837660415197291,
+        "auto_rotate_degrees": 0,
+        "image_height": 720,
+        "image_width": 1280,
+        "confidence": 0.5012691020965576,
+        "confidence_rate": 0.9391473155018843,
+        "latex_styled": "\\begin{array}{l}\n\\text { AMADER }\\\\\n\\text { SCH00L }\n\\end{array}",
+        "text": "AMADER\nSCH00L"
+      },
+      "gemini_description": "This frame captures the introduction phase of a physics lecture on geometrical optics, specifically focusing on image formation by spherical mirrors.\n\n## Detailed Analysis\n\n### 1. Visual Elements\n\nThe visual field is dominated by a lecturer (an educator) positioned on the left and a clean whiteboard backdrop on the right, which serves as the drawing surface.\n\n*   **Lecturer:** A male educator, actively engaged and gesturing toward the whiteboard, indicating the instructional nature of the video.\n*   **Diagrams/Graphs:** The diagrammatic content is minimal, suggesting the start of the construction process. A single, smooth, vertical **curved line** is drawn in the middle-right section of the whiteboard. This line represents the cross-section of a spherical mirror. Given the title (Convex Mirror), this line is the preliminary sketch of the mirror's aperture.\n*   **Branding:** A logo is visible in the top right corner: **AMADER SCHOOL** (as detected by OCR).\n\n### 2. Physical Concepts or Phenomena Illustrated\n\nThe frame is dedicated to introducing the topic of reflection using specific optical instruments.\n\n*   **Primary Concept:** Geometrical Optics (Reflection).\n*   **Specific Phenomenon:** Image formation and ray tracing using spherical mirrors.\n*   **Instrument of Focus:** The **Convex Spherical Mirror** (*Uttal Darpan*). Convex mirrors are diverging reflectors that always produce virtual, upright (erect), and diminished images of real objects.\n\n### 3. Key Relationships or Structures Shown\n\nThe structures shown are the initial setup for a standard optical diagram:\n\n*   **The Mirror Surface:** The single curved line represents the reflector. In standard convention for a convex mirror drawn on a 2D plane, the reflective surface is the side curving away from the center of curvature (i.e., the reflective surface is implied to be the side facing the lecturer).\n*   **Implied Structures (Yet to be drawn):** The structure implies the subsequent drawing of the **Principal Axis**, the **Pole (P)**, the **Focus (F)**, and the **Center of Curvature (C)**, which are necessary to define the geometry and construct the ray paths.\n\n### 4. Labels, Annotations, or Text Visible\n\nTwo main pieces of textual information are visible: the lecture topic and the channel branding.\n\n*   **Topic Title (Bengali, Top Center):**\n    *   Text: **উত্তল দর্পণে রশ্মিচিত্র/প্রতিবিম্ব**\n    *   Translation: **Ray Diagram/Image in a Convex Mirror** (Uttal Darpone Rashmichitra/Protibimbo).\n*   **Branding (English/Bengali Transcription, Top Right):**\n    *   Text: **AMADER SCHOOL** (The channel/platform name).\n\n### 5. Educational Purpose of this Visual\n\nThe purpose of this visual setup is fundamentally pedagogical:\n\n*   **Instructional Objective:** To systematically teach students the fundamental rules (laws of reflection specific to spherical geometry) required to construct accurate **ray diagrams** for a convex mirror.\n*   **Procedural Goal:** To demonstrate the step-by-step process of locating the position and determining the characteristics (nature, size, orientation) of the virtual image formed when light rays reflect off a convex surface.\n*   **Introduction Phase:** The frame marks the beginning of the detailed derivation or construction process, transitioning from the theoretical statement (the title) to the practical graphical representation (the diagram)."
+    },
+    {
+      "frame_id": "REF_2_F1",
+      "frame_path": "data/frames/REF_2/frame_71548ms_offset_0s.jpg",
+      "timestamp_ms": 71548,
+      "offset_seconds": 0,
+      "perceptual_hash": "978f70e678e070f0",
+      "is_duplicate": false,
+      "quality": {
+        "blur_score": 174.8604377548771,
+        "brightness": 180.421953125,
+        "contrast": 46.802109835713516
+      },
+      "reference_id": "REF_2",
+      "mathpix_data": {
+        "request_id": "2025_10_02_ec886500e77e19a6f0dag",
+        "version": "SuperNet-106p1",
+        "is_printed": true,
+        "is_handwritten": true,
+        "auto_rotate_confidence": 0.003899507150890713,
+        "auto_rotate_degrees": 0,
+        "image_height": 720,
+        "image_width": 1280,
+        "confidence": 0.00545326051777743,
+        "confidence_rate": 0.8686174447047251,
+        "latex_styled": "\\begin{array}{l}\n\\text { তৎকা দর্পন রাশ্চিত্রু／প্রতিষ⿻丷木大 }\\\\\n\\text { AMADER }\\\\\n\\text { SCFOOL }\n\\end{array}",
+        "text": "তৎকা দর্পন রাশ্চিত্রু／প্রতিষ⿻丷木大\n\nAMADER\nSCFOOL"
+      },
+      "gemini_description": "This frame captures the beginning of a lesson in geometrical optics, specifically focusing on the properties and construction of images formed by a convex spherical mirror.\n\n---\n\n### 1. Visual Elements (Diagrams, Graphs, Illustrations)\n\nThe visual elements are minimalist, indicating the very start of the construction process:\n\n*   **Background:** A large white surface functioning as a whiteboard or projection screen.\n*   **Optical Element:** A single, vertically oriented, concave curve segment is drawn in black ink on the right side of the board.\n*   **Interpretation:** This curve represents the aperture of a **spherical mirror**. Given the topic title (Convex Mirror), the reflective surface is understood to be the outer, bulging side of the curve.\n*   **Instructor:** A male educator is positioned on the left, gesturing toward the board, indicating that the drawing and discussion are about to commence.\n\n### 2. Physical Concepts or Phenomena Illustrated\n\nThe frame is dedicated to introducing the following fundamental concepts in geometrical optics:\n\n*   **Reflection by Spherical Surfaces:** The behavior of light when encountering a curved reflecting boundary.\n*   **Convex Mirror Geometry:** The specific case where the reflecting surface is curved outwards, causing incident parallel rays to diverge upon reflection (virtual focus).\n*   **Ray Tracing (রশ্ৰিচিত্র):** The geometric method used to locate the position and determine the nature of an image by tracking specific incident and reflected rays.\n*   **Image Formation (প্রতিবিম্ব):** The process of determining the final image characteristics (position, size, and whether it is real or virtual, inverted or erect) produced by the mirror.\n\n### 3. Key Relationships or Structures Shown\n\nCurrently, only the fundamental component of the optical system is drawn, setting the stage for defining the critical structural relationships:\n\n*   **Mirror Aperture:** The drawn curve represents the boundary of the mirror.\n*   **Implied Principal Axis:** The instructor is about to draw the horizontal line passing through the Pole (P) and Center of Curvature (C) of the mirror, which is crucial for all ray tracing conventions.\n*   **Implied Center of Curvature (C) and Principal Focus (F):** For a convex mirror, both C and F lie *behind* the reflecting surface (i.e., to the right of the drawn line, assuming light approaches from the left), where virtual rays appear to converge.\n\n### 4. Labels, Annotations, or Text Visible\n\nThe text is written in Bengali (Bangla) and establishes the precise topic of the lecture:\n\n*   **Main Title (Top Center, Red Underline):**\n    > **উত্তল দর্পনে রশ্ৰিচিত্র / প্রতিবিম্ব**\n    *   *Translation:* Ray Diagram / Image Formation in a Convex Mirror.\n    *   *Technical Interpretation:* This defines the lecture scope as the analysis of image formation ($v$) in a diverging spherical mirror, using principles of reflection and standard ray constructions.\n\n*   **Branding/Watermark (Top Right):**\n    > **AMADER SCHOOL**\n    *   This identifies the source or educational platform.\n\n### 5. The Educational Purpose of This Visual\n\nThe visual serves as the **initial setup and foundational premise** for a detailed instructional segment on spherical optics.\n\n*   **Establishment of Context:** The title clearly informs the viewer that the focus is specifically on the convex mirror, which always produces virtual, erect, and diminished images, regardless of the object's position (unlike the concave mirror).\n*   **Preparation for Demonstration:** The single curved line acts as the placeholder for the subsequent construction of the ray diagram, where the instructor will geometrically demonstrate the required steps (drawing the principal axis, placing the object, tracing two key incident rays, and locating the final image).\n*   **Curriculum Alignment:** This topic is essential for introductory and advanced secondary school physics curricula covering light and optical instruments."
+    },
+    {
+      "frame_id": "REF_2_F2",
+      "frame_path": "data/frames/REF_2/frame_71548ms_offset_2s.jpg",
+      "timestamp_ms": 73548,
+      "offset_seconds": 2,
+      "perceptual_hash": "878ff066d9f0c870",
+      "is_duplicate": false,
+      "quality": {
+        "blur_score": 152.01475585923245,
+        "brightness": 183.5864822048611,
+        "contrast": 51.384248428288295
+      },
+      "reference_id": "REF_2",
+      "mathpix_data": {
+        "request_id": "2025_10_02_f5077e0af589f3995321g",
+        "version": "SuperNet-106p1",
+        "is_printed": true,
+        "is_handwritten": true,
+        "auto_rotate_confidence": 0.0008753610721008442,
+        "auto_rotate_degrees": 0,
+        "image_height": 720,
+        "image_width": 1280,
+        "confidence": 0.0016613402579829211,
+        "confidence_rate": 0.8521410063368385,
+        "text": "তাত্তল দর্পন রম্লিগুর / প্রতিষ্কট্র\n\nAMADER\nSCH00L\n\nASSN"
+      },
+      "gemini_description": "This frame captures the introduction phase of a physics lecture on geometrical optics, specifically focusing on the graphical method of determining image formation.\n\n## Detailed Analysis of the Frame\n\n### 1. Visual Elements (Diagrams, Graphs, Illustrations)\n\n*   **Setting:** A lecturer stands in front of a white surface (likely a whiteboard or digital screen).\n*   **Lecturer:** The instructor is visible, pointing with his right index finger toward the right side of the screen, directing attention to the drawing area.\n*   **Diagrammatic Element:** A single, smooth, curved vertical line is drawn on the whiteboard, positioned slightly to the right of the lecturer. This line represents the **cross-section of a spherical mirror**. Given the context established by the title, this is the reflecting surface of a **Convex Mirror**. (The outward-facing side is the reflective surface, although the shading/hatching to denote the non-reflective side is not yet drawn.)\n\n### 2. Physical Concepts or Phenomena Illustrated\n\n*   **Primary Concept:** Reflection of Light (Geometrical Optics).\n*   **Specific Topic:** Image Formation by Spherical Mirrors.\n*   **Phenomenon:** The use of **ray diagrams (রশ্মিচিত্র)** to geometrically locate the position, size, and nature (real/virtual, erect/inverted) of the image formed when an object is placed in front of a **Convex Mirror (উত্তল দর্পন)**.\n*   **Initial State:** The visual is setting up the standard starting geometry for reflection analysis.\n\n### 3. Key Relationships or Structures Shown\n\n*   **Convex Mirror Representation:** The curve represents the curved surface of the mirror. In a convex mirror, the center of curvature (C) and the principal focus (F) are located on the non-reflective (virtual) side of the mirror, behind the reflecting surface shown.\n*   **Implied Structure:** The single curve implies the upcoming addition of the following key structural elements necessary for a ray diagram:\n    *   The Principal Axis (horizontal line passing through the pole).\n    *   The Pole (P) (center point of the mirror surface).\n    *   The Focus (F) and Center of Curvature (C).\n\n### 4. Labels, Annotations, or Text Visible\n\n*   **Header (Bengali Text - Corrected OCR):**\n    > **উত্তল দর্পণে রশ্মিচিত্র / প্রতিবিম্ব**\n*   **Translation/Meaning:**\n    > **\"In a Convex Mirror: Ray Diagram / Image\"**\n*   **Branding:** The top right corner includes a banner or logo identifying the source: **\"AMADER SCHOOL ASSN.\"** (Amader School Association).\n\n### 5. The Educational Purpose of this Visual\n\nThe visual serves as the **introductory setup** for the lesson on Convex Mirror image formation.\n\n*   **Pedagogical Goal:** To define the topic clearly for the students and immediately begin the graphical demonstration (ray tracing).\n*   **Procedural Function:** The lecturer has drawn the first essential component (the mirror itself) and is signaling the next step, which will involve drawing the principal axis and placing an object to commence the required ray tracing rules (e.g., parallel rays appear to diverge from F).\n*   **Target Audience:** Students studying secondary or higher secondary level physics (Optics chapter)."
+    },
+    {
+      "frame_id": "REF_15_F0",
+      "frame_path": "data/frames/REF_15/frame_214644ms_offset_-2s.jpg",
+      "timestamp_ms": 212644,
+      "offset_seconds": -2,
+      "perceptual_hash": "8386d8f35c70f0f8",
+      "is_duplicate": false,
+      "quality": {
+        "blur_score": 227.10750927884015,
+        "brightness": 166.02731336805556,
+        "contrast": 52.034712498112015
+      },
+      "reference_id": "REF_15",
+      "mathpix_data": {
+        "error": "HTTPSConnectionPool(host='api.mathpix.com', port=443): Max retries exceeded with url: /v3/text (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7fd9e0110380>: Failed to resolve 'api.mathpix.com' ([Errno -3] Temporary failure in name resolution)\"))",
+        "text": "",
+        "latex": ""
+      },
+      "gemini_description": "This frame captures a segment of a physics lecture focused on geometrical optics, specifically dealing with convex spherical mirrors.\n\n---\n\n### 1. Visual Elements (Diagrams, Graphs, Illustrations)\n\n**A. Spherical Mirror Diagram:**\n*   **Type:** A representation of a **Convex Mirror** (also known as a diverging mirror), denoted by the curved line segment $M P M'$ with hatching on the convex side (left), indicating that the reflective surface is the inner concave surface (to the right). *Correction: The diagram shows the reflective surface (unhatched) on the right side of the curve, facing away from the incident light source (implied left). The hatching is on the left side. This confirms it is a Convex Mirror.*\n*   **Principal Axis:** A horizontal line passing through the labeled points.\n*   **Key Points:**\n    *   **P:** Pole of the mirror (where the principal axis meets the mirror surface).\n    *   **F:** Principal Focus (Focal Point). Located behind the mirror's reflective surface.\n    *   **C:** Center of Curvature. Located behind the mirror, equidistant from P as F is.\n*   **Other Markings:** Several short, vertical arrows are drawn along the principal axis between C and P, suggesting the region of light interaction or the axis itself.\n\n**B. Instructor Activity:**\n*   A male instructor is visible on the left, facing the whiteboard and writing on the diagram (specifically near the top center) with a marker.\n\n### 2. Physical Concepts or Phenomena Illustrated\n\nThe visual illustrates the fundamental geometric properties of a **Convex Spherical Mirror** under the paraxial approximation.\n*   **Concept:** Geometrical Optics, specifically the definition of the focal length and radius of curvature for spherical reflectors.\n*   **Phenomenon:** The geometric relationship demonstrating that the principal focus (F) is located halfway between the pole (P) and the center of curvature (C).\n\n### 3. Key Relationships or Structures Shown\n\nThe frame displays definitions and a fundamental derived relationship for spherical mirrors:\n\n*   **Definition of Radius of Curvature (R):**\n    $$CP = R$$\n    (The distance from the Center of Curvature to the Pole.)\n*   **Definition of Focal Length (f):**\n    $$FP = f$$\n    (The distance from the Focal Point to the Pole.)\n*   **Fundamental Relationship (boxed):**\n    $$f = \\frac{R}{2}$$\n    (The focal length is half the radius of curvature. Note: The instructor appears to have written $R$ in place of $f$ in the box, suggesting a potential transcription error during writing or a common pedagogical shorthand, but the standard physical relationship is $f = R/2$. Assuming $f$ was intended for the left side of the equation, as $f$ is defined above.)\n\n### 4. Any Labels, Annotations, or Text Visible\n\n**A. Title (in Bengali):**\n*   **Text:** `উত্তল দর্পণে রশ্মিচিত্র/প্রতিবিম্ব`\n*   **Translation:** Ray Diagram/Image Formation in a Convex Mirror.\n\n**B. Mathematical Definitions (English/Greek symbols):**\n*   $$CP = R$$\n*   $$FP = f$$\n*   $$f = \\frac{R}{2}$$ (Assuming the first variable in the boxed equation is $f$ based on context, although it visually resembles a Greek $\\rho$ or $r$, often used for $R$, which would make the equation redundant if $R = R/2$.) *Self-Correction: Given the standard convention and the definitions above, the boxed equation is definitively meant to be $f = R/2$ or $r = R/2$, establishing the focal length relationship.*\n\n**C. Diagram Labels:**\n*   M, P, M' (Aperture/Pole)\n*   C (Center of Curvature)\n*   F (Focal Point)\n\n### 5. The Educational Purpose of This Visual\n\nThe primary educational purpose of this visual is two-fold:\n1.  **Define Terms:** To establish and visualize the definitions of the pole (P), center of curvature (C), focal point (F), radius of curvature ($R$), and focal length ($f$) specific to a convex mirror.\n2.  **State Fundamental Relation:** To introduce or summarize the critical mathematical relationship $f = R/2$, which is prerequisite knowledge for performing ray tracing or solving mirror formula problems in geometrical optics."
+    },
+    {
+      "frame_id": "REF_15_F1",
+      "frame_path": "data/frames/REF_15/frame_214644ms_offset_0s.jpg",
+      "timestamp_ms": 214644,
+      "offset_seconds": 0,
+      "perceptual_hash": "af9fd2e0f860e0e0",
+      "is_duplicate": false,
+      "quality": {
+        "blur_score": 248.86328760951955,
+        "brightness": 180.76446940104168,
+        "contrast": 56.242442620701105
+      },
+      "reference_id": "REF_15",
+      "mathpix_data": {
+        "request_id": "2025_10_02_3c61f8834211a7674c9cg",
+        "version": "SuperNet-106p1",
+        "is_printed": true,
+        "is_handwritten": true,
+        "auto_rotate_confidence": 0.026284936596312036,
+        "auto_rotate_degrees": 0,
+        "image_height": 720,
+        "image_width": 1280,
+        "confidence": 0.006273163822459503,
+        "confidence_rate": 0.8862560348129679,
+        "latex_styled": "\\begin{array}{l}\n\\text { দতকল দর্পনে রাজ্যগুর / প্রতিষ্কর্ধ্ব- }\\\\\n\\text { SCHOOL }\\\\\n\\begin{aligned}\np & =r \\\\\nF p & =f \\\\\nr & =\\frac{r}{2}\n\\end{aligned}\n\\end{array}",
+        "text": "দতকল দর্পনে রাজ্যগুর / প্রতিষ্কর্ধ্ব-\nSCHOOL\n\\[\n\\begin{aligned}\np & =r \\\\\nF p & =f \\\\\nr & =\\frac{r}{2}\n\\end{aligned}\n\\]"
+      },
+      "gemini_description": "This frame captures a critical section of a physics lecture focused on geometrical optics. The lecturer is drawing and explaining the fundamental parameters and relationships governing a convex spherical mirror.\n\n## Detailed Analysis\n\n### 1. Visual Elements (Diagrams, Graphs, Illustrations)\n\nThe central visual element is a **ray diagram** illustrating a convex spherical mirror.\n\n*   **Mirror Representation:** A curved line segment, labeled $M M'$, represents the mirror's aperture. Hatch marks are implied or present on the concave side (right side), indicating that the convex side (left side) is the reflective surface.\n*   **Principal Axis:** A horizontal line extends to the left from the mirror, defining the axis of symmetry.\n*   **Key Points:** The diagram includes the Pole ($P$) where the principal axis meets the mirror. A point $F$ (Focus) is marked behind the reflective surface (virtual space). The point $C$ (Center of Curvature) is implied by the distance measurement $CP$.\n*   **Objects/Images:** Two small vertical red arrows, numbered '1' and '2', are drawn far to the left of the mirror, representing possible object positions. Smaller red arrows closer to the mirror appear to represent the virtual, diminished images formed by the convex mirror.\n*   **Lecturer Action:** The instructor is actively writing/tracing the focal length ($f$) on the diagram, confirming the geometrical relationship being discussed.\n\n### 2. Physical Concepts or Phenomena Illustrated\n\nThe primary concepts illustrated are:\n\n*   **Reflection by Spherical Mirrors:** Specifically, the properties of a **Convex Mirror** (also known as a diverging mirror).\n*   **Principal Axis and Pole:** Establishing the reference line and origin for measurements.\n*   **Focal Length ($f$):** The distance defining where parallel rays appear to diverge from after reflection.\n*   **Radius of Curvature ($R$):** The radius of the sphere from which the mirror section is taken.\n*   **Image Formation:** The title suggests the lecture focuses on deriving image properties (virtual, erect, diminished) for objects placed in front of a convex mirror.\n\n### 3. Key Relationships or Structures Shown\n\nThe frame features mathematical definitions defining the fundamental geometry of the mirror, written below the principal axis (the actual symbols used by the lecturer are interpreted using standard physics notation):\n\n| Written Relationship | Standard Physics Interpretation | Definition |\n| :--- | :--- | :--- |\n| $CP = R$ (or $CP = r$) | $R$ (Radius of Curvature) | Distance between the Pole (P) and the Center of Curvature (C). |\n| $FP = f$ | $f$ (Focal Length) | Distance between the Pole (P) and the Principal Focus (F). |\n| $\\gamma = \\frac{r}{2}$ (Boxed) | $f = \\frac{R}{2}$ | The fundamental relationship stating that the focal length of a spherical mirror is half its radius of curvature, provided the mirror has a small aperture. |\n\n*(Note: The Greek letter 'gamma' or a simple 'r' is visually represented by the lecturer instead of the standard 'f' or 'R', but the context mandates the $f = R/2$ interpretation.)*\n\n### 4. Labels, Annotations, or Text Visible\n\n*   **Title (Bengali):** \"উত্তল দর্পনে রশ্মিচিত্র/প্রতিবিম্ব\"\n    *   *Translation:* Ray diagram/Image formation in a Convex Mirror.\n*   **Mirror Labels:** $M, M', P, F$.\n*   **Object/Image Annotations:** Numbers '1' and '2' indicating object placement; red arrows indicating orientations.\n*   **Algebraic Definitions:** $CP = R$, $FP = f$, and the boxed relation $f = R/2$.\n*   **Branding:** \"AMADER SCHOOL\" logo is visible in the top right corner.\n\n### 5. The Educational Purpose of This Visual\n\nThe primary educational purpose is to establish the geometric foundation necessary for ray tracing and image analysis for a convex mirror. Specifically, this visual serves to:\n\n*   **Define Key Terminology:** Introduce and locate the Pole ($P$), Focal Point ($F$), Center of Curvature ($C$), Focal Length ($f$), and Radius of Curvature ($R$).\n*   **State the Fundamental Geometric Law:** Explicitly demonstrate and prove the relationship $f = R/2$, which is crucial for all subsequent calculations and derivations using the mirror formula.\n*   **Set up Ray Tracing:** Provide the context (the mirror, the principal axis, and potential objects) needed to proceed with drawing the principal rays to determine the location and characteristics of the image."
+    },
+    {
+      "frame_id": "REF_15_F2",
+      "frame_path": "data/frames/REF_15/frame_214644ms_offset_2s.jpg",
+      "timestamp_ms": 216644,
+      "offset_seconds": 2,
+      "perceptual_hash": "be9fd2e0d160c1e1",
+      "is_duplicate": false,
+      "quality": {
+        "blur_score": 239.01348834988517,
+        "brightness": 189.51637261284722,
+        "contrast": 57.47667747639686
+      },
+      "reference_id": "REF_15",
+      "mathpix_data": {
+        "request_id": "2025_10_02_faebc3045cbbfb9fb01bg",
+        "version": "SuperNet-106p1",
+        "is_printed": false,
+        "is_handwritten": false,
+        "auto_rotate_confidence": 0.20082995491727385,
+        "auto_rotate_degrees": 0,
+        "image_height": 720,
+        "image_width": 1280,
+        "error": "Content not found",
+        "error_info": {
+          "id": "image_no_content",
+          "message": "Content not found"
+        },
+        "line_data": []
+      },
+      "gemini_description": "This frame captures the instructor setting up a diagram on a whiteboard to illustrate the principles of image formation using a spherical mirror.\n\n## 1. Visual Elements (Diagrams, Graphs, Illustrations)\n\nThe visual elements consist of a setup for ray tracing in geometrical optics:\n\n*   **Mirror:** A vertical, curved line segment (labeled $MM'$ for the mirror aperture) is drawn. Hatch marks are placed behind the concave surface, indicating that the reflective side is the **convex** surface (facing left).\n*   **Principal Axis:** A horizontal line extends from the left, intersecting the mirror at a point $P$.\n*   **Key Points:**\n    *   $P$: The Pole of the mirror, where the principal axis meets the reflecting surface.\n    *   $C$: The Center of Curvature, located on the principal axis to the left of $P$.\n    *   (The Focal Point $F$ is implicitly located between $C$ and $P$, although it is not explicitly labeled on the axis in the visible portion of the diagram, it is referenced in the formula below).\n*   **Objects:** Multiple upward-pointing red arrows, numbered 1 through approximately 6, are drawn along the principal axis. These represent physical objects placed at various distances ($u$) from the convex mirror. The numbered arrows represent systematic object placement, moving from potentially infinite distance (1) closer to the mirror (6).\n\n## 2. Physical Concepts or Phenomena Illustrated\n\nThe frame illustrates fundamental concepts in **Geometrical Optics** related to reflection from spherical surfaces:\n\n*   **Convex Mirror Image Formation:** The primary topic is analyzing the characteristics (position, size, nature) of images formed by a convex mirror as the object distance changes.\n*   **Ray Diagrams (Rashichitra):** The setup is the prerequisite step for drawing ray diagrams to locate images.\n*   **Mirror Parameters:** Defining and labeling the key geometric parameters of a spherical mirror: Pole ($P$), Center of Curvature ($C$), and Radius of Curvature ($R$).\n*   **Focal Length Relationship:** Defining the mathematical relationship between the focal length and the radius of curvature.\n\n## 3. Key Relationships or Structures Shown\n\nA fundamental mathematical relationship applicable to paraxial rays reflecting off spherical mirrors is explicitly written and boxed:\n\n*   **Labels:** $CP$ (representing the Radius of Curvature, $R$) and $F$ (representing the Focal Length, $f$).\n*   **Formula:**\n    $$F = \\frac{CP}{2}$$\n    (This is the standard relationship $f = R/2$).\n\n## 4. Labels, Annotations, or Text Visible\n\n### Bengali Text (Title, Top Center):\n*   **উত্তল দর্পণে রশ্বিচত্র/প্রতিবিম্ব**\n    *   *Transliteration:* Uttal Darpone Rashichitra/Protibimbo\n    *   *Meaning:* Ray Diagram/Image in a Convex Mirror\n\n### Diagram Labels:\n*   $M, M'$ (Mirror Aperture)\n*   $P$ (Pole)\n*   $C$ (Center of Curvature)\n*   $1, 2, 3, 4, 5, 6$ (Object positions)\n\n### Formula Labels (Lower Right):\n*   $CP$\n*   $F$\n*   $F = \\frac{CP}{2}$ (Boxed in red)\n\n## 5. The Educational Purpose of This Visual\n\nThe visual serves to:\n\n1.  **Define the Geometry:** Establish the standard reference points ($P$, $C$) and axis necessary for studying spherical mirror reflection.\n2.  **State the Principle Relationship:** Introduce the crucial approximation $f = R/2$ relating focal length to the radius of curvature.\n3.  **Set up for Case Analysis:** The multiple numbered object positions (1-6) indicate that the instructor is systematically preparing to demonstrate how the image characteristics change based on the object's distance from the convex mirror. (In a convex mirror, all virtual images are formed between $P$ and $F$, regardless of object distance, but the size changes.)"
+    },
+    {
+      "frame_id": "REF_16_F0",
+      "frame_path": "data/frames/REF_16/frame_286192ms_offset_-2s.jpg",
+      "timestamp_ms": 284192,
+      "offset_seconds": -2,
+      "perceptual_hash": "8386f8f07470f8f8",
+      "is_duplicate": false,
+      "quality": {
+        "blur_score": 169.9051863966093,
+        "brightness": 144.57771809895834,
+        "contrast": 47.40287032742892
+      },
+      "reference_id": "REF_16",
+      "mathpix_data": {
+        "request_id": "2025_10_02_8a581b2809e00f7cf6bbg",
+        "version": "SuperNet-106p1",
+        "is_printed": true,
+        "is_handwritten": true,
+        "auto_rotate_confidence": 0.24473743169090412,
+        "auto_rotate_degrees": 0,
+        "image_height": 720,
+        "image_width": 1280,
+        "confidence": 0.9931790705336425,
+        "confidence_rate": 0.9997718827449888,
+        "text": "AMADER\nSCHOOL\n\\[\n\\begin{array}{l}\nc p=r \\\\\nF p=f \\\\\nr=\\frac{r}{2}\n\\end{array}\n\\]"
+      },
+      "gemini_description": "This frame captures a segment of a Bengali lecture focused on Geometric Optics, specifically the properties and ray tracing for convex spherical mirrors.\n\n---\n\n### 1. Visual Elements (Diagrams, Graphs, Illustrations)\n\n*   **Spherical Mirror:** A diagram of a convex spherical mirror (উত্তল দর্পণ). The mirror is drawn as a vertical arc segment (M-M'). The hatching/shading appears to be on the left (the interior surface), confirming the reflection occurs on the right, outward-bulging surface.\n*   **Principal Axis:** A long horizontal line extending through the center of the diagram, defining the optical axis.\n*   **Object Representation:** Multiple small, upward vertical arrows, numbered 1 through 6, are drawn to the right of the mirror (in front of the reflective surface). These indicate different hypothetical object positions for demonstrating image formation.\n*   **Distances:** Red curved bracket lines are used below the principal axis to delineate specific distances between defined points.\n\n### 2. Physical Concepts or Phenomena Illustrated\n\n*   **Convex Mirror Geometry:** The fundamental geometry of a convex spherical reflector is established.\n*   **Key Optical Points:** The diagram defines and labels the critical points used in spherical mirror analysis:\n    *   **P (Pole):** The point where the principal axis intersects the mirror surface.\n    *   **F (Principal Focus or Focal Point):** The point on the principal axis where rays parallel to the axis *appear* to diverge from after reflection (virtual focus).\n    *   **C (Center of Curvature):** The center of the sphere of which the mirror is a part (virtual point).\n*   **Definition of Parameters:** The mathematical definitions of the radius of curvature and focal length are shown.\n*   **Image Formation (Setup):** The numbered arrows indicate the necessary prerequisite setup for tracing ray diagrams (রশ্মিচিত্র) to analyze how object position affects image characteristics.\n\n### 3. Key Relationships or Structures Shown\n\nThe frame establishes the algebraic definitions of optical distances, located to the right and slightly below the diagram:\n\n*   **Radius of Curvature:** $CP = r$ (The distance between the Center of Curvature (C) and the Pole (P) is the radius $r$).\n*   **Focal Length:** $FP = f$ (The distance between the Focus (F) and the Pole (P) is the focal length $f$).\n*   **Mirror Equation Derivation (Fundamental Relationship):** A boxed equation highlights the critical geometric relationship, valid under the paraxial approximation:\n    $$f = \\frac{r}{2}$$\n    (The focal length is half the radius of curvature.)\n\n### 4. Labels, Annotations, or Text Visible\n\n*   **Header (Bengali):** উত্তল দর্পণে রশ্মিচিত্র/প্রতিবিম্ব (Ray diagrams/Image formation in a Convex Mirror).\n*   **Key Points:** C, F, P, M, M'.\n*   **Object Positions:** Numbered labels 1, 2, 3, 4, 5, 6 (above the object arrows).\n*   **Geometric Equations:** $CP = r$, $FP = f$, and the boxed $f = r/2$.\n*   **Branding:** AMADER SCHOOL logo in the upper right.\n\n### 5. The Educational Purpose of This Visual\n\nThe primary educational purpose is to provide the foundational geometric framework necessary for understanding image formation in convex mirrors. Specifically, it serves to:\n\n1.  **Introduce Terminology:** Define $r$ and $f$ and their corresponding physical locations (C and F).\n2.  **Establish the Paraxial Relation:** Mathematically prove or state the crucial relationship $f = r/2$.\n3.  **Setup for Ray Tracing:** Prepare the class for the subsequent activity of tracing ray paths and deriving the characteristics (location, size, nature) of images formed by objects placed at various distances (1 through 6) in front of the convex mirror."
+    },
+    {
+      "frame_id": "REF_16_F1",
+      "frame_path": "data/frames/REF_16/frame_286192ms_offset_0s.jpg",
+      "timestamp_ms": 286192,
+      "offset_seconds": 0,
+      "perceptual_hash": "98c0feff10717e40",
+      "is_duplicate": false,
+      "quality": {
+        "blur_score": 217.45973404410927,
+        "brightness": 153.8135112847222,
+        "contrast": 35.6591345750721
+      },
+      "reference_id": "REF_16",
+      "mathpix_data": {
+        "request_id": "2025_10_02_aab8612d408562dcc43dg",
+        "version": "SuperNet-106p1",
+        "is_printed": true,
+        "is_handwritten": true,
+        "auto_rotate_confidence": 0.0008822630477389737,
+        "auto_rotate_degrees": 0,
+        "image_height": 720,
+        "image_width": 1280,
+        "confidence": 0.9198823312348203,
+        "confidence_rate": 0.9972202201645176,
+        "latex_styled": "\\begin{array}{l}\n\\text { AMADER }\\\\\n\\text { SCHOOL }\\\\\n\\begin{array}{l}\nc p=r \\\\\nF p=f \\\\\nr=\\frac{r}{2}\n\\end{array}\n\\end{array}",
+        "text": "AMADER\nSCHOOL\n\\[\n\\begin{array}{l}\nc p=r \\\\\nF p=f \\\\\nr=\\frac{r}{2}\n\\end{array}\n\\]"
+      },
+      "gemini_description": "This frame captures a segment of a lecture on geometric optics, specifically focusing on the properties and definitions related to a convex spherical mirror.\n\n---\n\n### 1. Visual Elements (Diagrams, Graphs, Illustrations)\n\n*   **Spherical Mirror:** A segment of a convex mirror ($M M'$) is drawn vertically on the right side of the whiteboard. The non-reflective (concave) side is indicated by hatching lines on the left side of the curve.\n*   **Principal Axis:** A long horizontal line extends from the mirror's pole ($P$), representing the principal axis.\n*   **Key Points:**\n    *   **P (Pole):** The point where the principal axis intersects the mirror surface.\n    *   **F (Principal Focus):** A labeled point on the principal axis behind the mirror (on the reflective side).\n    *   **C (Center of Curvature):** A labeled point further behind the mirror.\n*   **Object Positions:** Six upward arrows, numbered 1 through 6, are drawn along the principal axis in front of the mirror (the object space). These denote various object positions ranging from far away (position 1) to very close to the mirror (position 6), illustrating different scenarios for image formation.\n*   **Distance Annotations:** Curved bracket lines indicate the measured segments: the distance $CP$ and the distance $FP$.\n\n### 2. Physical Concepts or Phenomena Illustrated\n\nThe frame illustrates the **geometry of a convex spherical mirror** and the fundamental concepts required for **ray tracing and image formation** (the subject is confirmed by the Bengali title: \"Ray diagrams/Images in a Convex Mirror\").\n\n*   **Principal Focus (F):** The point from which rays parallel to the principal axis appear to diverge after reflection.\n*   **Center of Curvature (C):** The center of the sphere of which the mirror is a part.\n*   **Radius of Curvature (r or R):** The distance from the pole to the center of curvature ($CP$).\n*   **Focal Length (f):** The distance from the pole to the principal focus ($FP$).\n\n### 3. Key Relationships or Structures Shown\n\nMathematical definitions and relationships are explicitly stated:\n\n1.  $CP = r$ (The distance from the Center of Curvature to the Pole is the Radius of Curvature, $r$).\n2.  $FP = f$ (The distance from the Focus to the Pole is the Focal Length, $f$).\n3.  $f = \\frac{r}{2}$ (This equation, highlighted by a red box, states the fundamental relationship that the focal length of a spherical mirror is half its radius of curvature, applicable to paraxial rays).\n\n### 4. Labels, Annotations, or Text Visible\n\n*   **Header (Bengali):** \"উত্তল দর্পণে রশ্বিচিত্র/প্রতিবিম্ব\" (Ray diagrams/Images in a Convex Mirror).\n*   **Brand/Channel:** \"AMADER SCHOOL\".\n*   **Diagram Labels:** $M, M', P, F, C$, and numbers 1 through 6 for object positions.\n*   **Mathematical Definitions (as detected by OCR):**\n    *   $CP = r$\n    *   $FP = f$\n    *   $f = \\frac{r}{2}$ (The equation is correctly identified as $f$ being defined in terms of $r/2$).\n\n### 5. The Educational Purpose of This Visual\n\nThe primary educational purpose is to:\n\n1.  **Establish Nomenclature:** Define the standard terminology (Pole, Focus, Center of Curvature) and corresponding measurement variables ($f$ and $r$) used in geometric optics for spherical mirrors.\n2.  **State Fundamental Relationship:** Mathematically introduce the critical relationship between focal length and radius of curvature ($f = r/2$) which is essential for calculations and construction.\n3.  **Set up Case Analysis:** The inclusion of six numbered object positions (1-6) prepares the student for a systematic analysis of how the position, size, and nature of the image formed by a convex mirror change as the object is moved closer to the mirror surface."
+    },
+    {
+      "frame_id": "REF_16_F2",
+      "frame_path": "data/frames/REF_16/frame_286192ms_offset_2s.jpg",
+      "timestamp_ms": 288192,
+      "offset_seconds": 2,
+      "perceptual_hash": "b78fc0f078f0e01e",
+      "is_duplicate": false,
+      "quality": {
+        "blur_score": 250.19881816242233,
+        "brightness": 148.62144639756946,
+        "contrast": 43.164177920433325
+      },
+      "reference_id": "REF_16",
+      "mathpix_data": {
+        "request_id": "2025_10_02_e8cc9263c53ff8678ac8g",
+        "version": "SuperNet-106p1",
+        "is_printed": true,
+        "is_handwritten": true,
+        "auto_rotate_confidence": 0.014958344338751317,
+        "auto_rotate_degrees": 0,
+        "image_height": 720,
+        "image_width": 1280,
+        "confidence": 0.00325407328981107,
+        "confidence_rate": 0.8696159482439957,
+        "latex_styled": "\\begin{array}{l}\n\\text { দতকল দর্পরণ কাঙ্গগুল/প্রতিষ্কর্ধ্ব-। }\\\\\n\\text { AMADER }\\\\\n\\text { SCHOOL }\\\\\n\\begin{array}{l}\nc p=r \\\\\nF p=f \\\\\nr=\\frac{r}{2}\n\\end{array}\n\\end{array}",
+        "text": "দতকল দর্পরণ কাঙ্গগুল/প্রতিষ্কর্ধ্ব-।\n\nAMADER\nSCHOOL\n\\[\n\\begin{array}{l}\nc p=r \\\\\nF p=f \\\\\nr=\\frac{r}{2}\n\\end{array}\n\\]"
+      },
+      "gemini_description": "This frame captures a critical moment in a Bengali physics lecture on geometrical optics, focusing on the fundamental parameters of spherical mirrors.\n\n## Detailed Analysis\n\n### 1. Visual Elements (Diagrams, Graphs, Illustrations)\n\n**A. Mirror Diagram:**\nThe central visual element is a schematic drawing of a spherical mirror. Based on the hatching (hash marks indicating the non-reflecting surface being the exterior side), the diagram illustrates a **Concave Mirror** (reflecting surface facing left).\n\n*   **Principal Axis:** A horizontal line runs through the center of the diagram, defining the optical axis.\n*   **Key Points:**\n    *   **P (Pole):** The point where the principal axis intersects the mirror surface.\n    *   **F (Principal Focus):** A point on the principal axis.\n    *   **C (Center of Curvature):** A point on the principal axis, located twice the distance of F from P ($CP = 2FP$).\n*   **Aperture:** The mirror edges are labeled M and M' (MM' representing the aperture of the mirror).\n*   **Objects/Positions:** Six small, upright red arrows, labeled 1 through 6, are shown along the principal axis. These typically represent various object positions used to demonstrate image formation rules, although they are not being actively traced in this particular static frame.\n\n**B. Instructor:**\nThe instructor is positioned in the lower left, actively pointing toward the diagram or the associated algebraic relationships with a marker, indicating he is explaining or reinforcing the written content.\n\n### 2. Physical Concepts or Phenomena Illustrated\n\nThe primary physical concept illustrated is the **Terminology and Parameters of Spherical Mirrors** (Geometrical Optics).\n\n*   **Mirror Type:** Although the diagram is drawn as a concave mirror, the title specifically refers to a **Convex Mirror** (উত্তল দর্পণ). This suggests the lesson is either defining the parameters common to all spherical mirrors, or transitioning to the convex case after illustrating the reference points C and F.\n*   **Key Parameters Defined:** Radius of Curvature ($R$) and Focal Length ($f$).\n*   **Topic (from title):** Ray Diagrams and Image Formation (রশ্মিচিত্র/প্রতিবিম্ব).\n\n### 3. Key Relationships or Structures Shown\n\nThree fundamental algebraic relationships defining the geometry of the spherical mirror are written on the board:\n\n1.  **$CP = R$:** Defines $R$ (Radius of Curvature) as the distance between the Center of Curvature (C) and the Pole (P).\n2.  **$FP = f$:** Defines $f$ (Focal Length) as the distance between the Principal Focus (F) and the Pole (P).\n3.  **$f = \\frac{R}{2}$:** This is the most crucial relationship, stating that the focal length is precisely half the radius of curvature for spherical mirrors with small apertures (the parabolic approximation). This formula is visually highlighted with a red bounding box.\n\n### 4. Labels, Annotations, or Text Visible\n\n**A. Header (Bengali Text):**\nThe top line is written in Bengali, reading:\n\"উত্তল দর্পণে রশ্মিচিত্র/প্রতিবিম্ব\"\n(Uthol Dorpone Roshmichitro / Protibimbo)\n*Translation:* Ray Diagram / Image Formation in a Convex Mirror.\n*(Note: The OCR attempted to transcribe this but resulted in inaccurate text, \"দতকল দর্পরণ কাঙ্গগুল/প্রতিষ্কর্ধ্ব-।\")*\n\n**B. Institutional Label:**\nIn the upper right corner, the branding **\"AMADER SCHOOL\"** is visible.\n\n**C. Diagram Labels:**\nP, F, C, M, M', and numerical labels 1 through 6.\n\n**D. Equations (as listed in Section 3):**\n$CP = R$\n$FP = f$\n$f = \\frac{R}{2}$\n\n### 5. Educational Purpose of this Visual\n\nThe educational purpose is twofold:\n\n1.  **Terminology Establishment:** To clearly define the key physical components of a spherical mirror (P, F, C) and the distances derived from them (Radius of Curvature $R$ and Focal Length $f$).\n2.  **Fundamental Law Reinforcement:** To algebraically establish and highlight the critical relationship $f = R/2$, which is prerequisite knowledge for constructing accurate ray diagrams and applying the mirror formula ($\\frac{1}{u} + \\frac{1}{v} = \\frac{1}{f}$)."
+    },
+    {
+      "frame_id": "REF_17_F0",
+      "frame_path": "data/frames/REF_17/frame_357740ms_offset_-2s.jpg",
+      "timestamp_ms": 355740,
+      "offset_seconds": -2,
+      "perceptual_hash": "bedce0c762c143e1",
+      "is_duplicate": false,
+      "quality": {
+        "blur_score": 319.8007109589001,
+        "brightness": 175.44349717881946,
+        "contrast": 45.99852699144384
+      },
+      "reference_id": "REF_17",
+      "mathpix_data": {
+        "request_id": "2025_10_02_156b6032af9b577b6175g",
+        "version": "SuperNet-106p1",
+        "is_printed": true,
+        "is_handwritten": true,
+        "auto_rotate_confidence": 0.0028812831988034304,
+        "auto_rotate_degrees": 0,
+        "image_height": 720,
+        "image_width": 1280,
+        "confidence": 0.7234610624145716,
+        "confidence_rate": 0.9710007383908182,
+        "latex_styled": "\\begin{array}{l}\n\\text { AMADER }\\\\\n\\text { SCFOOL }\\\\\n\\begin{array}{l}\nc p=r \\\\\nF p=f \\\\\nr=\\frac{r}{2}\n\\end{array}\n\\end{array}",
+        "text": "AMADER\nSCFOOL\n\\[\n\\begin{array}{l}\nc p=r \\\\\nF p=f \\\\\nr=\\frac{r}{2}\n\\end{array}\n\\]"
+      },
+      "gemini_description": "This frame is taken from a Bengali educational video focused on geometrical optics, specifically discussing image formation using a convex mirror.\n\n---\n\n## Detailed Analysis\n\n### 1. Visual Elements (Diagrams, Graphs, Illustrations)\n\nThe central visual element is a hand-drawn diagram illustrating the key components of a spherical mirror system:\n\n*   **The Mirror:** A vertical, outwardly curved line segment labeled $M M'$. Hatch marks are visible on the left, indicating that the reflective surface (the active surface) is on the right, confirming this is a **Convex Mirror**.\n*   **Principal Axis:** A horizontal straight line passing through the system.\n*   **Key Points:**\n    *   **P (Pole):** The point where the principal axis meets the mirror.\n    *   **C (Center of Curvature):** A point located on the principal axis to the left of the mirror, representing the center of the sphere from which the mirror is cut.\n    *   **F (Principal Focus or Focal Point):** A point located on the principal axis between C and P.\n*   **Object Positions:** Six upward-pointing arrows, sequentially numbered 1 through 6, are drawn along the principal axis to the left of the mirror. These represent potential object positions (or different objects) placed at varying distances from the mirror.\n*   **Distance Notation:** Red arcs or underscoring lines are used to highlight the segments $CP$ and $FP$.\n\n### 2. Physical Concepts or Phenomena Illustrated\n\nThe visual illustrates the foundational elements of **Geometrical Optics** related to **Reflection by Spherical Mirrors**.\n\n*   **Convex Mirror Geometry:** Defines the fundamental physical structure and the location of the Pole ($P$), Center of Curvature ($C$), and Principal Focus ($F$) relative to a convex reflecting surface.\n*   **Focal Length and Radius of Curvature:** Defines the distance measurements inherent to the mirror structure.\n*   **Image Formation Prerequisites:** By marking various object positions (1-6), the diagram sets the stage for demonstrating the ray diagrams (রশ্মিচিত্র) and determining the characteristics (position, nature, size) of the images (প্রতিবিম্ব) formed by a convex mirror, regardless of object position.\n\n### 3. Key Relationships or Structures Shown\n\nThe frame explicitly defines and states the standard mathematical relationship between the fundamental distances of the mirror:\n\n| Relationship | Symbol/Definition | Description |\n| :--- | :--- | :--- |\n| **Radius of Curvature** | $CP = r$ | The distance between the Pole ($P$) and the Center of Curvature ($C$). |\n| **Focal Length** | $FP = f$ | The distance between the Pole ($P$) and the Principal Focus ($F$). |\n| **Mirror Formula Foundation** | $f = r/2$ | The key relationship showing that the focal length ($f$) is exactly half the radius of curvature ($r$) for a paraxial ray approximation in a spherical mirror. |\n\n### 4. Labels, Annotations, or Text Visible\n\n*   **Lecture Title (Bengali):** \"উত্তল দর্পণে রশ্মিচিত্র/প্রতিবিম্ব\" (Uttol Dorpone Roshichitro/Protibimbo) – *Translation: Ray Diagram/Image in a Convex Mirror.*\n*   **Key Points in Diagram:** $M, M', P, C, F$.\n*   **Objects:** Numbers 1, 2, 3, 4, 5, 6 labeling the object arrows.\n*   **Mathematical Definitions (Handwritten):**\n    *   $CP = r$\n    *   $FP = f$\n    *   $f = r/2$ (Boxed in red)\n*   **Branding:** \"AMADER SCHOOL\" (Our School) in the upper right corner.\n\n### 5. The Educational Purpose of this Visual\n\nThe primary educational purpose is **introduction and definition**.\n\n1.  **Terminology Introduction:** To introduce the technical terminology (Pole, Focus, Center of Curvature, Focal Length, Radius of Curvature) necessary for discussing reflection by spherical mirrors.\n2.  **Establishment of Fundamental Law:** To explicitly state the critical relationship $f = r/2$, which is prerequisite for all quantitative calculations in spherical optics.\n3.  **Preparation for Ray Tracing:** By drawing the objects (1-6), the instructor is preparing the class to systematically analyze how image formation in a convex mirror is handled, highlighting that, unlike a concave mirror, the image characteristics for a convex mirror remain largely consistent regardless of object distance (as long as the object is real and placed to the left of P)."
+    },
+    {
+      "frame_id": "REF_17_F1",
+      "frame_path": "data/frames/REF_17/frame_357740ms_offset_0s.jpg",
+      "timestamp_ms": 357740,
+      "offset_seconds": 0,
+      "perceptual_hash": "8386f8f3f0f8e070",
+      "is_duplicate": false,
+      "quality": {
+        "blur_score": 308.02735025559423,
+        "brightness": 170.10954210069445,
+        "contrast": 56.867566624348406
+      },
+      "reference_id": "REF_17",
+      "mathpix_data": {
+        "request_id": "2025_10_02_7153a9225ae394faaa60g",
+        "version": "SuperNet-106p1",
+        "is_printed": true,
+        "is_handwritten": true,
+        "auto_rotate_confidence": 0.003138109288212121,
+        "auto_rotate_degrees": 0,
+        "image_height": 720,
+        "image_width": 1280,
+        "confidence": 0.005555673027367637,
+        "confidence_rate": 0.8910109417812626,
+        "latex_styled": "\\begin{array}{l}\n\\text { উত্তল দর্পনের ব্রস্মিগুল/প্রতিষ্কম্বর্ণ। }\\\\\n\\text { AMADER }\\\\\n\\text { SCHOOL }\n\\end{array}",
+        "text": "উত্তল দর্পনের ব্রস্মিগুল/প্রতিষ্কম্বর্ণ।\n\nAMADER\nSCHOOL"
+      },
+      "gemini_description": "This frame captures the initial setup and fundamental definitions required for studying image formation by a convex spherical mirror in a physics lecture environment.\n\n---\n\n### 1. Visual Elements (Diagrams, Graphs, Illustrations)\n\nThe visual field features a diagram drawn on a whiteboard illustrating the geometry of a convex mirror system:\n\n*   **Convex Mirror:** A vertically oriented curved line segment, labeled $MM'$, represents the mirror aperture. Hatch marks are placed on the concave side (left, non-reflecting side), confirming the right side is the reflecting surface (the definition of a convex mirror).\n*   **Principal Axis:** A horizontal straight line passes through the mirror, establishing the optical axis.\n*   **Cardinal Points (Virtual Side):** Key points are marked on the virtual (non-reflecting) side of the mirror:\n    *   $P$ (Pole): Implicitly at the intersection of the mirror and the axis.\n    *   $F$ (Focal Point): Marked on the principal axis.\n    *   $C$ (Center of Curvature): Marked further down the axis.\n*   **Object Placement:** Six small, upright arrows (labeled 1 through 6) are positioned along the principal axis in front of the reflecting surface. These objects are situated at various distances relative to the mirror, indicating the starting point for discussing different image cases.\n*   **Distance Markers:** Red curved lines emphasize the segments corresponding to the focal length ($f$) and the radius of curvature ($R$) on the virtual side, specifically between $C$, $F$, and $P$.\n*   **Instructor:** A male instructor is visible on the left, gesturing toward the whiteboard, indicating the active teaching phase of the lesson.\n\n### 2. Physical Concepts or Phenomena Illustrated\n\nThe primary physical concepts addressed are:\n\n*   **Geometrical Optics:** The study of light reflection using simplified geometric diagrams (ray diagrams).\n*   **Convex Spherical Mirrors:** Specifically, the geometry and definitions associated with diverging mirrors.\n*   **Cardinal Points:** The establishment of the center of curvature ($C$) and the principal focus ($F$).\n*   **Image Formation (Setup):** The visual is prepared to demonstrate how images are formed for objects placed at arbitrary distances in front of a convex mirror.\n\n### 3. Key Relationships or Structures Shown\n\nThe frame explicitly defines the standard geometric parameters for the spherical mirror:\n\n| Relationship | Description | Standard Notation |\n| :--- | :--- | :--- |\n| **$CP = R$** | The distance from the Center of Curvature to the Pole is the Radius of Curvature. | $R$ |\n| **$FP = f$** | The distance from the Focal Point to the Pole is the Focal Length. | $f$ |\n| **$f = \\frac{R}{2}$** | The boxed equation demonstrates the crucial paraxial approximation relationship: The focal length is half the radius of curvature. | $f = R/2$ |\n\n*Note: For a convex mirror, both $f$ and $R$ are conventionally considered positive values, though sometimes treated as negative depending on the sign convention used (e.g., Cartesian sign convention where distances measured against the direction of incident light are negative).*\n\n### 4. Labels, Annotations, or Text Visible\n\n*   **Title (Bengali):** উত্তল দর্পনের রশ্মিচিত্র/প্রতিবিম্ব\n    *   (Translation: Ray Diagram/Image of a Convex Mirror)\n*   **Branding (Top Right):** AMADER SCHOOL\n*   **Mirror Aperture Labels:** $M$ and $M'$\n*   **Point Labels:** $C$ (Center of Curvature), $F$ (Focal Point), $P$ (Pole, implied at the mirror surface).\n*   **Object Labels:** Arrows numbered 1, 2, 3, 4, 5, 6.\n*   **Equations:** $CP = R$, $FP = f$, and the boxed relation $f = R/2$.\n\n### 5. The Educational Purpose of This Visual\n\nThe primary educational purpose is threefold:\n\n1.  **Define Terms:** To establish and visualize the geometric definitions (Pole, Focus, Center of Curvature, Principal Axis) specific to a convex mirror.\n2.  **Establish Fundamental Law:** To explicitly state and highlight the physical relationship between focal length and radius of curvature ($f = R/2$), which is foundational for all subsequent calculations and ray tracing.\n3.  **Set Up Ray Tracing Analysis:** By placing multiple objects (1-6) at varying distances, the visual sets the stage for demonstrating that, unlike concave mirrors, a convex mirror always forms a virtual, upright, and diminished image located between the Pole ($P$) and the Focus ($F$), regardless of the object's position (excluding infinity)."
+    },
+    {
+      "frame_id": "REF_17_F2",
+      "frame_path": "data/frames/REF_17/frame_357740ms_offset_2s.jpg",
+      "timestamp_ms": 359740,
+      "offset_seconds": 2,
+      "perceptual_hash": "8082fc70677ce17e",
+      "is_duplicate": false,
+      "quality": {
+        "blur_score": 297.00252373701994,
+        "brightness": 162.82182942708334,
+        "contrast": 46.181818620885466
+      },
+      "reference_id": "REF_17",
+      "mathpix_data": {
+        "request_id": "2025_10_02_3e8fe44915d213a00fe7g",
+        "version": "SuperNet-106p1",
+        "is_printed": true,
+        "is_handwritten": true,
+        "auto_rotate_confidence": 0.002144367722493712,
+        "auto_rotate_degrees": 0,
+        "image_height": 720,
+        "image_width": 1280,
+        "confidence": 0.006112833234682448,
+        "confidence_rate": 0.883091929494899,
+        "latex_styled": "\\begin{array}{l}\n\\text { দ্যিল দর্পরণ রক্ষিগুল/প্রতিষ্কর্ধ্ব। }\\\\\n\\text { AMADER }\\\\\n\\text { SCHOOL }\\\\\n\\begin{array}{l}\nc p=r \\\\\nF p=f \\\\\nr=\\frac{r}{2}\n\\end{array}\n\\end{array}",
+        "text": "দ্যিল দর্পরণ রক্ষিগুল/প্রতিষ্কর্ধ্ব।\n\nAMADER\nSCHOOL\n\\[\n\\begin{array}{l}\nc p=r \\\\\nF p=f \\\\\nr=\\frac{r}{2}\n\\end{array}\n\\]"
+      },
+      "gemini_description": "This frame captures a detailed introduction to the geometry and key parameters of spherical mirrors, specifically setting the stage for ray tracing and image formation.\n\n## Detailed Analysis of the Frame\n\n### 1. Visual Elements\n\n**The Speaker and Setting:** A male instructor is visible on the left, gesturing toward the whiteboard content, indicating active lecturing. The background is a clean whiteboard.\n\n**The Diagram:** The main visual element is a geometry setup illustrating the key points of a spherical mirror (though the title refers to a convex mirror, the diagram itself is conventionally used for a concave mirror geometry, setting up the fundamental distance definitions).\n\n*   **Mirror:** A curved segment labeled $M P M'$ is drawn. The hatching on the left side suggests that the reflective surface is the right side (convex), aligning with the title, *or* it represents a simplified setup for defining C and F. Crucially, the points C and F are shown to the left of the mirror, which is the object space for a **concave mirror** but the virtual space for a **convex mirror**.\n*   **Principal Axis:** A straight horizontal line extends through the center of the setup.\n*   **Key Points:** The geometric points defining the mirror are clearly marked:\n    *   $P$: Pole (the vertex of the mirror).\n    *   $F$: Principal Focus (Focal point).\n    *   $C$: Center of Curvature.\n*   **Object Positions:** Six upward-pointing red arrows (labeled 1 through 6) represent objects placed at varying distances along the principal axis relative to C and F. This standard setup indicates an analysis of image formation for different object positions (e.g., beyond C, at C, between C and F).\n*   **Distance Notation:** Red arcs underneath the principal axis highlight the distance segments:\n    *   The segment $CP$ is marked.\n    *   The segment $FP$ is marked.\n\n### 2. Physical Concepts and Phenomena Illustrated\n\nThe frame illustrates the fundamental geometric concepts necessary for understanding **reflection from spherical mirrors** (specifically paraxial reflection).\n\n*   **Spherical Mirror Geometry:** Defining the unique points (Pole, Center of Curvature, Principal Focus) required for ray tracing.\n*   **Radius of Curvature ($R$/$r$):** The distance from the center of curvature to the pole ($CP$).\n*   **Focal Length ($f$):** The distance from the principal focus to the pole ($FP$).\n*   **Object Placement (Implied):** The multiple numbered arrows indicate that the lecture is moving toward analyzing image characteristics (size, nature, position) based on the object's initial placement relative to $C$ and $F$.\n\n### 3. Key Relationships and Structures Shown\n\nThree algebraic relationships are explicitly written on the whiteboard, defining the variables used in mirror optics:\n\n1.  $$CP = r$$\n    *   *Interpretation:* The distance between the Center of Curvature ($C$) and the Pole ($P$) defines the Radius of Curvature ($r$ or $R$).\n\n2.  $$FP = f$$\n    *   *Interpretation:* The distance between the Principal Focus ($F$) and the Pole ($P$) defines the Focal Length ($f$).\n\n3.  $$\\boxed{f = \\frac{r}{2}}$$\n    *   *Interpretation:* This is the critical relationship for spherical mirrors under the paraxial approximation: The focal length ($f$) is exactly half the radius of curvature ($r$).\n\n### 4. Labels, Annotations, and Text Visible\n\n*   **Bengali Title (Top):** \"উত্তল দর্পণে রশ্মিচিত্র/প্রতিবিম্ব\"\n    *   *Translation:* Ray Diagram / Image in a **Convex Mirror**.\n*   **Mirror Labels:** $M, P, M', C, F$.\n*   **Object Labels:** Numbers 1, 2, 3, 4, 5, 6 marking object positions.\n*   **Branding:** AMADER SCHOOL (top right corner).\n*   **Mathematical Text:** The three equations defining $r$, $f$, and their relationship.\n\n### 5. Educational Purpose of this Visual\n\nThe primary educational purpose is to establish the prerequisite geometric definitions and mathematical relationships before performing actual ray tracing for image formation.\n\n*   **Definition of Variables:** It clearly links the spatial locations ($C$ and $F$) on the diagram to the variables ($r$ and $f$) used in calculations.\n*   **Foundation for Ray Tracing:** By showing multiple object positions (1 through 6), the instructor prepares the student for a systematic analysis of how the image changes as an object is moved along the principal axis.\n*   **Derivation of Focal Length:** Highlighting the $f=r/2$ relationship is crucial, as this is a cornerstone formula in introductory geometric optics for spherical mirrors."
+    },
+    {
+      "frame_id": "REF_2_F0",
+      "frame_path": "data/frames/REF_2/frame_429288ms_offset_-2s.jpg",
+      "timestamp_ms": 427288,
+      "offset_seconds": -2,
+      "perceptual_hash": "8080fef218fef076",
+      "is_duplicate": false,
+      "quality": {
+        "blur_score": 233.4389506119515,
+        "brightness": 144.71306857638888,
+        "contrast": 38.55890294488429
+      },
+      "reference_id": "REF_2",
+      "mathpix_data": {
+        "request_id": "2025_10_02_5de01dd3a03e896db2beg",
+        "version": "SuperNet-106p1",
+        "is_printed": true,
+        "is_handwritten": true,
+        "auto_rotate_confidence": 0.0005834271059796947,
+        "auto_rotate_degrees": 0,
+        "image_height": 720,
+        "image_width": 1280,
+        "confidence": 0.003911072074021989,
+        "confidence_rate": 0.864249951147526,
+        "latex_styled": "\\begin{array}{l}\n\\text { উত্তল দর্পরণ রম্পিস্থর/প্রতিষ্কর, }\\\\\n\\text { AMADER }\\\\\n\\text { SCHOOL }\\\\\n\\left[\\frac{1}{\\uparrow}\\right.\\\\\n\\begin{array}{l}\nc p=r \\\\\nF p=f \\\\\nr=\\frac{r}{2}\n\\end{array}\n\\end{array}",
+        "text": "উত্তল দর্পরণ রম্পিস্থর/প্রতিষ্কর,\n\nAMADER\nSCHOOL\n\\[\n\\left[\\frac{1}{\\uparrow}\\right.\n\\]\n\\[\n\\begin{array}{l}\nc p=r \\\\\nF p=f \\\\\nr=\\frac{r}{2}\n\\end{array}\n\\]"
+      },
+      "gemini_description": "This frame captures a critical instructional segment in Geometrical Optics, focusing on the fundamental parameters and geometry of a convex spherical mirror.\n\n## Detailed Analysis of the Frame\n\n### 1. Visual Elements (Diagrams, Illustrations)\n\nThe whiteboard features a clear diagram of a convex spherical mirror setup, alongside algebraic definitions.\n\n**A. Spherical Mirror Diagram (Right Side):**\n*   **Mirror Structure:** A vertical curved line segment (labeled M M') represents the convex mirror. The concave side (the interior, facing left) is hatched, indicating the non-reflecting surface, while the smooth, convex side (facing right) is the reflecting surface.\n*   **Principal Axis:** A horizontal line passes through the mirror, defining the principal axis.\n*   **Key Points (Behind the Mirror):** The Center of Curvature (C) and the Principal Focus (F) are marked on the principal axis, located on the non-reflecting side (left side, behind the mirror).\n*   **Pole (P):** The point where the principal axis meets the mirror surface is labeled P.\n*   **Object Positions:** Six small, upright arrows (labeled 1 through 6) are drawn at varying distances along the principal axis on the reflecting (object) side (right side). These arrows represent potential object locations, varying from far away (1) to very close to the pole (6).\n\n**B. Instructor:**\n*   A male instructor is visible on the left side of the frame, actively gesturing toward the diagrams while lecturing.\n\n### 2. Physical Concepts or Phenomena Illustrated\n\nThe primary concept is the **Geometry and Characteristics of a Convex Spherical Mirror**.\n\n*   **Diverging Property:** Convex mirrors always cause incident light rays to diverge, meaning C and F are always *virtual* points located behind the mirror.\n*   **Reference Points:** The illustration defines the fundamental points necessary for ray tracing and calculating image position in spherical optics: Pole (P), Center of Curvature (C), and Focal Point (F).\n*   **Image Formation Scenarios:** The numbered arrows (1-6) conceptually illustrate how the position of a real object relative to the mirror affects the resulting image characteristics (this setup precedes the actual ray tracing).\n\n### 3. Key Relationships or Structures Shown\n\nA vertical bracket connects the geometric illustration to a list of algebraic definitions of key distances:\n\n| Relationship | Description | Standard Notation |\n| :--- | :--- | :--- |\n| **$CP = r$** | Distance from the Pole (P) to the Center of Curvature (C) defines the **Radius of Curvature** (denoted as $r$ or $R$). | $R$ |\n| **$FP = f$** | Distance from the Pole (P) to the Focus (F) defines the **Focal Length**. | $f$ |\n| **$f = r/2$** (Interpreted) | The final boxed equation, $r = R/2$ (using the symbols $r$ for $f$ and $R$ for $r$), represents the fundamental relationship that the focal length is half the radius of curvature. | $f = R/2$ |\n\n*Note: The notation $r = R/2$ uses 'r' for focal length and 'R' for radius of curvature, which is unconventional but functionally represents the $f = R/2$ principle.*\n\n### 4. Labels, Annotations, or Text Visible\n\n**A. Bengali Title (Top):**\n*   উত্তল দর্পণে রশ্বিচিত্র/প্রতিবিম্ব\n*   *(Translation: Ray Diagram/Image Formation in a Convex Mirror)*\n\n**B. Identifiers (Top Right):**\n*   AMADER SCHOOL (Channel/Brand identifier)\n\n**C. Labels on Diagram:**\n*   P (Pole)\n*   F (Principal Focus)\n*   C (Center of Curvature)\n*   M, M' (Edges of the Mirror Aperture)\n*   1, 2, 3, 4, 5, 6 (Object position indices)\n\n**D. Mathematical Definitions (Annotated):**\n*   $CP = r$\n*   $FP = f$\n*   $r = \\frac{r}{2}$ (Boxed, representing the $f = R/2$ relationship)\n\n### 5. Educational Purpose of this Visual\n\nThe primary educational purpose is to establish the geometric foundation necessary for ray tracing and quantitative problem-solving involving convex mirrors.\n\n1.  **Terminology Introduction:** Ensure students understand the physical meaning and location of the fundamental parameters (P, F, C, f, r) specific to a convex mirror (where F and C are virtual).\n2.  **Preparatory Setup:** Show the variability of object distance (1 through 6) to prepare students for analyzing the consistent nature of image formation in convex mirrors (which always form virtual, upright, and diminished images, regardless of object position).\n3.  **Fundamental Law:** Explicitly state and highlight the paraxial approximation relationship linking focal length and radius of curvature ($f = R/2$)."
+    },
+    {
+      "frame_id": "REF_2_F1",
+      "frame_path": "data/frames/REF_2/frame_429288ms_offset_0s.jpg",
+      "timestamp_ms": 429288,
+      "offset_seconds": 0,
+      "perceptual_hash": "81807ef078fc78f2",
+      "is_duplicate": false,
+      "quality": {
+        "blur_score": 235.64312360266115,
+        "brightness": 142.97979600694444,
+        "contrast": 41.94474392285077
+      },
+      "reference_id": "REF_2",
+      "mathpix_data": {
+        "request_id": "2025_10_02_d48a23e220ef720255b9g",
+        "version": "SuperNet-106p1",
+        "is_printed": true,
+        "is_handwritten": true,
+        "auto_rotate_confidence": 0.0007606909902619918,
+        "auto_rotate_degrees": 0,
+        "image_height": 720,
+        "image_width": 1280,
+        "confidence": 0.002370604139771922,
+        "confidence_rate": 0.8659576312154076,
+        "latex_styled": "\\begin{array}{l}\n\\text { দিতল দর্পনের বাশ্মস্থগ/প্রতিষ্কর্ধ্ব) }\\\\\n\\text { AMADER }\\\\\n\\text { SCHOOL }\\\\\n\\begin{array}{l}\nc p=r \\\\\nF p=f \\\\\nr=\\frac{r}{2}\n\\end{array}\n\\end{array}",
+        "text": "দিতল দর্পনের বাশ্মস্থগ/প্রতিষ্কর্ধ্ব)\n\nAMADER\nSCHOOL\n\\[\n\\begin{array}{l}\nc p=r \\\\\nF p=f \\\\\nr=\\frac{r}{2}\n\\end{array}\n\\]"
+      },
+      "gemini_description": "This detailed analysis covers the visual elements, physical concepts, relationships, labels, and educational purpose of the observed frame from the physics lecture video.\n\n## Detailed Frame Analysis\n\n### 1. Visual Elements (Diagrams, Graphs, Illustrations)\n\nThe frame displays a lecture whiteboard containing key geometric optics concepts, with a lecturer partially visible on the left.\n\n**Diagrams:**\n\n*   **Left Diagram:** A cross-section of a spherical mirror is drawn, consistent with a **Concave Mirror** (reflecting surface is curved inward). A principal axis intersects the mirror at the pole. The Focus ($F$) is marked on the principal axis. An object is represented by an upright arrow labeled $PQ$, placed perpendicular to the axis.\n*   **Right Diagram:** A second cross-section of a Concave Mirror is shown, labeled $MM'$ (representing the mirror aperture). The principal axis is clearly marked, and the principal points are labeled: $P$ (Pole), $F$ (Focus), and $C$ (Center of Curvature).\n*   **Object Positions:** Six distinct upright arrows (objects) are drawn along the principal axis, numbered sequentially from 1 to 6, spanning positions from beyond $C$ to inside $F$ and near $P$. This structure is typically used to illustrate how image characteristics vary with object distance.\n*   **Dimensional Representation:** Curved arrows and brackets are used underneath the axis to visually demarcate the lengths corresponding to $CP$ and $FP$.\n\n### 2. Physical Concepts or Phenomena Illustrated\n\nThe primary concepts illustrated belong to **Geometrical Optics** and the properties of **Spherical Mirrors**.\n\n*   **Spherical Mirror Terminology:** The diagram defines the critical reference points: Pole ($P$), Center of Curvature ($C$), and Principal Focus ($F$).\n*   **Focal Length and Radius of Curvature:** The setup explicitly defines the distances associated with these points, which are foundational for applying the mirror formula and ray tracing techniques.\n*   **Object Placement for Ray Tracing:** The enumeration of six specific object locations demonstrates the standard cases used in textbooks to generate image formation diagrams for spherical mirrors.\n*   **Conceptual Conflict Note:** Although the main heading reads `উত্তল দর্পনে` (Image formation in a **Convex** Mirror), the diagrams clearly depict the geometry of a **Concave Mirror** (where $C$ and $F$ lie in front of the reflecting surface). The visual aid may be used to define common terms before transitioning to the specific characteristics of the convex mirror, or it represents a teaching inconsistency.\n\n### 3. Key Relationships or Structures Shown\n\nThe frame features three fundamental mathematical relationships defining the geometry of spherical mirrors for paraxial rays:\n\n1.  **$CP = R$:** Defines the Radius of Curvature ($R$) as the distance between the Center of Curvature ($C$) and the Pole ($P$).\n2.  **$FP = f$:** Defines the Focal Length ($f$) as the distance between the Principal Focus ($F$) and the Pole ($P$).\n3.  **$f = \\frac{R}{2}$ (or $f = \\frac{r}{2}$ as written, using $r$ to denote the radius):** This is the crucial relationship proving that the focal length is half the radius of curvature for spherical mirrors assuming the paraxial approximation. This relationship is highlighted by being boxed in red.\n\n### 4. Labels, Annotations, or Text Visible\n\n*   **Main Title (Bengali):** `উত্তল দর্পনে রশ্মিচিত্র/প্রতিবিম্ব` (Ray diagram/Image formation in a Convex Mirror).\n*   **Points and Labels on Diagrams:** $M$, $M'$, $P$, $C$, $F$, $Q$. Object positions are labeled 1, 2, 3, 4, 5, 6.\n*   **Mathematical Annotations:**\n    *   $CP = R$ (Using the Bengali character for Radius of Curvature, $R$).\n    *   $FP = f$\n    *   $f = \\frac{R}{2}$ (or $f=\\frac{r}{2}$)\n*   **Branding:** AMADER SCHOOL logo in the upper right corner.\n\n### 5. Educational Purpose of this Visual\n\nThe primary educational purpose of this visual is foundational instruction in geometrical optics:\n\n1.  **Definition of Parameters:** To clearly define the standard coordinate system and key distances ($R$ and $f$) essential for analyzing spherical mirrors.\n2.  **Establishment of the Paraxial Relationship:** To prove or state the crucial approximation $f = R/2$, which simplifies calculations and is used universally in introductory physics for imaging systems.\n3.  **Preparation for Ray Tracing:** By illustrating the standard positions (1 through 6), the visual primes students for the upcoming discussion on how image location, size, and nature change depending on the object's position relative to $C$ and $F$."
+    },
+    {
+      "frame_id": "REF_2_F2",
+      "frame_path": "data/frames/REF_2/frame_429288ms_offset_2s.jpg",
+      "timestamp_ms": 431288,
+      "offset_seconds": 2,
+      "perceptual_hash": "98c077ff187057e0",
+      "is_duplicate": false,
+      "quality": {
+        "blur_score": 111.7324012562965,
+        "brightness": 143.9103244357639,
+        "contrast": 31.583098644188258
+      },
+      "reference_id": "REF_2",
+      "mathpix_data": {
+        "request_id": "2025_10_02_1361c1f67222c6712f12g",
+        "version": "SuperNet-106p1",
+        "is_printed": true,
+        "is_handwritten": true,
+        "auto_rotate_confidence": 0.0012627946391283729,
+        "auto_rotate_degrees": 0,
+        "image_height": 720,
+        "image_width": 1280,
+        "confidence": 0.002803481912342781,
+        "confidence_rate": 0.8567106219335525,
+        "latex_styled": "\\begin{array}{l}\n\\text { উত্তল দর্পনে রাশ্পres/প্রতিষ্কর্ণ }\\\\\n\\text { AMADER }\\\\\n\\begin{array}{l}\nc p=r \\\\\nF p=f \\\\\nr=\\frac{r}{2}\n\\end{array}\n\\end{array}",
+        "text": "উত্তল দর্পনে রাশ্পres/প্রতিষ্কর্ণ\n\nAMADER\n\\[\n\\begin{array}{l}\nc p=r \\\\\nF p=f \\\\\nr=\\frac{r}{2}\n\\end{array}\n\\]"
+      },
+      "gemini_description": "This detailed analysis is based on the provided image, which illustrates fundamental concepts in geometric optics related to spherical mirrors.\n\n---\n\n## Analysis of the Physics Lecture Frame\n\n### 1. Visual Elements (Diagrams, Graphs, Illustrations)\n\nThe frame displays a complex drawing on a whiteboard consisting of two interconnected optical diagrams and accompanying mathematical definitions.\n\n*   **Primary Diagram (Right Side):** This is a schematic representation of a spherical mirror setup.\n    *   A vertically curved line ($M M'$) represents the reflecting surface of a mirror.\n    *   A horizontal line serves as the **Principal Axis**.\n    *   Key points defined along the axis are the **Pole (P)**, the **Focal Point (F)**, and the **Center of Curvature (C)**.\n    *   **Incident/Object Markers:** Six small red upward arrows (labeled 1 through 6) are drawn parallel to the principal axis, likely representing incident parallel rays or object positions used for defining the focal point or demonstrating image formation properties.\n    *   Red arcs or brackets visually demarcate the distance between C and P (Radius of Curvature) and the distance between F and P (Focal Length).\n\n*   **Secondary Diagram (Left Side):** A partial drawing shows the lecturer tracing or defining a point on a larger, concave-shaped mirror segment, likely demonstrating the physical placement of the focal point or center of curvature relative to the mirror surface.\n\n### 2. Physical Concepts or Phenomena Illustrated\n\nThe frame is dedicated to teaching the **Geometric Properties of a Convex Spherical Mirror** and the relationships between its fundamental parameters.\n\n*   **Optics Type:** Spherical Reflection (Geometric Optics).\n*   **Specific Object:** Convex Mirror (as confirmed by the Bengali title, \"উত্তল দর্পনে,\" meaning 'In a Convex Mirror'). For a convex mirror, the Center of Curvature (C) and the Focal Point (F) are virtual, residing *behind* the reflecting surface (as implied by their arrangement relative to P).\n*   **Key Concepts:**\n    *   Radius of Curvature ($R$ or $r$).\n    *   Focal Length ($f$).\n    *   Principle that the focal length is determined by the mirror's curvature.\n\n### 3. Key Relationships or Structures Shown\n\nThe whiteboard explicitly defines the variables and structure used in ray tracing conventions:\n\n| Term | Definition on Board | Standard Physical Meaning |\n| :--- | :--- | :--- |\n| **$CP$** | $CP = r$ | Radius of Curvature ($R$ or $r$) |\n| **$FP$** | $FP = f$ | Focal Length ($f$) |\n| **Relationship** | $r = \\frac{r}{2}$ | **This expression is mathematically incorrect as written.** |\n\n**Intended Relationship:** In the context of spherical mirrors, the relationship $f = R/2$ (or $f = r/2$) is fundamental. It is almost certain that the lecturer intended to write the focal length $f$ in terms of the radius of curvature $r$, meaning the expression was meant to be:\n$$f = \\frac{r}{2}$$\n\nThis relationship states that the focal point (F) of a spherical mirror lies exactly halfway between the pole (P) and the center of curvature (C).\n\n### 4. Labels, Annotations, or Text Visible\n\n| Text Type | Content (Bengali) | Translation/Meaning |\n| :--- | :--- | :--- |\n| **Main Title** | উত্তল দর্পনে রশ্মিচিত্র/প্রতিবিম্ব | Ray Diagram / Image in a Convex Mirror |\n| **Branding** | AMADER SCHOOL | (Educational platform name) |\n| **Axis Labels** | C, F, P, Q (on the left diagram) | Center of Curvature, Focal Point, Pole, (Point on Axis) |\n| **Mirror Boundary** | M, M' | Aperture/Edges of the mirror |\n| **Variables/Equations** | $CP = r$, $FP = f$, $r = r/2$ | Definitions of $R$ and $f$, and the intended relationship $f=R/2$. |\n| **Object Markers** | 1, 2, 3, 4, 5, 6 | Numbering of incident rays or object positions. |\n\n### 5. Educational Purpose of This Visual\n\nThe primary educational purpose is to **introduce and define the geometric parameters necessary for analyzing convex spherical mirrors.**\n\n1.  **Terminology Definition:** Clearly defines the physical meaning of the standard variables $f$ (focal length) and $r$ (radius of curvature) by linking them to the geometric points C, F, and P.\n2.  **Foundation for Ray Tracing:** Establishes the fixed spatial relationship between C, F, and P, which is the foundational rule required for drawing accurate ray diagrams (রশ্মিচিত্র) to determine the nature and position of images (প্রতিবিম্ব) formed by the mirror.\n3.  **Fundamental Law:** Highlights the crucial parabolic approximation relationship ($f = R/2$) necessary for quantitative problem-solving in spherical mirror optics."
+    },
+    {
+      "frame_id": "REF_19_F0",
+      "frame_path": "data/frames/REF_19/frame_572384ms_offset_-2s.jpg",
+      "timestamp_ms": 570384,
+      "offset_seconds": -2,
+      "perceptual_hash": "90c07ef310df7e30",
+      "is_duplicate": false,
+      "quality": {
+        "blur_score": 247.04276801036195,
+        "brightness": 142.36655598958333,
+        "contrast": 34.20217579308086
+      },
+      "reference_id": "REF_19",
+      "mathpix_data": {
+        "request_id": "2025_10_02_c833ee8c19be4b18b1beg",
+        "version": "SuperNet-106p1",
+        "is_printed": true,
+        "is_handwritten": true,
+        "auto_rotate_confidence": 0.0072359217303841206,
+        "auto_rotate_degrees": 0,
+        "image_height": 720,
+        "image_width": 1280,
+        "confidence": 0.005117295138855899,
+        "confidence_rate": 0.8819690484802518,
+        "latex_styled": "\\begin{array}{l}\n\\text { দতকল দর্পনের বাশ্মস্থগ/প্রতিষ্কিধর্ । }\\\\\n\\text { AMADER }\\\\\n\\text { SCHOOL }\n\\end{array}",
+        "text": "দতকল দর্পনের বাশ্মস্থগ/প্রতিষ্কিধর্ ।\n\nAMADER\nSCHOOL"
+      },
+      "gemini_description": "This frame captures a detailed segment of a physics lecture on geometric optics, specifically focusing on the properties and image formation of convex spherical mirrors.\n\n---\n\n### 1. Visual Elements (Diagrams, Graphs, Illustrations)\n\nThe whiteboard displays two primary visual sections, connected conceptually:\n\n**A. Ray Diagram (Left Side):**\n*   **The Mirror:** A segment of a convex (diverging) spherical mirror is drawn, indicated by hatching on the inner (concave) side.\n*   **Principal Axis:** A horizontal dashed line defines the principal axis.\n*   **Object and Image:** A ray diagram illustrates the formation of an image (P'Q') from an object (implied, likely PQ, though the full object arrow is not clearly marked on the principal axis but its highest point Q is indicated).\n*   **Ray Tracing:** Two incident rays originating from point Q reflect off the mirror. Their backward extensions (virtual rays, drawn as dotted or dashed lines) converge at point Q'. The resulting image P'Q' is drawn as a vertical arrow.\n*   **Labels:** Key points include F (Principal Focus) and the image points P' and Q', and the object point Q.\n\n**B. Supporting Diagram and Object Positioning (Right Side):**\n*   A simplified drawing of a convex mirror (labeled M M') with its principal axis.\n*   **Reference Points:** C (Center of Curvature), F (Principal Focus), and P (Pole) are clearly labeled.\n*   **Object Locations:** Six vertical arrows, numbered 1 through 6, are positioned along the principal axis. These represent various possible object locations relative to the mirror (from far away/infinity, moving closer to the pole).\n*   A large vertical bracket connects the two diagrams, suggesting that the ray diagram on the left illustrates one of the scenarios encompassed by the general positioning shown on the right.\n\n### 2. Physical Concepts or Phenomena Illustrated\n\n*   **Geometric Optics:** The study of light propagation through ray tracing.\n*   **Reflection from Spherical Mirrors:** Specifically, the behavior of light upon reflection from a **convex mirror** (a diverging optical element).\n*   **Image Formation:** Demonstrating the construction of a virtual image using standard ray tracing rules.\n*   **Properties of Convex Mirror Images:** For any real object placed in front of a convex mirror, the image is consistently:\n    1.  **Virtual** (formed by the apparent intersection of reflected rays behind the mirror).\n    2.  **Erect/Upright** (P'Q' points in the same direction as the object).\n    3.  **Diminished** (smaller than the object).\n    4.  **Location:** Always situated between the Pole (P) and the Principal Focus (F).\n\n### 3. Key Relationships or Structures Shown\n\nThe frame emphasizes the mathematical and geometric definition of the mirror's characteristics:\n\n*   **Focal Length (f):** The distance from the pole (P) to the focus (F).\n*   **Radius of Curvature (R):** The distance from the pole (P) to the center of curvature (C).\n*   **Fundamental Mirror Equation Structure:** The key relationship defining spherical mirrors is written explicitly:\n    $$\n    f = \\frac{R}{2}\n    $$\n    This equation establishes that the principal focus (F) lies exactly halfway between the pole (P) and the center of curvature (C).\n\n### 4. Labels, Annotations, or Text Visible\n\n*   **Title (Bengali):** `উত্তল দর্পণে রশ্মিচিত্র/প্রতিবিম্ব` (Image Formation/Ray Diagram in a Convex Mirror).\n*   **Identifying Text/Formulas (Right Side):**\n    *   `CP = R` (Distance from Center of Curvature to Pole equals Radius of Curvature).\n    *   `FP = f` (Distance from Focus to Pole equals Focal Length).\n    *   The boxed relationship: `f = R/2`.\n*   **Diagram Labels:** P, F, Q, P', Q', C, M, M', 1 through 6 (object positions).\n*   **Branding:** AMADER SCHOOL logo in the top right corner.\n*   **Teacher:** A male instructor is visible on the left, gesturing toward the diagram with his right hand.\n\n### 5. The Educational Purpose of This Visual\n\nThe primary educational purpose is to provide a clear, step-by-step graphical explanation of image formation in convex mirrors, combined with the algebraic definitions of crucial mirror parameters.\n\n1.  **Demonstrate Ray Tracing:** It teaches students the specific reflection rules required to locate the virtual image for a convex mirror.\n2.  **Define Terminology:** It explicitly defines the symbols R (Radius of Curvature) and f (Focal Length) relative to the mirror's geometry.\n3.  **Establish Geometric Law:** It reinforces the crucial geometric relationship ($f = R/2$), which is foundational for solving problems using the mirror formula.\n4.  **Visualize Constraints:** The numbered arrows on the right illustrate how the image position remains constrained (always between P and F) regardless of the object's position (1 through 6)."
+    },
+    {
+      "frame_id": "REF_19_F1",
+      "frame_path": "data/frames/REF_19/frame_572384ms_offset_0s.jpg",
+      "timestamp_ms": 572384,
+      "offset_seconds": 0,
+      "perceptual_hash": "8082fefa5efe7800",
+      "is_duplicate": false,
+      "quality": {
+        "blur_score": 251.58427399156233,
+        "brightness": 137.83345377604167,
+        "contrast": 38.26387045945008
+      },
+      "reference_id": "REF_19",
+      "mathpix_data": {
+        "request_id": "2025_10_02_788d9a74a1a2fa9247e3g",
+        "version": "SuperNet-106p1",
+        "is_printed": true,
+        "is_handwritten": true,
+        "auto_rotate_confidence": 0.062242984462695716,
+        "auto_rotate_degrees": 0,
+        "image_height": 720,
+        "image_width": 1280,
+        "confidence": 0.005966239168363887,
+        "confidence_rate": 0.8769335455415205,
+        "text": "ডিক্ল দর্পনে ব্লিস্ঠত্র／প্রতিষ⿻丷木斤\n\nAMADER\nSCHOOL"
+      },
+      "gemini_description": "This frame captures a detailed explanation of geometrical optics relating to convex spherical mirrors, involving ray diagrams, key terminology, and fundamental mathematical relationships.\n\n## Detailed Analysis of the Frame\n\n### 1. Visual Elements (Diagrams, Graphs, Illustrations)\n\nThe frame contains two primary optical diagrams drawn on a whiteboard:\n\n**A. Ray Diagram (Left Side):**\n*   **Mirror:** A segment of a convex (diverging) spherical mirror is drawn, oriented vertically, showing the reflecting surface facing the left.\n*   **Principal Axis:** A horizontal line passes through the mirror, representing the principal axis.\n*   **Object (Implied):** An object is positioned to the left of the mirror (indicated by the starting point of the two incident rays, originating from Q).\n*   **Rays:**\n    *   **Incident Ray 1:** A ray traveling towards the mirror, parallel to the principal axis.\n    *   **Reflected Ray 1:** The ray reflects such that its backward extension (indicated by a dashed line) appears to pass through the Focal Point ($F$).\n    *   **Incident Ray 2:** A ray aimed toward the Center of Curvature (C, implied, though not labeled on the axis) that strikes the mirror.\n    *   **Reflected Ray 2:** This ray reflects back along the incident path. Its backward extension (dashed line) passes through the virtual Center of Curvature (C).\n*   **Image:** The point where the two virtual extensions intersect defines the virtual image, labeled $P'Q'$. This image is located behind the mirror, between the Pole (P, implied at the intersection of the mirror and the axis) and the Focus ($F$).\n\n**B. Conceptual Setup and Distance Diagram (Right Side):**\n*   **Mirror Boundaries:** Labeled $M M'$, defining the aperture of the mirror.\n*   **Key Points:** The Pole ($P$), Focus ($F$), and Center of Curvature ($C$) are clearly marked along the principal axis.\n*   **Object Positions:** A series of six small, upright arrows (labeled 1 through 6) represent objects placed at varying distances from the convex mirror, illustrating that the resulting image characteristics are consistent regardless of object distance.\n*   **Distance Brackets:** Red arcs underneath the axis denote the distances $CP$ and $FP$.\n\n### 2. Physical Concepts or Phenomena Illustrated\n\n*   **Spherical Reflection:** The fundamental concept is the reflection of light according to the laws of reflection applied to a spherical (convex) surface.\n*   **Image Formation in Convex Mirrors:** The diagram explicitly demonstrates how a convex mirror always produces a **virtual** (formed by extensions of reflected rays), **upright** (same orientation as the object), and **diminished** (smaller) image.\n*   **Principal Focus (F) and Center of Curvature (C):** These points are geometrically defined, where $C$ is the center of the sphere of which the mirror is a part, and $F$ is the point where rays parallel to the axis appear to diverge from after reflection.\n\n### 3. Key Relationships or Structures Shown\n\nThe mathematical structure shown relates the defining characteristics of the spherical mirror:\n\n| Parameter | Notation/Definition |\n| :--- | :--- |\n| **Radius of Curvature** | $CP = r$ (Distance from the Center of Curvature to the Pole) |\n| **Focal Length** | $FP = f$ (Distance from the Focal Point to the Pole) |\n| **Mirror Equation Relationship**| $\\mathbf{f = \\frac{r}{2}}$ (Focal length is exactly half the radius of curvature. This relationship is boxed in red, indicating its importance.) |\n\n### 4. Labels, Annotations, or Text Visible\n\n*   **Title (Bengali):** উত্তল দর্পণে রশ্মিচিত্র/প্রতিবিম্ব (Uttaol Dorpone Roshmichitro / Protibimbo)\n    *   *Translation:* Ray diagram / Image in a Convex Mirror.\n*   **Geometric Labels:** $M, M', P, C, F, Q, P', Q', 1, 2, 3, 4, 5, 6$.\n*   **Formulas/Definitions:**\n    *   $CP = r$\n    *   $FP = f$\n    *   $f = \\frac{r}{2}$ (Boxed)\n*   **Branding:** AMADER SCHOOL (Top right corner).\n\n### 5. The Educational Purpose of the Visual\n\nThe visual serves multiple instructional objectives in a physics optics lecture:\n\n1.  **Illustrate Ray Tracing Rules:** To teach students the geometric procedure for locating the image formed by a convex mirror using standard principal rays.\n2.  **Define Cardinal Points:** To clearly define and label the key points ($P, F, C$) and distances ($r, f$) associated with spherical mirrors.\n3.  **Establish Fundamental Law:** To explicitly present and potentially prove the fundamental geometric relationship between focal length and radius of curvature ($f = r/2$), which is central to all spherical mirror calculations.\n4.  **Characterize Image Formation:** To visually demonstrate that a convex mirror always yields a specific type of image (V.U.D. - Virtual, Upright, Diminished) irrespective of the object's position (as suggested by the numbered objects 1–6)."
+    },
+    {
+      "frame_id": "REF_19_F2",
+      "frame_path": "data/frames/REF_19/frame_572384ms_offset_2s.jpg",
+      "timestamp_ms": 574384,
+      "offset_seconds": 2,
+      "perceptual_hash": "90c05ef3474c7f70",
+      "is_duplicate": false,
+      "quality": {
+        "blur_score": 242.95703228655105,
+        "brightness": 138.26763888888888,
+        "contrast": 30.82208464684434
+      },
+      "reference_id": "REF_19",
+      "mathpix_data": {
+        "request_id": "2025_10_02_44d44f6cf7cdb4fc2652g",
+        "version": "SuperNet-106p1",
+        "is_printed": true,
+        "is_handwritten": true,
+        "auto_rotate_confidence": 0.0013440615052218163,
+        "auto_rotate_degrees": 0,
+        "image_height": 720,
+        "image_width": 1280,
+        "confidence": 0.0056777466245873445,
+        "confidence_rate": 0.8841541712657887,
+        "latex_styled": "\\begin{array}{l}\n\\text { উত্তল দর্পরণ বাশ্মস্থগ/প্রতিষ্কিধর্ । }\\\\\n\\text { AMADER }\\\\\n\\text { SCHOOL }\\\\\n\\begin{array}{l}\nc p=r \\\\\nF p=f \\\\\nr=\\frac{r}{2}\n\\end{array}\n\\end{array}",
+        "text": "উত্তল দর্পরণ বাশ্মস্থগ/প্রতিষ্কিধর্ ।\n\nAMADER\nSCHOOL\n\\[\n\\begin{array}{l}\nc p=r \\\\\nF p=f \\\\\nr=\\frac{r}{2}\n\\end{array}\n\\]"
+      },
+      "gemini_description": "This frame captures a segment of a physics lecture focused on geometric optics, specifically the properties and image formation of convex spherical mirrors.\n\n## Detailed Analysis of the Visual Content\n\n### 1. Visual Elements (Diagrams and Illustrations)\n\nThe whiteboard contains two primary illustrations of a convex mirror, defined by an instructor's handwritten notes and diagrams:\n\n*   **Ray Tracing Diagram (Left):** This diagram shows a cross-section of a convex mirror. A diverging ray originating from an object (implied OQ) is reflected. The diagram explicitly shows the formation of a **virtual image** (P'Q') located behind the reflecting surface. This image is formed by tracing the reflected rays back to their apparent intersection point on the principal axis. The image is depicted as being upright and diminished (smaller) compared to the implied object.\n*   **Schematic Setup (Right):** This is a simpler view defining the optical axis and key points of the convex mirror (labeled M M'). Six labeled upward arrows (1 through 6) are drawn along the axis, presumably illustrating various object positions or demonstrating the standard setup for discussing image properties relative to C (Center of Curvature) and F (Principal Focus).\n*   **Active Instruction:** An instructor is visible on the left, actively engaged in teaching, holding a marker and a duster, indicating the dynamic nature of the lecture.\n\n### 2. Physical Concepts or Phenomena Illustrated\n\nThe frame illustrates core concepts from geometric optics related to spherical mirrors:\n\n*   **Convex Mirror Properties:** The entire frame focuses on the behavior of a convex (diverging) mirror.\n*   **Ray Optics and Reflection:** Demonstration of light rays reflecting off a curved surface.\n*   **Virtual Image Formation:** The ray diagram demonstrates that for any real object placed in front of a convex mirror, the image formed is always virtual (cannot be projected onto a screen) and located behind the mirror.\n*   **Paraxial Approximation:** The underlying principles rely on the paraxial approximation for spherical mirrors, where rays close to the principal axis are considered.\n*   **Cardinal Points:** Definition of the key fixed points of the spherical mirror (Pole, Focus, Center of Curvature).\n\n### 3. Key Relationships or Structures Shown\n\nThe frame defines and expresses fundamental geometrical relationships used in mirror calculations:\n\n| Symbol | Definition | Description |\n| :--- | :--- | :--- |\n| $CP = r$ | Radius of Curvature | The distance from the Pole (P) to the Center of Curvature (C). |\n| $FP = f$ | Focal Length | The distance from the Pole (P) to the Principal Focus (F). |\n| $f = r/2$ | Mirror Formula Relationship | The boxed equation (interpreted as $f=r/2$, although the handwritten $f$ is ambiguous) states that the focal length is precisely half the radius of curvature for spherical mirrors. This is a critical foundational principle for geometric optics formulas. |\n\n### 4. Labels, Annotations, or Text Visible\n\n*   **Title (Bengali):** **উত্তল দর্পণে রশ্মিচিত্র/প্রতিবিম্ব** (Uttaol Darpon-e Rashmichitra/Protibimbo) – Translated as: \"Ray Diagram/Image Formation in a Convex Mirror.\"\n*   **Diagram Labels:** P (Pole), F (Focus), C (Center of Curvature), Q, Q' (Object/Image height markers), M M' (Aperture endpoints). Arrows 1 through 6 mark distinct object positions.\n*   **Equations:** $CP = r$, $FP = f$, and the boxed relationship $f = r/2$.\n*   **Branding:** AMADER SCHOOL.\n\n### 5. Educational Purpose of this Visual\n\nThe primary educational purpose is to provide a clear, integrated introduction to convex mirrors:\n\n1.  **Conceptual Understanding:** To visually explain, via ray tracing, why convex mirrors always produce upright, virtual, and diminished images, regardless of the object's position (excluding infinity).\n2.  **Terminology and Definition:** To define the essential coordinate system parameters ($r$ and $f$) and label the principal points (P, F, C).\n3.  **Quantitative Foundation:** To introduce the fundamental quantitative relationship ($f = r/2$) that links the geometrical properties of the mirror, preparing students for applying the mirror equation ($\\frac{1}{f} = \\frac{1}{v} + \\frac{1}{u}$)."
+    },
+    {
+      "frame_id": "REF_22_F0",
+      "frame_path": "data/frames/REF_22/frame_715480ms_offset_-2s.jpg",
+      "timestamp_ms": 713480,
+      "offset_seconds": -2,
+      "perceptual_hash": "8380fcf0f8f8701f",
+      "is_duplicate": false,
+      "quality": {
+        "blur_score": 271.4847699254165,
+        "brightness": 132.83287651909723,
+        "contrast": 40.09077910306918
+      },
+      "reference_id": "REF_22",
+      "mathpix_data": {
+        "request_id": "2025_10_02_022ba420262a5b4d712cg",
+        "version": "SuperNet-106p1",
+        "is_printed": true,
+        "is_handwritten": true,
+        "auto_rotate_confidence": 0.003113883880914159,
+        "auto_rotate_degrees": 0,
+        "image_height": 720,
+        "image_width": 1280,
+        "confidence": 0.006542296774946058,
+        "confidence_rate": 0.8942535482241072,
+        "latex_styled": "\\begin{array}{l}\n\\text { উত্তল দর্পনের ব্রস্মিগুল/প্রতিষ্কর্ধ্ব-। }\\\\\n\\text { AMADER }\\\\\n\\text { SCHOOL }\\\\\n\\begin{array}{l}\nc p=r \\\\\nF p=f \\\\\nr=\\frac{r}{2}\n\\end{array}\n\\end{array}",
+        "text": "উত্তল দর্পনের ব্রস্মিগুল/প্রতিষ্কর্ধ্ব-।\n\nAMADER\nSCHOOL\n\\[\n\\begin{array}{l}\nc p=r \\\\\nF p=f \\\\\nr=\\frac{r}{2}\n\\end{array}\n\\]"
+      },
+      "gemini_description": "This frame captures a detailed segment of a physics lecture focusing on geometrical optics, specifically the properties and image formation rules for **Convex (Diverging) Spherical Mirrors**.\n\n---\n\n## Detailed Analysis of the Frame\n\n### 1. Visual Elements (Diagrams, Graphs, Illustrations)\n\nThe whiteboard features several interconnected diagrams illustrating the properties of a convex mirror:\n\n*   **Overall Context:** The mirror is drawn as a curved line, with shading/hatching on the concave side, indicating that the reflecting surface is the outer (convex) side. The image plane is virtual (behind the mirror).\n*   **Ray Diagrams (Top & Bottom Left):**\n    *   Two separate ray tracing examples are shown for a convex mirror, demonstrating how a real object (represented by an upward arrow, $PQ$) forms a virtual image ($P'Q'$).\n    *   The diagrams utilize standard ray tracing rules:\n        1.  An incident ray parallel to the principal axis reflects such that its extension appears to pass through the Principal Focus ($F$).\n        2.  An incident ray directed towards the Center of Curvature ($C$) is reflected back along the same path.\n    *   The resulting image ($P'Q'$) is shown to be **virtual** (formed by extensions of reflected rays, marked by dashed lines), **upright**, and **diminished** (smaller than the object).\n*   **Object Position Illustration (Center Right):**\n    *   A simplified representation of the convex mirror ($M M'$), Pole ($P$), Focus ($F$), and Center of Curvature ($C$).\n    *   Six numbered object positions (1 through 6, represented by red arrows) are marked along the principal axis, demonstrating various locations relative to $C$ and $F$. This emphasizes the fundamental property of convex mirrors: regardless of the object position (1 through 6), the image characteristics (virtual, upright, diminished) remain consistent.\n\n### 2. Physical Concepts or Phenomena Illustrated\n\n*   **Reflection by Spherical Mirrors:** The fundamental concept is the law of reflection applied to a curved surface.\n*   **Convex Mirror Properties:** Specifically highlights the nature of a diverging mirror, where incident rays parallel to the axis diverge upon reflection.\n*   **Image Formation (Ray Tracing):** Demonstrating the methodology for locating the position, nature, and size of the image ($P'Q'$) formed by the mirror.\n*   **Geometric Parameters:** Defining the key fixed points: Pole ($P$), Center of Curvature ($C$), and Principal Focus ($F$).\n\n### 3. Key Relationships or Structures Shown\n\nThe visual includes algebraic definitions and the governing relationship for spherical mirrors (under the paraxial approximation):\n\n| Notation | Description | Physics Meaning |\n| :--- | :--- | :--- |\n| **$CP = r$** | The distance between the Center of Curvature ($C$) and the Pole ($P$) is the Radius of Curvature ($R$ or $r$). | $r$ is the radius of the sphere from which the mirror is cut. |\n| **$FP = f$** | The distance between the Principal Focus ($F$) and the Pole ($P$) is the Focal Length ($f$). | $f$ determines the convergence/divergence power of the mirror. |\n| **$f = r/2$** (boxed) | The mathematical relationship between focal length and radius of curvature. | This identity is essential for calculations involving spherical mirrors, assuming the paraxial approximation (rays close to the principal axis). |\n\n### 4. Labels, Annotations, or Text Visible\n\n*   **Title (Bengali):** **উত্তল দর্পনের রশ্মিচিত্র/প্রতিবিম্ব** (Pronounced: *Uttaol Darpaner Roshmichitro/Protibimbo*)\n    *   *Translation:* Ray Diagrams/Image [Formation] of a Convex Mirror.\n*   **Standard Optical Labels:**\n    *   $P$ (Pole)\n    *   $F$ (Principal Focus)\n    *   $C$ (Center of Curvature)\n    *   $Q$ (Object base) and $Q'$ (Image base)\n    *   $M M'$ (Aperture/Extent of the mirror)\n*   **Object Position Annotations:** Numbers 1, 2, 3, 4, 5, 6 indicate different potential object locations.\n*   **Branding:** AMADER SCHOOL (educational platform).\n\n### 5. The Educational Purpose of This Visual\n\nThe visual serves multiple educational objectives in a structured manner:\n\n1.  **Definition and Geometry:** It introduces the standard geometric parameters ($C, F, P$) and their algebraic relationship ($f=r/2$).\n2.  **Visualization of Principles:** Through the ray diagrams, it visually demonstrates the laws of reflection applied to a diverging surface and how rays are traced to locate the image.\n3.  **Concept Reinforcement (Convex Mirrors):** It reinforces the key characteristic of the convex mirror—that it *always* produces a virtual, upright, and diminished image, regardless of where the object is placed (illustrated by the positions 1-6).\n4.  **Foundation for Calculations:** By clearly stating $CP=r$ and $FP=f$, it establishes the necessary variables for later application of the Mirror Formula and magnification equations."
+    },
+    {
+      "frame_id": "REF_22_F1",
+      "frame_path": "data/frames/REF_22/frame_715480ms_offset_0s.jpg",
+      "timestamp_ms": 715480,
+      "offset_seconds": 0,
+      "perceptual_hash": "f1bbc6c6345b7030",
+      "is_duplicate": false,
+      "quality": {
+        "blur_score": 245.8048578356978,
+        "brightness": 146.00035590277778,
+        "contrast": 44.64088217562992
+      },
+      "reference_id": "REF_22",
+      "mathpix_data": {
+        "request_id": "2025_10_02_cf5491ea22090d6ee582g",
+        "version": "SuperNet-106p1",
+        "is_printed": true,
+        "is_handwritten": true,
+        "auto_rotate_confidence": 0.036259694089437744,
+        "auto_rotate_degrees": 0,
+        "image_height": 720,
+        "image_width": 1280,
+        "confidence": 0.23891150763925584,
+        "confidence_rate": 0.9309189123870505,
+        "text": "AMADER\nSCHOOL\n\nবিস্বের অব্যবন:\n\" আরুতি:\n\\[\n\\begin{array}{l}\nc p=r \\\\\nF p=f \\\\\nr=\\frac{r}{2}\n\\end{array}\n\\]"
+      },
+      "gemini_description": "This frame captures a segment of a lecture focused on the fundamental geometry and ray tracing associated with a convex spherical mirror.\n\n## Detailed Analysis of the Frame\n\n### 1. Visual Elements (Diagrams, Graphs, Illustrations)\n\n**Main Header:** The title, written in Bengali, reads: \"উত্তল দর্পণে রশিচিত্র/প্রতিবিম্ব\" (Uttaal Darpané Rashichitra/Protibimbo), meaning \"Ray Diagrams/Images in a Convex Mirror.\"\n\n**Convex Mirror Setup (Right Side):**\n*   **Mirror:** A curved line segment, labeled $M M'$, represents the convex spherical mirror. Since the mirror is convex, the principal focus ($F$) and center of curvature ($C$) are virtual points located behind the reflecting surface (to the right, in this orientation).\n*   **Principal Axis:** A horizontal line passing through $C$, $F$, and $P$ (the Pole).\n*   **Key Points:**\n    *   $P$: The Pole (the geometric center of the mirror surface).\n    *   $F$: The Principal Focus (Focal Point).\n    *   $C$: The Center of Curvature.\n*   **Object Placement:** Six vertical arrows, numbered 1 through 6, are positioned along the principal axis to the left of the mirror. These represent various object positions used to analyze image formation in the convex mirror.\n\n**Ray Diagram (Left Side):**\n*   A partial ray diagram shows diverging reflected rays emanating from a point on the principal axis (behind the mirror), typical of a convex mirror. This diagram is likely used to illustrate how the virtual focus $F$ is defined (where extended reflected rays appear to meet).\n*   Additional annotations include $F$ on the axis and an obscured segment possibly depicting an image/object size (labeled $P$ and $Q$).\n\n### 2. Physical Concepts or Phenomena Illustrated\n\nThe frame illustrates the foundational geometric concepts required for **geometric optics** involving **spherical mirrors**, specifically:\n\n*   **Convex Reflection:** How light rays behave when reflecting off a diverging spherical surface.\n*   **Definition of Cardinal Points:** Establishing the Pole ($P$), Focal Point ($F$), and Center of Curvature ($C$).\n*   **Focal Length and Radius of Curvature:** Defining and relating the two primary measurement constants of the mirror.\n*   **Object Position Analysis:** Setting up the methodology (using objects 1-6) to systematically study how image characteristics change as the object distance varies.\n\n### 3. Key Relationships or Structures Shown\n\nThe following critical definitions and formulas, essential to spherical mirror calculations, are explicitly written:\n\n*   **Radius of Curvature Definition:**\n    $$CP = R$$\n    (The distance from the Center of Curvature ($C$) to the Pole ($P$) is the Radius of Curvature, $R$).\n*   **Focal Length Definition:**\n    $$FP = f$$\n    (The distance from the Focal Point ($F$) to the Pole ($P$) is the Focal Length, $f$).\n*   **Mirror Equation Relating $f$ and $R$ (Boxed):**\n    $$f = \\frac{R}{2}$$\n    (The focal length is half the radius of curvature, a relationship valid for paraxial rays reflecting off spherical mirrors). (Note: The handwritten Bengali character 'র' is used for $R$ in the equation.)\n\n### 4. Labels, Annotations, or Text Visible\n\n| Location | Text/Symbol | Meaning (English) | Context/Concept |\n| :--- | :--- | :--- | :--- |\n| Title | উত্তল দর্পণে রশিচিত্র/প্রতিবিম্ব | Ray Diagrams/Images in a Convex Mirror | Subject of the lecture |\n| Right Diagram | $P, F, C, M, M'$ | Pole, Focus, Center, Mirror edges | Cardinal points of the mirror |\n| Right Diagram | 1, 2, 3, 4, 5, 6 | Object Positions | System for image analysis |\n| Math Box | $CP = R$ | Radius of Curvature Definition | Geometric constant |\n| Math Box | $FP = f$ | Focal Length Definition | Geometric constant |\n| Math Box (Boxed) | $f = R/2$ | Focal Length-Radius Relationship | Fundamental mirror equation |\n| Left Text | বিম্বের অবস্তন | Position of the Image | Heading for image location discussion |\n| Left Text | আকৃতি | Size/Nature [of the image] | Heading for image characteristics discussion |\n| Top Right | AMADER SCHOOL | Lecture source/Branding | |\n\n### 5. The Educational Purpose of this Visual\n\nThe primary educational purpose of this visual is twofold:\n\n1.  **To Define Mirror Parameters:** To introduce and mathematically define the critical geometric parameters ($f$ and $R$) of a convex mirror and establish the fundamental proportionality ($f = R/2$) that governs its function.\n2.  **To Set up Ray Tracing Analysis:** To provide a visual framework for the systematic study of image formation in a convex mirror by illustrating multiple object positions (1 through 6) relative to the mirror's virtual center and focus, which is the precursor to drawing the ray diagrams themselves."
+    },
+    {
+      "frame_id": "REF_22_F2",
+      "frame_path": "data/frames/REF_22/frame_715480ms_offset_2s.jpg",
+      "timestamp_ms": 717480,
+      "offset_seconds": 2,
+      "perceptual_hash": "f892c7c63c137079",
+      "is_duplicate": false,
+      "quality": {
+        "blur_score": 244.69877492135947,
+        "brightness": 147.9869314236111,
+        "contrast": 43.265645610148994
+      },
+      "reference_id": "REF_22",
+      "mathpix_data": {
+        "request_id": "2025_10_02_f9422e046850e11ff05eg",
+        "version": "SuperNet-106p1",
+        "is_printed": true,
+        "is_handwritten": true,
+        "auto_rotate_confidence": 0.053165891695456935,
+        "auto_rotate_degrees": 0,
+        "image_height": 720,
+        "image_width": 1280,
+        "confidence": 0.0065713828097741555,
+        "confidence_rate": 0.8697197946602778,
+        "latex_styled": "\\begin{array}{l}\n\\text { ডিসল দর্পনে রrrross/প্রতিষ্কর্ধ }\\\\\n\\text { SCHROL }\\\\\n\\begin{array}{l}\nc p=r \\\\\nF p=f \\\\\nr=\\frac{r}{2}\n\\end{array}\n\\end{array}",
+        "text": "ডিসল দর্পনে রrrross/প্রতিষ্কর্ধ\nSCHROL\n\\[\n\\begin{array}{l}\nc p=r \\\\\nF p=f \\\\\nr=\\frac{r}{2}\n\\end{array}\n\\]"
+      },
+      "gemini_description": "This frame captures a segment of a physics lecture focused on geometrical optics, specifically dealing with spherical mirrors.\n\n## Detailed Analysis of the Frame\n\n### 1. Visual Elements (Diagrams, Graphs, Illustrations)\n\nThe visual content is centered on a primary ray diagram setup for a spherical mirror.\n\n*   **Mirror Representation:** A curved line segment, labeled $M M'$, represents the cross-section of a spherical mirror. The hatching (shading) on the outer surface confirms that the reflective side is the inner, concave surface.\n*   **Principal Axis:** A horizontal dashed line serves as the principal axis, intersecting the mirror at point $P$ (the Pole).\n*   **Key Points:** The Center of Curvature ($C$) and the Principal Focus ($F$) are marked along the axis.\n*   **Object Placement:** Six distinct object positions (labeled with red arrows and numbers 1 through 6) are sequentially placed along the principal axis, spanning from a distance beyond $C$ down to positions between $F$ and $P$. This setup is standard for illustrating the six cases of image formation by a concave mirror.\n*   **Partial Ray Tracing (Left):** A separate, partial diagram shows incident and reflected rays originating from a point object ($P$) and forming an image ($P'$) at another point, illustrating the process of image location via ray tracing.\n\n### 2. Physical Concepts or Phenomena Illustrated\n\nThe frame illustrates core concepts in Geometrical Optics:\n\n*   **Spherical Mirrors:** The fundamental geometry of concave (and potentially convex, based on the title) mirrors is established.\n*   **Image Formation:** The primary purpose is to teach the rules of image formation and the resulting characteristics (position, size, and nature) as the object's position changes relative to the focus ($F$) and center of curvature ($C$).\n*   **Focal Length and Radius of Curvature:** The frame defines and relates the critical parameters that characterize a spherical mirror.\n\n### 3. Key Relationships or Structures Shown\n\nSeveral crucial geometrical relationships defining spherical mirrors are explicitly written:\n\n*   **Radius of Curvature ($r$):** The distance from the Center of Curvature ($C$) to the Pole ($P$) is defined:\n    $$CP = r$$\n*   **Focal Length ($f$):** The distance from the Principal Focus ($F$) to the Pole ($P$) is defined:\n    $$FP = f$$\n*   **The Mirror Equation Relationship:** A crucial relationship is presented in a boxed equation (though the OCR showed a typo, the visual intent is clear):\n    $$f = \\frac{r}{2}$$\n    This structure demonstrates that the principal focus ($F$) lies exactly halfway between the pole ($P$) and the center of curvature ($C$).\n\n### 4. Labels, Annotations, or Text Visible\n\nThe text is primarily in Bengali (Bangla) and uses standard international symbols for physics quantities:\n\n*   **Title (Top Center):** **\"উত্তল দর্পণে রশমিচিত্র/প্রতিবিম্ব\"** (Uttal Dorpone Roshmichitro/Protibimbo).\n    *   *Translation:* Ray diagrams/Images in a Convex Mirror. (Note: A discrepancy exists as the diagram shown is characteristic of a Concave Mirror, although the title specifies Convex.)\n*   **Definitions (Center Right):** $CP = r$, $FP = f$.\n*   **Key Formula (Boxed):** $f = r/2$ (The relationship between focal length and radius).\n*   **Lecture Notes (Bottom Left, partially visible):**\n    *   **\"বিম্বের অবস্থান:\"** (Bimber Obosthan: Image position:)\n    *   **\"আকৃতি:\"** (Akriti: Size/Nature of the image:)\n*   **Mirror Labels:** $M, M', P, C, F$.\n\n### 5. Educational Purpose of This Visual\n\nThe visual serves multiple educational objectives for a lesson on reflection and spherical mirrors:\n\n1.  **Terminology Introduction:** It introduces and labels the key points and axes of a spherical mirror (P, F, C, principal axis, $r$, $f$).\n2.  **Case Study Setup:** The multiple numbered object positions (1-6) prepare the students for a sequential analysis of image formation cases, which is the standard methodology for teaching spherical mirrors.\n3.  **Fundamental Relationships:** It explicitly establishes the geometric relationship ($f = r/2$) which is essential for understanding and calculating mirror properties.\n4.  **Ray Tracing Practice:** The partial ray diagram on the left illustrates the geometric method used to locate the image, preparing students for practical problem-solving."
+    },
+    {
+      "frame_id": "REF_23_F0",
+      "frame_path": "data/frames/REF_23/frame_858576ms_offset_-2s.jpg",
+      "timestamp_ms": 856576,
+      "offset_seconds": -2,
+      "perceptual_hash": "9f8ff0c3f8e040f0",
+      "is_duplicate": false,
+      "quality": {
+        "blur_score": 473.4982700031376,
+        "brightness": 164.5506076388889,
+        "contrast": 48.98476914447713
+      },
+      "reference_id": "REF_23",
+      "mathpix_data": {
+        "request_id": "2025_10_02_3c87c529ffb2f237b8abg",
+        "version": "SuperNet-106p1",
+        "is_printed": true,
+        "is_handwritten": true,
+        "auto_rotate_confidence": 0.013553418153346541,
+        "auto_rotate_degrees": 0,
+        "image_height": 720,
+        "image_width": 1280,
+        "confidence": 0.001414887294620746,
+        "confidence_rate": 0.8553818757415339,
+        "latex_styled": "\\begin{array}{l}\n\\text { উত্তল দর্পনে রাশ্মগুর / প্রতিষ্করণ্ব) }\\\\\n\\text { AMADER }\\\\\n\\text { SCHOOL }\n\\end{array}",
+        "text": "উত্তল দর্পনে রাশ্মগুর / প্রতিষ্করণ্ব)\n\nAMADER\nSCHOOL"
+      },
+      "gemini_description": "This frame captures a segment of a Bengali physics lecture focused on geometrical optics, specifically the properties and image formation via **Convex Mirrors** (উত্তল দর্পন).\n\n---\n\n### 1. Visual Elements (Diagrams, Graphs, Illustrations)\n\nThe whiteboard features several hand-drawn diagrams illustrating ray tracing for convex mirrors, standard notation, and fundamental relationships.\n\n*   **Convex Mirror Representation:** The mirrors are drawn as curved arcs, typically facing the object space (left), with hatching on the back side (the side containing the focus $F$ and center $C$) indicating the non-reflecting surface.\n*   **Ray Tracing Diagrams (Top and Bottom Left/Right):** Multiple setups show objects (represented by upright arrows or vertical lines P-Q) and the paths of incident and reflected light rays. These diagrams use solid lines for real rays and dashed lines for the virtual extensions behind the mirror, which locate the **virtual image** (P'Q').\n    *   The diagrams consistently show the virtual image formed between the Pole (P) and the Principal Focus (F).\n*   **Object Position Schematic (Center Right):** A separate diagram shows a principal axis with points C and F, illustrating six numbered object positions (1 through 6) using upright arrows. While the lecture context is convex mirrors (which only have one general case for image formation), this arrangement (with points C and F) is often used to compare positions for *concave* mirrors, suggesting a review or comparative point is being made.\n*   **Measurements and Scale:** Numerical annotations (e.g., \"10 cm,\" \"40 cm\") are present, indicating that the instructor is working through specific numerical examples or problems related to object/image distances or radius of curvature.\n\n### 2. Physical Concepts or Phenomena Illustrated\n\nThe primary physical concept is **Reflection of Light** off a spherical reflecting surface, specifically a **Convex Mirror**.\n\n*   **Image Formation in a Convex Mirror:** The diagrams explicitly demonstrate that regardless of the object's position (in front of the mirror), a convex mirror always forms a **virtual**, **upright** (erect), and **diminished** image.\n*   **Rules of Ray Tracing:** The diagrams adhere to the standard rules of reflection:\n    1.  A ray parallel to the principal axis reflects as if it originated from the Principal Focus ($F$).\n    2.  A ray directed toward the Center of Curvature ($C$) reflects back along the same path. (This path is implied to locate the image point).\n*   **Paraxial Approximation:** The geometry of spherical mirrors is inherently dependent on the paraxial ray approximation (where rays are close to the principal axis), though this is usually implied rather than explicitly stated in introductory diagrams.\n\n### 3. Key Relationships or Structures Shown\n\nSeveral crucial definitional and mathematical relationships standard to spherical mirrors are visible:\n\n*   **Axis Definitions:** The principal axis is clearly defined by the horizontal line passing through the Pole (P), Focus (F), and Center of Curvature (C).\n*   **Focal Length and Radius of Curvature:** These definitions are explicitly stated:\n    *   $CP = R$ (Radius of Curvature)\n    *   $FP = f$ (Focal Length)\n*   **The Mirror Formula Relationship (boxed):** The fundamental relationship between focal length and radius of curvature is boxed in red:\n    $$\\gamma = \\frac{R}{2}$$\n    *(Note: The variable '$\\gamma$' likely represents the focal length '$f$' in the instructor's handwriting, thus reinforcing the relationship $f = R/2$ or $R = 2f$.)*\n\n### 4. Labels, Annotations, or Text Visible\n\n| Location | Text/Label | Interpretation |\n| :--- | :--- | :--- |\n| **Title** | `উত্তল দর্পনে রাশ্মগুচচ্ছ / প্রতিবিম্ব` | Ray Diagrams / Image in a Convex Mirror (Bengali) |\n| **Branding** | `AMADER SCHOOL` | Educational channel branding. |\n| **Diagram Labels** | P, Q, P', Q', M, M' | Pole (P), Object points (P, Q), Virtual image points (P', Q'), Aperture limits (M, M'). |\n| **Reference Points** | C, F | Center of Curvature (C), Principal Focus (F). |\n| **Definitions** | $CP = R$ | Radius of Curvature. |\n| **Definitions** | $FP = f$ | Focal Length. |\n| **Formula (Boxed)** | $\\gamma = \\frac{R}{2}$ | The fundamental relationship between focal length ($f$) and radius of curvature ($R$). |\n| **Numerical Data** | `10 cm` (Top), `40 cm` (Bottom) | Example distances likely representing object distance, image distance, or radius of curvature used for calculation. |\n\n### 5. The Educational Purpose of This Visual\n\nThe primary educational purpose of this visual is to **illustrate and derive the nature and position of images formed by a convex mirror using geometric ray tracing.**\n\nThis frame serves to:\n1.  **Introduce Terminology:** Define key geometric points (P, F, C) and physical quantities ($f$, $R$).\n2.  **Teach Construction Techniques:** Show students the standard ray paths required to locate the virtual image in a convex mirror.\n3.  **Reinforce Key Principles:** Demonstrate the fundamental relationship $f = R/2$.\n4.  **Solve Numerical Problems:** Provide visual context for applying the mirror equation or magnification formulas using specific numerical examples (10 cm, 40 cm)."
+    },
+    {
+      "frame_id": "REF_23_F1",
+      "frame_path": "data/frames/REF_23/frame_858576ms_offset_0s.jpg",
+      "timestamp_ms": 858576,
+      "offset_seconds": 0,
+      "perceptual_hash": "8187fe40f0fcf078",
+      "is_duplicate": false,
+      "quality": {
+        "blur_score": 507.34766990477834,
+        "brightness": 166.33554470486112,
+        "contrast": 47.98903318034625
+      },
+      "reference_id": "REF_23",
+      "mathpix_data": {
+        "request_id": "2025_10_02_000fec112cdfcd75cae8g",
+        "version": "SuperNet-106p1",
+        "is_printed": true,
+        "is_handwritten": true,
+        "auto_rotate_confidence": 0.004696100332974851,
+        "auto_rotate_degrees": 0,
+        "image_height": 720,
+        "image_width": 1280,
+        "confidence": 0.7697884328663349,
+        "confidence_rate": 0.9764952285592057,
+        "latex_styled": "\\begin{array}{l}\n\\text { AMADER }\\\\\n\\text { SCH00L }\n\\end{array}",
+        "text": "AMADER\nSCH00L"
+      },
+      "gemini_description": "This frame captures a segment of a lecture on geometric optics, specifically focusing on the properties of image formation by a convex mirror.\n\n---\n\n### 1. Visual Elements (Diagrams, Graphs, Illustrations)\n\nThe whiteboard features three main diagrams related to convex mirrors:\n\n*   **Top Left Diagram (Ray Tracing):** A detailed ray diagram illustrating the formation of a virtual image ($P'Q'$) of an object ($PQ$) placed in front of a convex mirror. The mirror surface is represented by a curved line with hatch marks on the convex side, indicating the non-reflecting surface. The principal axis, Pole (P), Focus (F), and Center of Curvature (C) are marked. Dashed lines behind the mirror indicate virtual rays, and solid lines indicate real incident and reflected rays.\n*   **Center Right Illustration (Object Positions):** A conceptual diagram showing a convex mirror and the principal axis. Six separate, numbered upright arrows (1 through 6) represent objects placed at various distances. This visually emphasizes that the image location is constrained regardless of the object position (always between P and F).\n*   **Bottom Right Diagram (Application/Problem):** A simplified ray diagram or setup for a numerical problem. It shows an object and the resultant diminished, virtual image, annotated with a specific distance measurement (\"40 cm\").\n\n### 2. Physical Concepts or Phenomena Illustrated\n\nThe primary concepts illustrated are:\n\n*   **Image Formation by Spherical Mirrors:** Specifically, the behavior of light rays upon reflection from a convex (diverging) mirror.\n*   **Ray Tracing Principles:** Demonstrating the application of at least two standard rays (e.g., a ray parallel to the principal axis reflecting as if coming from F, and a ray directed towards C reflecting back along the same path) to locate the image.\n*   **Virtual Image Characteristics:** Highlighting that convex mirrors *always* produce images that are virtual (formed by the apparent intersection of reflected rays), erect, and diminished.\n*   **Mirror Equation Variables:** Defining the key distances associated with spherical mirrors (focal length, radius of curvature, object distance, image distance).\n\n### 3. Key Relationships or Structures Shown\n\nSeveral fundamental relationships in geometric optics are presented:\n\n*   **Image Nature in Convex Mirrors:** The demonstration that for any real object placed in front of a convex mirror, the image will always be located between the Pole (P) and the Principal Focus (F).\n*   **Focal Length and Radius of Curvature Relationship:** Explicitly defined by the equations in the red box:\n    *   $CP = R$ (Radius of Curvature)\n    *   $FP = f$ (Focal Length)\n    *   $r = R/2$ (This is the paraxial relationship, usually written as $f = R/2$, confirming that the focal length is half the radius of curvature).\n*   **Distance Annotation:** Numerical values (e.g., \"10 cm,\" \"40 cm\") are indicated with brackets, likely representing object distance ($u$) or focal length ($f$), setting up the context for using the mirror formula ($1/f = 1/u + 1/v$).\n\n### 4. Labels, Annotations, or Text Visible\n\n**Bengali Text (Written in red, top):**\n*   Title: \"উত্তল দর্পণে রশ্মিচিত্র/প্রতিবিম্ব\" (Ray Diagrams/Images formed by a Convex Mirror).\n\n**Bengali Prompts (Left side):**\nThese prompt the lecturer to discuss the image properties:\n*   অবস্থান: (Obosthan - Position)\n*   আকৃতি: (Akriti - Size/Form)\n*   প্রকৃতি: (Prokriti - Nature)\n\n**English/Physics Notation (Handwritten):**\n*   C: Center of Curvature\n*   F: Principal Focus (Focal Point)\n*   P: Pole (or Vertex)\n*   $P', Q'$: Image points\n*   $M M'$: Aperture of the mirror\n*   Distances: $10 \\text{ cm}$ and $40 \\text{ cm}$\n\n**Formula Box (Red box):**\n*   $CP = R$\n*   $FP = f$\n*   $r = R/2$\n\n### 5. Educational Purpose of this Visual\n\nThe primary educational purpose is to visually and analytically demonstrate the laws of reflection applied to a convex mirror:\n\n1.  **Conceptual Understanding:** To show students *why* convex mirrors only produce virtual, erect, and diminished images, regardless of the object's position (illustrated by Diagram B).\n2.  **Procedural Skill:** To teach the precise technique of drawing ray diagrams for convex mirrors (Diagram A and C), a critical skill in optics.\n3.  **Definition of Variables:** To formally define the geometric constants (R and f) and their fundamental relationship ($f = R/2$).\n4.  **Problem Solving:** The inclusion of specific distances (10 cm, 40 cm) suggests the lesson will transition into numerical problem solving using the mirror formula, requiring students to calculate image position or magnification based on given parameters."
+    },
+    {
+      "frame_id": "REF_23_F2",
+      "frame_path": "data/frames/REF_23/frame_858576ms_offset_2s.jpg",
+      "timestamp_ms": 860576,
+      "offset_seconds": 2,
+      "perceptual_hash": "90c0e71e70737f70",
+      "is_duplicate": false,
+      "quality": {
+        "blur_score": 485.1641253089008,
+        "brightness": 168.95601019965278,
+        "contrast": 40.33160022868966
+      },
+      "reference_id": "REF_23",
+      "mathpix_data": {
+        "request_id": "2025_10_02_ddb192ab65b45b0991feg",
+        "version": "SuperNet-106p1",
+        "is_printed": true,
+        "is_handwritten": true,
+        "auto_rotate_confidence": 0.0007548585945045261,
+        "auto_rotate_degrees": 0,
+        "image_height": 720,
+        "image_width": 1280,
+        "confidence": 0.8501057624816895,
+        "confidence_rate": 0.9946014743383104,
+        "latex_styled": "\\begin{array}{l}\n\\text { AMADER }\\\\\n\\text { SCHOOL }\\\\\n\\begin{array}{l}\nC P=r \\\\\nF P=f \\\\\nr=\\frac{r}{2}\n\\end{array}\n\\end{array}",
+        "text": "AMADER\nSCHOOL\n\\[\n\\begin{array}{l}\nC P=r \\\\\nF P=f \\\\\nr=\\frac{r}{2}\n\\end{array}\n\\]"
+      },
+      "gemini_description": "This frame captures a segment of a physics lecture focused on geometrical optics, specifically dealing with image formation using convex spherical mirrors.\n\n---\n\n### 1. Visual Elements (Diagrams, Graphs, Illustrations)\n\nThe whiteboard is dominated by three main ray diagrams demonstrating image formation by an **Uuttal Darpan** (Convex Mirror):\n\n*   **Spherical Mirror Representation:** The mirror surface is drawn as a curved line with outward curvature (convex side facing the incident light) and inward hatching/shading indicating the silvered, non-reflecting side.\n*   **Ray Tracing Diagrams:** Multiple diagrams show rays originating from an object, striking the convex surface, and reflecting. The reflected rays diverge, but their virtual extensions (drawn as dashed lines behind the mirror) intersect to form a virtual image.\n    *   Key optical points are labeled: **C** (Center of Curvature) and **F** (Principal Focus), which are located virtually behind the mirror surface.\n    *   An object is depicted as an upward arrow placed on the principal axis. The resulting image is also an upward arrow, smaller (diminished) and located between F and the Pole (P).\n*   **Object Position Schematic:** A green bracket separates the main diagrams from a simplified illustration showing six labeled positions (1 through 6) along the principal axis. These positions represent various placements of the object relative to C and F, serving to categorize possible scenarios for analysis.\n*   **Numerical Examples:** Two diagrams feature numerical distances marked along the principal axis: \"$10 \\text{ cm}$\" (top left) and \"$40 \\text{ cm}$\" (bottom right), suggesting the application of the mirror equation or magnification calculations in the lesson.\n\n### 2. Physical Concepts or Phenomena Illustrated\n\nThe frame illustrates core concepts of Geometrical Optics related to spherical reflection:\n\n*   **Reflection by a Convex Mirror:** How parallel and non-parallel light rays behave upon incidence and reflection from a diverging surface.\n*   **Ray Tracing Rules:** The specific paths that principal rays (e.g., parallel to the axis, directed toward F, directed toward C) take to locate the image position.\n*   **Image Characteristics:** The resulting images formed by convex mirrors are always **virtual** (formed by the apparent intersection of reflected rays), **erect** (upright), and **diminished** (smaller than the object), regardless of the object's position. This is partially documented by the partial Bengali text regarding \"আকৃতি\" (size) and \"প্রকৃতি\" (nature).\n*   **Focal Length and Radius of Curvature:** The definition and geometric relationship between these two parameters for a spherical mirror.\n\n### 3. Key Relationships or Structures Shown\n\nThe frame explicitly defines and states the fundamental geometric relationship for spherical mirrors:\n\n| Relationship | Description | Standard Notation |\n| :--- | :--- | :--- |\n| $\\mathbf{CP = r}$ | The distance from the Pole (P) to the Center of Curvature (C) is the radius of curvature. | $r$ (or $R$) |\n| $\\mathbf{FP = f}$ | The distance from the Focus (F) to the Pole (P) is the focal length. | $f$ |\n| $\\mathbf{f = \\frac{r}{2}}$ | The focal length is half the radius of curvature. (Although the OCR output showed $r = r/2$, visual inspection confirms the equation written in the red box is $f = r/2$). | $f = r/2$ |\n\n### 4. Labels, Annotations, or Text Visible\n\n*   **Title (Bengali):** \"উত্তল দর্পণে রশ্মিচিত্র/প্রতিবিম্ব\" (Ray diagrams/Image formation in a Convex Mirror).\n*   **Branding:** AMADER SCHOOL.\n*   **Equations/Variables:** $CP=r$, $FP=f$, and $f = r/2$.\n*   **Geometric Points:** F (Focus), C (Center of Curvature), P (Pole, often implicit at the origin). M and M' denote the ends of the mirror aperture.\n*   **Bengali Annotations (Partial):** Terms related to image analysis on the left side, including:\n    *   \"অবস্থান:\" (Position)\n    *   \"আকৃতি:\" (Size/Magnitude)\n    *   \"প্রকৃতি:\" (Nature/Type)\n*   **Numerical Data:** $10 \\text{ cm}$ and $40 \\text{ cm}$.\n\n### 5. The Educational Purpose of This Visual\n\nThe primary educational purpose of this visual is twofold:\n\n1.  **Illustrative Ray Tracing:** To provide clear, step-by-step visual guidance on how to accurately construct ray diagrams for any object placed in front of a convex mirror, verifying the predictable image location (always between P and F) and nature (always virtual, erect, and diminished).\n2.  **Definition of Optical Constants:** To introduce and formally define the crucial geometric constants ($f$ and $r$) associated with spherical mirrors and establish the paraxial approximation relationship ($f = r/2$) which is fundamental for solving mirror problems. The numerical distances suggest that the concept will immediately transition into quantitative problem-solving."
+    },
+    {
+      "frame_id": "REF_24_F0",
+      "frame_path": "data/frames/REF_24/frame_930124ms_offset_-2s.jpg",
+      "timestamp_ms": 928124,
+      "offset_seconds": -2,
+      "perceptual_hash": "9ce0ff7e07f21840",
+      "is_duplicate": false,
+      "quality": {
+        "blur_score": 418.7319563354387,
+        "brightness": 138.4911349826389,
+        "contrast": 32.941201588941354
+      },
+      "reference_id": "REF_24",
+      "mathpix_data": {
+        "request_id": "2025_10_02_dac37d432872b4c760d5g",
+        "version": "SuperNet-106p1",
+        "is_printed": true,
+        "is_handwritten": true,
+        "auto_rotate_confidence": 0.00018086737204825454,
+        "auto_rotate_degrees": 0,
+        "image_height": 720,
+        "image_width": 1280,
+        "confidence": 0.03362506055013603,
+        "confidence_rate": 0.914593215967547,
+        "latex_styled": "\\begin{array}{l}\n\\text { ডিসল দর্পনে ব্লিস্ঠত্র/প্রতিষ্কিধ }\\\\\n\\begin{array}{l}\n\\text { AMADER } \\\\\n\\text { SCHOOL }\n\\end{array}\n\\end{array}",
+        "text": "ডিসল দর্পনে ব্লিস্ঠত্র/প্রতিষ্কিধ\n\nAMADER\nSCHOOL"
+      },
+      "gemini_description": "This frame is taken from a lecture on Geometrical Optics, specifically demonstrating the formation of images using spherical mirrors, with a primary focus on the **Convex Mirror**.\n\n## 1. Visual Elements (Diagrams, Graphs, Illustrations)\n\nThe whiteboard contains three primary visual segments, all hand-drawn ray diagrams and associated annotations:\n\n**A. Main Convex Mirror Diagram (Top Left):**\n*   A convex spherical mirror (diverging mirror) is drawn, distinguished by hatching on the inner (concave) side.\n*   A **principal axis** runs horizontally through the **pole (P)**.\n*   An upright object ($PQ$) is placed in front of the mirror.\n*   Ray tracing demonstrates image formation:\n    *   A ray parallel to the principal axis reflects such that its extension (dashed line) passes through the **focal point (F)**, located behind the mirror.\n    *   A ray aimed towards the center of curvature (C, implied but not explicitly labeled near the pole) is used, although the diagram may use a different ray rule (e.g., ray aiming toward P).\n*   The **virtual image** ($P'Q'$) is formed behind the mirror where the extended reflected rays intersect, located between P and F.\n*   A dimensional label of $10\\text{ cm}$ is visible below the object, likely representing the object distance ($u$).\n\n**B. Concave Mirror Conceptual Setup (Top Middle/Right):**\n*   A segment of the principal axis is shown with key points: **Center of Curvature (C)** and **Focal Point (F)**.\n*   Multiple object positions (labeled 1 through 6 with upward arrows) are marked, corresponding to the standard six cases of image formation for a concave (converging) mirror. This segment acts as background context for spherical mirrors in general.\n\n**C. Auxiliary Convex Mirror/Calculation Diagram (Bottom Right):**\n*   A second convex mirror ray diagram is present, reinforcing the concept.\n*   It illustrates another case of image formation, showing the resulting diminished, virtual image ($P'Q'$).\n*   A distance is labeled as $40\\text{ cm}$ below the object/principal axis, likely representing a numerical value for object distance, focal length, or radius of curvature used in a subsequent calculation problem.\n\n## 2. Physical Concepts or Phenomena Illustrated\n\n*   **Reflection by Spherical Mirrors:** The fundamental laws of reflection applied to curved surfaces.\n*   **Ray Tracing for Convex Mirrors:** Demonstrating the two key rules required to geometrically locate a virtual image formed by a diverging mirror.\n*   **Image Characteristics of Convex Mirrors:** Highlighting that convex mirrors always produce images that are:\n    1.  **Virtual** (formed by extended rays, behind the mirror).\n    2.  **Upright/Erect** (same orientation as the object).\n    3.  **Diminished** (smaller than the object).\n*   **Relationship between Focal Length and Radius of Curvature:** Defining the geometric properties of the spherical mirror.\n\n## 3. Key Relationships or Structures Shown\n\n**A. Geometric Relationships (Annotations):**\nThe standard relationships for spherical mirrors are defined:\n*   $CP = R$ (Radius of Curvature, $R$)\n*   $FP = f$ (Focal Length, $f$)\n*   $f = \\frac{R}{2}$ (Focal length is half the radius of curvature).\n    *(Note: The boxed equation in the diagram appears to be written as $\\rho = \\frac{R}{2}$, where $\\rho$ is likely intended to represent $f$ or the magnification factor depending on context, but given the preceding lines, it confirms the $f=R/2$ relationship.)*\n\n**B. Image Characteristics (Bengali Text):**\nThe results of the ray diagram (top left) are summarized:\n*   **বিম্বের অবস্থান (Image Position):** $F$ ও $P$ এর মধ্যে (Between $F$ and $P$).\n*   **আকৃতি (Size):** খর্বিত (Diminished/Reduced).\n*   **প্রকৃতি (Nature):** অসদ ও সোজা (Virtual and Erect).\n\n## 4. Labels, Annotations, or Text Visible\n\n| Element | Detected Text (Bengali) | Translation/Meaning |\n| :--- | :--- | :--- |\n| **Title** | উত্তল দর্পনে রশ্মিচিত্র/প্রতিবিম্ব | Ray Diagram/Image in a Convex Mirror |\n| **Image Location** | বিম্বের অবস্থান: F ও P এর মধ্যে | Image Location: Between F and P |\n| **Image Size** | আকৃতি: খর্বিত | Size: Diminished |\n| **Image Nature** | প্রকৃতি: অসদ ও সোজা | Nature: Virtual and Erect |\n| **Distances** | $10\\text{ cm}$, $40\\text{ cm}$ | Specific object/distance values for calculation |\n| **Geometric Formulas** | $CP = R$, $FP = f$, $\\rho = R/2$ | Definitions of Radius of Curvature ($R$) and Focal Length ($f$) |\n| **Points/Axes** | $P, Q, P', Q', F$ | Object points, image points, Focal Point |\n| **Branding** | AMADER SCHOOL | Lecture source/platform |\n\n## 5. The Educational Purpose of this Visual\n\nThe primary educational purpose is to provide a comprehensive, systematic instruction on the optics of convex mirrors.\n\n1.  **Conceptual Proof:** To visually prove, through geometrical ray tracing, the immutable characteristics of the image formed by a convex mirror (always virtual, upright, and diminished, located between P and F).\n2.  **Reinforcement:** The presence of multiple convex mirror diagrams, along with the summary characteristics, ensures the student grasps the single standard case for this mirror type.\n3.  **Mathematical Link:** The inclusion of geometric relationships ($f=R/2$) and specific numerical values ($10\\text{ cm}, 40\\text{ cm}$) bridges the conceptual ray tracing with quantitative problem-solving using the mirror formula ($\\frac{1}{v} + \\frac{1}{u} = \\frac{1}{f}$), which likely follows this diagrammatic explanation.\n4.  **Contextual Comparison:** The small diagram showing the six object positions (1-6) serves as a contrast, reminding students that the concave mirror has six different cases, while the convex mirror only has one characteristic image type."
+    },
+    {
+      "frame_id": "REF_24_F1",
+      "frame_path": "data/frames/REF_24/frame_930124ms_offset_0s.jpg",
+      "timestamp_ms": 930124,
+      "offset_seconds": 0,
+      "perceptual_hash": "9ce0fffe077a1040",
+      "is_duplicate": true,
+      "quality": {
+        "blur_score": 418.6659146951452,
+        "brightness": 138.40005425347223,
+        "contrast": 33.05324040674296
+      },
+      "reference_id": "REF_24",
+      "mathpix_data": null,
+      "gemini_description": null
+    },
+    {
+      "frame_id": "REF_24_F2",
+      "frame_path": "data/frames/REF_24/frame_930124ms_offset_2s.jpg",
+      "timestamp_ms": 932124,
+      "offset_seconds": 2,
+      "perceptual_hash": "86e0ffff435e4040",
+      "is_duplicate": false,
+      "quality": {
+        "blur_score": 428.8099213621349,
+        "brightness": 139.19122829861112,
+        "contrast": 32.92865144243948
+      },
+      "reference_id": "REF_24",
+      "mathpix_data": {
+        "request_id": "2025_10_02_60f054c67731eaa2f051g",
+        "version": "SuperNet-106p1",
+        "is_printed": true,
+        "is_handwritten": true,
+        "auto_rotate_confidence": 0.00019254551920866447,
+        "auto_rotate_degrees": 0,
+        "image_height": 720,
+        "image_width": 1280,
+        "confidence": 0.0025690303206437354,
+        "confidence_rate": 0.8197076238268609,
+        "text": "ডিকল দর্পনে ব্লিস্ঠত্র/প্রতিষ্কিধ\n\nAMADER\nSCHOOL\n\" আরূতি: जর্বার্ত \"- স্বর্তি: जडनि ও (N195)"
+      },
+      "gemini_description": "This frame captures a segment of a physics lecture dedicated to geometric optics, specifically focusing on the properties of spherical mirrors, with a primary emphasis on the convex mirror.\n\n## 1. Visual Elements (Diagrams, Graphs, Illustrations)\n\nThe whiteboard contains multiple interconnected ray diagrams and supporting annotations:\n\n### A. Convex Mirror Ray Diagram (Top Left)\n*   **Mirror Type:** A spherical mirror segment is drawn, behaving as a **Convex Mirror** (reflecting surface is bulged outwards).\n*   **Object and Image:** An object (PQ) is shown in front of the mirror. A virtual, diminished, and upright image (P'Q') is formed *behind* the mirror, located between the Pole (P) and the Principal Focus (F).\n*   **Ray Tracing:** Two incident rays are traced: one parallel to the principal axis, which reflects as if diverging from F, and a second ray used for image localization.\n*   **Annotation:** A horizontal distance is labeled as \"$10\\text{ unit}$\" (unit likely cm or m), indicating an object or image distance for a calculation example.\n\n### B. Concave Mirror Axis Reference (Right Center)\n*   A section of a **Concave Mirror** (labeled $M M'$) is shown along the principal axis.\n*   **Object Positions:** Six distinct potential object positions (labeled 1 through 6, marked by small red arrows) are indicated relative to C (Center of Curvature) and F (Principal Focus). This diagram serves as a quick reference or categorization tool for standard concave mirror cases.\n\n### C. Principle of Mirror Geometry (Right Side)\n*   Mathematical relationships defining key distances are listed:\n    *   $CP = R$ (Radius of Curvature)\n    *   $FP = f$ (Focal Length)\n*   A boxed relationship is provided: $R = \\frac{r}{2}$. *Note: This appears to be a miswritten form of the fundamental relationship $f = R/2$, where $R$ (radius) is likely intended to be $f$ (focal length), demonstrating the relationship $f=R/2$ or $R=2f$.*\n\n### D. Convex Mirror Example (Bottom Right)\n*   A simplified diagram of a convex mirror setup.\n*   A distance measurement is indicated along the principal axis: \"$40\\text{ cm}$.\" This typically represents the Radius of Curvature ($R$), implying $f = 20\\text{ cm}$.\n\n## 2. Physical Concepts or Phenomena Illustrated\n\n*   **Geometric Optics:** The study of light reflection using ray diagrams.\n*   **Spherical Mirrors:** Specifically, the differences in image formation between convex (diverging) and concave (converging) mirrors.\n*   **Image Formation in Convex Mirrors (Utthal Darpan):** Demonstrating the characteristic image—always virtual, erect, and diminished—regardless of the object's position (provided it is in front of the mirror).\n*   **Mirror Formula Derivation/Relationships:** Defining the relationship between the radius of curvature ($R$) and the focal length ($f$).\n\n## 3. Key Relationships or Structures Shown\n\n### A. Textual Summary of Convex Image Properties (Left Side - Bengali Notes)\nThese points summarize the predictable outcome for any real object placed in front of a convex mirror:\n\n*   **বিম্বের অবস্থান:** $F \\text{ ও } P \\text{ এর মাঝখানে}$ (Image Position: Between F and P)\n*   **আকৃতি:** **ক্ষুদ্রিত** (Size/Magnification: Diminished)\n*   **প্রকৃতি:** **অসদ ও সোজা** (Nature: Virtual and Upright/Erect)\n\n### B. Mathematical Relationship\n*   The essential geometric relation for a paraxial ray approximation in spherical mirrors: $f = R/2$ (Focal length equals half the radius of curvature).\n\n## 4. Labels, Annotations, or Text Visible\n\n### Bengali (Top Header)\n*   **উত্তল দর্পণে রশ্মিচিত্র/প্রতিবিম্ব** (Uthol Dorpone Roshichitro/Protibimbo) - Ray diagram/Image formation in a Convex Mirror.\n\n### Bengali (Image Properties Summary)\n*   **বিম্বের অবস্থান:** (Image Position)\n*   **আকৃতি:** (Size/Magnification)\n*   **প্রকৃতি:** (Nature)\n\n### Technical Labels\n*   $C$: Center of Curvature\n*   $F$: Principal Focus (Focal Point)\n*   $P$: Pole of the mirror (sometimes implied as the point where the principal axis meets the mirror surface)\n*   $R$: Radius of Curvature ($CP$)\n*   $f$: Focal Length ($FP$)\n*   $PQ$: Object\n*   $P'Q'$: Image\n\n### Numerical Data\n*   $10\\text{ unit}$ (distance)\n*   $40\\text{ cm}$ (distance, likely R)\n\n## 5. Educational Purpose of this Visual\n\nThe primary educational purpose is to rigorously define and illustrate the concepts of image formation in spherical mirrors. Specifically, the frame serves to:\n\n1.  **Establish Definitions:** Clearly define and label the crucial geometric parameters of a mirror (Pole, Focus, Center of Curvature, $f$, $R$).\n2.  **Teach Convex Mirror Behavior:** Provide a definitive demonstration using ray tracing that a convex mirror consistently produces virtual, erect, and diminished images, regardless of object position.\n3.  **Provide Context for Calculations:** Introduce the fundamental relationship $f = R/2$ and provide specific numerical examples ($10\\text{ unit}$, $40\\text{ cm}$) to prepare students for solving lens/mirror problems using the standard sign conventions and the mirror formula.\n4.  **Contrast:** By including the object positions for the concave mirror (Diagram C), the instructor sets up a foundation for contrasting the fixed nature of convex mirror images against the diverse range of images produced by concave mirrors."
+    },
+    {
+      "frame_id": "REF_31_F0",
+      "frame_path": "data/frames/REF_31/frame_1216316ms_offset_-2s.jpg",
+      "timestamp_ms": 1214316,
+      "offset_seconds": -2,
+      "perceptual_hash": "80807ee05efe7e70",
+      "is_duplicate": false,
+      "quality": {
+        "blur_score": 745.9811273459816,
+        "brightness": 168.5196994357639,
+        "contrast": 37.53187488431049
+      },
+      "reference_id": "REF_31",
+      "mathpix_data": {
+        "request_id": "2025_10_02_a733344644820bd40450g",
+        "version": "SuperNet-106p1",
+        "is_printed": true,
+        "is_handwritten": true,
+        "auto_rotate_confidence": 0.00028453117471016753,
+        "auto_rotate_degrees": 0,
+        "image_height": 720,
+        "image_width": 1280,
+        "confidence": 0.0022416374147143396,
+        "confidence_rate": 0.7795587837685576,
+        "text": "ডিকল দর্পনে রশ্মrrg/-প্রতিষ্কিধ\nMADER\nSCHOOL\n\\( \\frac{1}{v}+\\frac{1}{u}=\\frac{1}{f} \\)\n\n\"আরূতি: जর্বিত\n11. স্বন্ধতি: ज399 3 (N15) অবস্থান 3\n(जा)\n\nMagnification বিবর্ধন\n\\[\nm=\\frac{l_{i}}{l_{0}}=\\frac{2 \\mathrm{~cm}}{5 \\mathrm{~cm}}\n\\]\n\\[\n\\begin{array}{l}\nc p=r \\\\\nF p=f \\\\\nr=\\frac{r}{2}\n\\end{array}\n\\]\n\\( \\square \\)\n\\( 1^{c} \\frac{2 \\mathrm{~cm}}{5}<1 \\)"
+      },
+      "gemini_description": "This detailed analysis covers the visual, conceptual, and mathematical content presented in the frame of a Bengali physics lecture focused on spherical optics.\n\n---\n\n## Technical Analysis of the Physics Lecture Frame\n\nThe frame illustrates the fundamental principles of geometric optics related to **Convex Spherical Mirrors** (উত্তল দর্পণে).\n\n### 1. Visual Elements and Diagrams\n\nThe whiteboard features three main diagrams related to image formation by a convex mirror ($M M'$), defined by its reflecting surface that curves outward.\n\n*   **Diagram 1 (Top Left):** A standard ray diagram showing an object ($PQ$) placed in front of the convex mirror.\n    *   Incident rays (solid lines) reflect and diverge.\n    *   Reflected rays are traced backward (dashed lines) to form a virtual image ($P'Q'$) located between the Pole ($P$) and the Focal point ($F$).\n    *   The image formed is visibly smaller than the object. A horizontal distance is labeled as $10 \\text{ cm}$.\n\n*   **Diagram 2 (Top Right):** An illustrative representation showing various object positions (labeled 1 through 6, marked by red arrows) along the principal axis relative to the Center of Curvature ($C$) and the Focal Point ($F$). This diagram reinforces the concept that, unlike concave mirrors, the characteristics of the image formed by a convex mirror remain constant regardless of the object's distance (always virtual, erect, and diminished).\n\n*   **Diagram 3 (Bottom):** Another specific ray diagram, possibly for a numerical example.\n    *   An object is placed at a distance labeled $40 \\text{ cm}$ (object distance, $u$).\n    *   The virtual image is formed near $F$. This diagram includes the calculation for magnification based on hypothetical image and object heights.\n\n### 2. Physical Concepts or Phenomena Illustrated\n\nThe central concept is **Image Formation by a Convex Mirror**. Specific phenomena demonstrated include:\n\n*   **Divergence of Reflected Rays:** Convex mirrors cause parallel or incident rays to diverge upon reflection.\n*   **Virtual Image Formation:** Images are formed by the apparent intersection of the extended reflected rays behind the mirror surface.\n*   **Consistent Image Characteristics:** Convex mirrors *always* produce images that are:\n    1.  **Virtual** (অসদ - Asad)\n    2.  **Erect/Upright** (সোজা - Shoja)\n    3.  **Diminished** (খর্বিত - Kharbito)\n\n### 3. Key Relationships or Structures Shown\n\nThe frame contains the key mathematical formulas governing spherical mirrors:\n\n#### A. Mirror Formula:\n\\[ \\frac{1}{v} + \\frac{1}{u} = \\frac{1}{f} \\]\n*   Where $u$ is object distance, $v$ is image distance, and $f$ is focal length. This formula is labeled \"ধ্রুব\" (Dhruba, meaning constant or fixed).\n\n#### B. Focal Length and Radius of Curvature:\nThe relationships defining the mirror geometry are listed:\n*   $CP = R$ (Radius of Curvature)\n*   $FP = f$ (Focal Length)\n*   A framed equation attempts to define the relationship:\n    \\[ R = \\frac{R}{2} \\]\n    *Note: This appears to be a transcription error in handwriting. In physics, the intended relationship for paraxial rays is $f = R/2$, meaning the focal length is half the radius of curvature.*\n\n#### C. Magnification:\nThe concept of linear magnification is explicitly calculated:\n\\[ m = \\frac{l_{i}}{l_{o}} \\]\n*   Where $m$ is magnification, $l_i$ is image height, and $l_o$ is object height.\n*   A numerical example is provided:\n    \\[ m = \\frac{2 \\text{ cm}}{5 \\text{ cm}} \\]\n*   The conclusion drawn is boxed: $\\frac{2}{5} < 1$, confirming the image is diminished.\n\n### 4. Labels, Annotations, or Text\n\n| Category | Bengali Text (Transliteration/Translation) | Description |\n| :--- | :--- | :--- |\n| **Title** | উত্তল দর্পণে রশ্মিচিত্র/প্রতিবিম্ব (Uttal Darpané Rashmichitra/Protibimbo) | Ray Diagram/Image in a Convex Mirror |\n| **Image Characteristics** | বস্তুর অবস্থান: F ও P এর মধ্যবর্তী (Bostur Obosthan: F o P er Modhyoborti) | Object Position: Between F and P (Image always forms here) |\n| | আকৃতি: খর্বিত (Akruti: Kharbito) | Size: Diminished |\n| | প্রকৃতি: অসদ ও সোজা (Prokriti: Asad o Shoja) | Nature: Virtual and Erect |\n| **Mathematical** | $f = R/2$ (Implicit, written as $R = R/2$) | Relationship between focal length and radius. |\n| | Magnification বিবর্ধন (Bibarbdhon) | Label for the magnification calculation. |\n\n### 5. Educational Purpose\n\nThe primary educational purpose of this visual aid is to systematically demonstrate the characteristics and mathematical treatment of images formed by convex mirrors. It serves to:\n1.  Visually reinforce the rules of ray tracing for diverging mirrors.\n2.  Provide a clear, summarized list of the image properties (always virtual, erect, diminished).\n3.  Connect the visual ray diagrams to the analytical tools of geometric optics, specifically the Mirror Formula and the Magnification Formula, using specific numerical examples."
+    },
+    {
+      "frame_id": "REF_31_F1",
+      "frame_path": "data/frames/REF_31/frame_1216316ms_offset_0s.jpg",
+      "timestamp_ms": 1216316,
+      "offset_seconds": 0,
+      "perceptual_hash": "8087fee0f8f07878",
+      "is_duplicate": false,
+      "quality": {
+        "blur_score": 663.3694617862656,
+        "brightness": 158.75306098090277,
+        "contrast": 42.19176908524602
+      },
+      "reference_id": "REF_31",
+      "mathpix_data": {
+        "request_id": "2025_10_02_a3046fb089eac94d9a65g",
+        "version": "SuperNet-106p1",
+        "is_printed": true,
+        "is_handwritten": true,
+        "auto_rotate_confidence": 0.0006767693362093041,
+        "auto_rotate_degrees": 0,
+        "image_height": 720,
+        "image_width": 1280,
+        "confidence": 0.03846072464582175,
+        "confidence_rate": 0.9134713474168523,
+        "text": "ডিসল দর্পনে রrrross/প্রতিষ্কর্ধ\nAMADER\nSCHOOL\n\nMagnification \\( \\frac{2}{5}<1 \\) বিবর্ধন"
+      },
+      "gemini_description": "This frame is taken from a physics lecture focused on geometrical optics, specifically the properties of image formation by convex spherical mirrors.\n\n## Detailed Technical Analysis\n\n### 1. Visual Elements (Diagrams, Graphs, Illustrations)\n\nThe whiteboard is dominated by ray diagrams and accompanying equations and definitions, all related to a **Convex Mirror** (উত্তল দর্পণ).\n\n*   **Header:** The main topic is titled: \"উত্তল দর্পণে রশ্মিচিত্র/প্রতিবিম্ব\" (Ray Diagrams/Images in a Convex Mirror).\n*   **Ray Diagrams (Three Main Areas):**\n    *   **Top Diagram:** Illustrates the formation of a virtual image ($P'Q'$) behind a convex mirror. Two principal rays are shown: one parallel to the principal axis (reflecting as if coming from the virtual Focus $F$), and one directed toward the Center of Curvature $C$ (reflecting back upon itself). The image is formed by the intersection of the extended reflected rays.\n    *   **Middle Right Diagram:** Shows the setup of the spherical mirror, defining the Pole ($P$), Center of Curvature ($C$), and Focus ($F$). A series of object positions (1 through 6) are indicated along the principal axis.\n    *   **Bottom Diagram:** Reinforces the convex mirror image formation, showing an object producing a smaller, virtual image near the focus $F$. Distances are indicated (e.g., $40 \\text{ cm}$).\n*   **Equations and Formulas:** Key optical relationships are displayed.\n\n### 2. Physical Concepts or Phenomena Illustrated\n\nThe frame illustrates the fundamental principles of **Reflection and Image Formation by Spherical Mirrors**, specifically focusing on the unique behavior of the **Convex Mirror**.\n\n*   **Concept 1: Image Characteristics in Convex Mirrors:** Convex mirrors are divergent and always produce images that are:\n    *   **Virtual (অসদ):** The image is formed by the apparent intersection of reflected rays (behind the mirror surface).\n    *   **Erect (সোজা):** The image is oriented the same way as the object.\n    *   **Diminished/Reduced (খর্বিত):** The image size is smaller than the object size, regardless of the object's position.\n*   **Concept 2: Mirror Formula:** The algebraic relationship governing object, image, and focal distances.\n*   **Concept 3: Magnification:** The calculation and interpretation of linear magnification ($m$).\n*   **Concept 4: Relation between Focal Length and Radius of Curvature:** $f = R/2$.\n\n### 3. Key Relationships or Structures Shown\n\n*   **Mirror Equation:**\n    $$\\frac{1}{v} + \\frac{1}{u} = \\frac{1}{f}$$\n    Where $u$ is object distance, $v$ is image distance, and $f$ is focal length.\n*   **Radius and Focal Length:**\n    $$CP = R \\text{ (Radius of Curvature)}$$\n    $$FP = f \\text{ (Focal Length)}$$\n    (A box attempts to define $f = R/2$, though the handwritten text shows $R = R/2$, which is likely a slip for the intended relationship $f=R/2$).\n*   **Linear Magnification ($m$):**\n    $$m = \\frac{L_i}{L_o}$$\n    Where $L_i$ is image height and $L_o$ is object height.\n*   **Magnification Calculation Example:**\n    $$m = \\frac{2 \\text{ cm}}{5 \\text{ cm}}$$\n    This leads directly to the conclusion:\n    $$\\frac{2}{5} < 1$$\n    This mathematical inequality confirms the physical observation that the image is **diminished** (magnification is less than one).\n\n### 4. Labels, Annotations, or Text Visible\n\n| Bengali Text | Translation/Meaning | Context |\n| :--- | :--- | :--- |\n| উত্তল দর্পণে রশ্মিচিত্র/প্রতিবিম্ব | Ray Diagrams/Images in a Convex Mirror | Lecture Topic Header |\n| আকৃতি: খর্বিত | Size: Diminished/Reduced | Image characteristics for the convex mirror |\n| প্রকৃতি: অসদ ও সোজা | Nature: Virtual and Erect | Image characteristics for the convex mirror |\n| বিবর্ধন | Magnification | Label for the magnification calculation |\n| $C$ | Center of Curvature | Point on the principal axis |\n| $F$ | Principal Focus/Focal Point | Point on the principal axis (virtual) |\n| $P$ | Pole | Center point of the mirror surface |\n| $P', Q'$ | Image Points | Labels for the formed image |\n| $10 \\text{ cm}, 40 \\text{ cm}$ | Distance markers | Specific object/image distances in examples |\n| $\\frac{2}{5} < 1$ | Diminished image result | Conclusion of the magnification calculation |\n\n### 5. Educational Purpose of this Visual\n\nThe primary educational purpose of this visual is to comprehensively teach the properties of image formation by convex mirrors through both graphical (ray diagram) and algebraic (formula) methods.\n\n1.  **Conceptual Understanding:** The ray diagrams visually demonstrate *why* convex mirrors always produce virtual, erect, and diminished images, regardless of object position (as shown by the summary objects 1–6).\n2.  **Quantitative Analysis:** The inclusion of the Mirror Formula and the Magnification calculation shows students how to numerically verify the results obtained from the diagrams and how to interpret the sign and magnitude of magnification (e.g., $m < 1$ means diminished, positive $m$ means erect/virtual).\n3.  **Terminology and Definitions:** Key optical terms ($f, R, u, v$) are defined and utilized within the context of the diagram, ensuring technical clarity."
+    },
+    {
+      "frame_id": "REF_31_F2",
+      "frame_path": "data/frames/REF_31/frame_1216316ms_offset_2s.jpg",
+      "timestamp_ms": 1218316,
+      "offset_seconds": 2,
+      "perceptual_hash": "838ff0c0f8f0f8f0",
+      "is_duplicate": false,
+      "quality": {
+        "blur_score": 587.6897730459697,
+        "brightness": 141.26161241319446,
+        "contrast": 43.667072282675434
+      },
+      "reference_id": "REF_31",
+      "mathpix_data": {
+        "request_id": "2025_10_02_d7bde6956e705628a5eeg",
+        "version": "SuperNet-106p1",
+        "is_printed": true,
+        "is_handwritten": true,
+        "auto_rotate_confidence": 0.001893378901272058,
+        "auto_rotate_degrees": 0,
+        "image_height": 720,
+        "image_width": 1280,
+        "confidence": 0.016421634828527033,
+        "confidence_rate": 0.8999977960178287,
+        "text": "ডিক্ল দর্পনে ব্লিস্ঠত্র／প্রতিষ⿻一𠃋十\nAMADER\nSCHOOL"
+      },
+      "gemini_description": "This frame captures a detailed segment of a physics lecture focusing on geometrical optics, specifically the formation of images by convex spherical mirrors.\n\n## Detailed Description of the Frame\n\n### 1. Visual Elements (Diagrams, Graphs, Illustrations)\n\nThe whiteboard displays several hand-drawn diagrams, all centered around the behavior of light rays reflecting off a convex mirror surface.\n\n*   **Top Title:** The main topic is clearly written in Bengali: \"উত্তল দর্পনে রশ্মিচিত্র/প্রতিবিম্ব\" (Ray Diagrams/Images in a Convex Mirror).\n*   **Ray Diagram 1 (Top Left):** Illustrates the formation of a virtual image ($P'Q'$) by a convex mirror.\n    *   An object ($PQ$) is placed in front of the mirror.\n    *   Incident rays are drawn, including one parallel to the principal axis (which reflects as if coming from the focus, $F$) and one directed toward the center of curvature ($C$).\n    *   Dashed lines behind the mirror show the virtual extensions of the reflected rays meeting at the image point $P'$.\n    *   A horizontal dimension of \"10 cm\" is annotated, likely representing either the object or image distance for a solved example.\n*   **Schematic Diagram (Top Right):** Shows multiple object positions (labeled 1 through 6) along the principal axis relative to the center of curvature ($C$) and the focal point ($F$). This is often used to demonstrate that the image characteristics (virtual, upright, diminished) remain constant regardless of the object's position in a convex mirror. The mirror is labeled $MM'$.\n*   **Ray Diagram 2 (Bottom Right):** Appears to be a second illustration or specific problem setup, featuring an object and a diminished virtual image formed within the $F$ and $P$ region. A specific object distance of \"40 cm\" is labeled horizontally.\n\n### 2. Physical Concepts or Phenomena Illustrated\n\nThe frame covers several core concepts of geometrical optics:\n\n*   **Reflection from Spherical Mirrors:** Specifically convex mirrors, where the reflecting surface bulges toward the light source.\n*   **Image Characteristics:** The accompanying Bengali text confirms the image formed is **diminished** (\"খর্বিত\"), **virtual** (\"অসদ\"), and **upright** (\"সোজা\").\n*   **Fundamental Relationships:** The key parameters of the mirror geometry—focal length ($f$) and radius of curvature ($R$)—are defined and related.\n*   **Linear Magnification ($m$):** The calculation demonstrates how the size of the image relates to the size of the object.\n\n### 3. Key Relationships or Structures Shown\n\nSeveral important equations and definitions are present:\n\n*   **Mirror Formula (Top Left, boxed):**\n    $$\\frac{1}{v} + \\frac{1}{u} = \\frac{1}{f}$$\n    where $u$ is the object distance, $v$ is the image distance, and $f$ is the focal length.\n*   **Geometric Definitions (Middle Right):**\n    *   $CP = R$ (Radius of Curvature)\n    *   $FP = f$ (Focal Length)\n*   **Focal Length Relationship (Middle Right, boxed):**\n    $$f = \\frac{R}{2}$$\n    (The focal length is half the radius of curvature).\n*   **Magnification Calculation (Bottom Center):**\n    $$m = \\frac{L_i}{L_o}$$\n    A numerical example is provided: $m = \\frac{2 \\text{ cm}}{5 \\text{ cm}}$.\n    The conclusion is boxed: $\\frac{2}{5} < 1$, mathematically confirming the image is diminished (image height $L_i$ is less than object height $L_o$).\n\n### 4. Labels, Annotations, or Text Visible\n\n| Element | Label/Annotation | Meaning |\n| :--- | :--- | :--- |\n| **Points** | $C, F, P, Q, P', Q'$ | Center of Curvature, Focus, Pole (Vertex), Object endpoints, Image endpoints |\n| **Distances** | $R, f$ | Radius of Curvature, Focal Length |\n| **Calculations** | $L_i, L_o$ | Image height, Object height |\n| **Numerical Data** | $10 \\text{ cm}, 40 \\text{ cm}, 2 \\text{ cm}, 5 \\text{ cm}$ | Specific distances and heights used in examples |\n| **Bengali Descriptions** | \"খর্বিত\" | Diminished (Image size) |\n| **Bengali Descriptions** | \"অসদ ও সোজা\" | Virtual and Upright (Image nature) |\n| **Bengali Descriptions** | \"বিবর্ধন\" | Magnification |\n| **English Annotation** | \"Magnification\" | Reinforces the Bengali term |\n| **Logo** | AMADER SCHOOL | Indicates the source of the educational content. |\n\n### 5. The Educational Purpose of This Visual\n\nThe primary educational purpose of this visual is to comprehensively teach the principles of **image formation by convex mirrors**.\n\n*   It uses **geometrical ray tracing** to visualize *why* the image is always virtual, upright, and diminished.\n*   It provides the necessary **mathematical framework** (Mirror Formula, $f=R/2$) required for solving quantitative problems.\n*   It introduces and solves a specific example for **linear magnification**, connecting the theoretical definition ($m=L_i/L_o$) with practical measurement (2/5 cm) to demonstrate the inherent diminished nature of the convex mirror image ($m<1$)."
+    },
+    {
+      "frame_id": "REF_35_F0",
+      "frame_path": "data/frames/REF_35/frame_1287864ms_offset_-2s.jpg",
+      "timestamp_ms": 1285864,
+      "offset_seconds": -2,
+      "perceptual_hash": "bc9cd2e2d0d2c2e3",
+      "is_duplicate": false,
+      "quality": {
+        "blur_score": 439.2716514187095,
+        "brightness": 160.4318337673611,
+        "contrast": 52.44813478170607
+      },
+      "reference_id": "REF_35",
+      "mathpix_data": {
+        "request_id": "2025_10_02_3fdc93c40468b5380c58g",
+        "version": "SuperNet-106p1",
+        "is_printed": true,
+        "is_handwritten": true,
+        "auto_rotate_confidence": 0.09183844600096336,
+        "auto_rotate_degrees": 0,
+        "image_height": 720,
+        "image_width": 1280,
+        "error": "Content not found",
+        "error_info": {
+          "id": "image_no_content",
+          "message": "Content not found"
+        },
+        "line_data": [
+          {
+            "type": "diagram",
+            "cnt": [
+              [
+                108,
+                0
+              ],
+              [
+                1231,
+                0
+              ],
+              [
+                1231,
+                633
+              ],
+              [
+                108,
+                633
+              ]
+            ],
+            "included": false,
+            "conversion_output": false,
+            "is_printed": true,
+            "is_handwritten": true,
+            "id": "574d6d0434ba46a189af62ead63d8c0a",
+            "children_ids": [
+              "dc83b6b14ec84b5e83e3470367bc0726",
+              "f72dc376a95e4e91a0a811a42745b13a"
+            ],
+            "error_id": "image_not_supported"
+          },
+          {
+            "type": "text",
+            "cnt": [
+              [
+                293,
+                0
+              ],
+              [
+                778,
+                0
+              ],
+              [
+                778,
+                63
+              ],
+              [
+                293,
+                63
+              ]
+            ],
+            "included": false,
+            "conversion_output": false,
+            "is_printed": false,
+            "is_handwritten": true,
+            "id": "dc83b6b14ec84b5e83e3470367bc0726",
+            "parent_id": "574d6d0434ba46a189af62ead63d8c0a",
+            "text": "\nদৈकल দর্পন রম্পিস চলি/প্রতিষ্করণ ।",
+            "after_hyphen": false,
+            "confidence": 0.010673052407795475,
+            "confidence_rate": 0.8901092177618727
+          },
+          {
+            "type": "page_info",
+            "cnt": [
+              [
+                1019,
+                3
+              ],
+              [
+                1221,
+                0
+              ],
+              [
+                1223,
+                80
+              ],
+              [
+                1021,
+                84
+              ]
+            ],
+            "included": false,
+            "conversion_output": false,
+            "is_printed": true,
+            "is_handwritten": false,
+            "id": "f72dc376a95e4e91a0a811a42745b13a",
+            "parent_id": "574d6d0434ba46a189af62ead63d8c0a",
+            "children_ids": [
+              "16c3204be72c40968f7528a5e54b542a",
+              "17d19ff5e209454c8ad0c063b0a11fa0"
+            ],
+            "error_id": "image_not_supported"
+          },
+          {
+            "type": "text",
+            "cnt": [
+              [
+                1023,
+                12
+              ],
+              [
+                1176,
+                5
+              ],
+              [
+                1178,
+                47
+              ],
+              [
+                1025,
+                54
+              ]
+            ],
+            "included": false,
+            "conversion_output": false,
+            "is_printed": true,
+            "is_handwritten": false,
+            "id": "16c3204be72c40968f7528a5e54b542a",
+            "parent_id": "f72dc376a95e4e91a0a811a42745b13a",
+            "text": "\nAMADER",
+            "after_hyphen": false,
+            "confidence": 1,
+            "confidence_rate": 1
+          },
+          {
+            "type": "text",
+            "cnt": [
+              [
+                1073,
+                74
+              ],
+              [
+                1073,
+                36
+              ],
+              [
+                1210,
+                36
+              ],
+              [
+                1210,
+                74
+              ]
+            ],
+            "included": false,
+            "conversion_output": false,
+            "is_printed": true,
+            "is_handwritten": false,
+            "id": "17d19ff5e209454c8ad0c063b0a11fa0",
+            "parent_id": "f72dc376a95e4e91a0a811a42745b13a",
+            "text": "\nSCHOOL",
+            "after_hyphen": false,
+            "confidence": 0.94482421875,
+            "confidence_rate": 0.9948536172658162
+          }
+        ]
+      },
+      "gemini_description": "This frame captures a detailed explanation of geometrical optics, primarily focusing on the image formation properties of spherical mirrors.\n\n---\n\n## 1. Visual Elements (Diagrams, Graphs, Illustrations)\n\nThe whiteboard features multiple hand-drawn diagrams illustrating ray tracing for spherical mirrors:\n\n**A. Convex Mirror Diagram (Top Left):**\n*   A convex mirror is shown with the reflective surface facing the viewer (curving outward) and the non-reflective back side hatched.\n*   An upright object, **PQ**, is drawn in front of the mirror.\n*   Two or more principal rays are traced originating from point **P**. The incident rays are solid lines, and the reflected rays diverge.\n*   The virtual reflected rays (traced backward behind the mirror) intersect to form a smaller, upright, virtual image, **P'Q'**.\n*   The center of curvature (**C**) is implied to be behind the mirror.\n\n**B. Classification/Summary Diagram (Top Right):**\n*   This visual organizes object and image positions along a principal axis, likely summarizing the results for the convex mirror case.\n*   Three objects (labeled **1, 2, 3**) are shown at various distances from the mirror.\n*   A single resulting image (labeled **6**) is depicted between the Focal Point (**F**) and the Pole (P), reinforcing the rule that convex mirrors always form virtual, diminished images regardless of object position.\n\n**C. Concave Mirror/Numerical Diagram (Bottom Right):**\n*   A separate diagram shows a concave mirror (**M M'**), where the reflective surface curves inward.\n*   An object is placed near the Focus (**F**).\n*   Ray tracing is shown with a ray parallel to the principal axis reflecting through **F**.\n*   A numerical annotation, **40 cm**, is marked horizontally along the principal axis, indicating a distance measurement (likely the radius of curvature, R, or the object distance).\n*   A box is drawn above the mirror with the symbolic relationship $R/2$.\n\n## 2. Physical Concepts or Phenomena Illustrated\n\nThe primary concepts illustrated are:\n\n*   **Geometrical Optics and Reflection:** The behavior of light rays upon striking spherical reflective surfaces.\n*   **Convex Mirror Image Formation:** Demonstrating that convex mirrors always produce virtual, erect (upright), and diminished images.\n*   **Concave Mirror Parameters:** Defining and relating the fundamental geometric points of the concave mirror (Focus, Center of Curvature).\n*   **Ray Tracing:** The technique used to graphically determine the position, size, and nature of images formed by reflection.\n\n## 3. Key Relationships or Structures Shown\n\n*   **Focal Length Definition:** The boxed term $R/2$ explicitly defines the relationship between the focal length ($f$) and the radius of curvature ($R$): $f = R/2$.\n*   **Distance Quantification:** The label $40 \\text{ cm}$ introduces a specific numerical value, likely indicating $R=40 \\text{ cm}$ (thus $f=20 \\text{ cm}$) or an object/image distance for a calculation example.\n*   **Principal Axis and Cardinal Points:** The diagrams establish the standard reference geometry of spherical mirrors, including the Pole (P), Focal Point (F), and Center of Curvature (C).\n\n## 4. Any Labels, Annotations, or Text Visible\n\n*   **Bengali Title (Top):** উত্তল দর্পণে রশ্চিচিত্র/প্রতিবিম্ব (Pronunciation: *Uttal Darpané Rashchichitra/Pratibimba*). Translation: \"Ray diagrams/Image in a Convex Mirror.\"\n*   **Geometric Labels:** P, Q (Object); F (Focus); C (Center of Curvature); M, M' (Aperture boundaries).\n*   **Numerical/Relational Labels:** $R/2$, $40 \\text{ cm}$, 1, 2, 3 (Object positions), 6 (Image position).\n*   **Partial Bengali Text (Left):** \"বিম্বের\" (*Bimbér*), meaning \"of the image\" or \"of the object.\"\n\n## 5. The Educational Purpose of this Visual\n\nThe educational purpose is multifaceted:\n\n1.  **Conceptual Clarity:** To visually explain, through ray tracing, why a convex mirror always produces the same type of image (virtual, erect, diminished), irrespective of the object's position (as summarized by the 1, 2, 3 -> 6 diagrams).\n2.  **Definition Reinforcement:** To establish the crucial geometric relationship $f = R/2$ that governs spherical mirrors.\n3.  **Introduction to Problem Solving:** The inclusion of the $40 \\text{ cm}$ distance provides a numerical context, shifting the discussion toward quantitative application of the mirror formulas after the initial conceptual ray tracing is completed.\n4.  **Comparison/Contrast:** By including both convex (top) and concave (bottom) mirror diagrams, the instructor is likely preparing to compare and contrast their imaging properties."
+    },
+    {
+      "frame_id": "REF_35_F1",
+      "frame_path": "data/frames/REF_35/frame_1287864ms_offset_0s.jpg",
+      "timestamp_ms": 1287864,
+      "offset_seconds": 0,
+      "perceptual_hash": "af9fd0e0d0d2e0f0",
+      "is_duplicate": false,
+      "quality": {
+        "blur_score": 504.2988681742334,
+        "brightness": 156.92321180555555,
+        "contrast": 52.0402728439275
+      },
+      "reference_id": "REF_35",
+      "mathpix_data": {
+        "request_id": "2025_10_02_964f3a8648b2cb20147dg",
+        "version": "SuperNet-106p1",
+        "is_printed": true,
+        "is_handwritten": true,
+        "auto_rotate_confidence": 0.09041959873138339,
+        "auto_rotate_degrees": 0,
+        "image_height": 720,
+        "image_width": 1280,
+        "confidence": 0.002705823196832797,
+        "confidence_rate": 0.8715374087064774,
+        "text": "ডিসল দর্পনে বাশ্চিত্রু/প্রতিষ্কিম্ব-যে"
+      },
+      "gemini_description": "This frame captures a detailed segment of a physics lecture focused on geometrical optics, specifically the formation of images via spherical mirrors.\n\n## Detailed Technical Analysis\n\n### 1. Visual Elements (Diagrams, Graphs, Illustrations)\n\nThe whiteboard is dominated by three primary ray diagrams illustrating image formation in spherical mirrors, along with supplementary text and equations.\n\n*   **Upper Left Diagram (Concave Mirror):** Shows a small segment of a concave mirror setup (reflecting surface facing left). An object (vertical arrow) labeled P-Q is positioned such that light rays converge to form a smaller, inverted real image. A distance marker below the principal axis is labeled \"10 cm.\" This likely serves as a contrast or an introductory example before shifting focus.\n*   **Lower Right Diagram (Convex Mirror):** This is the central illustration. A convex spherical mirror (M-M') is drawn with the reflecting surface facing the left (the inner surface is cross-hatched).\n    *   A principal axis is defined, containing the Center of Curvature ($\\text{C}$) and the Focal Point ($\\text{F}$) located virtually behind the mirror surface.\n    *   An object (vertical arrow) is placed far in front of the mirror.\n    *   **Ray Tracing:** Two standard principal rays are traced:\n        1.  A ray parallel to the principal axis reflects such that its virtual extension (dashed line) passes through the focal point $\\text{F}$.\n        2.  A ray directed toward the Center of Curvature ($\\text{C}$) reflects back along the same path.\n    *   The intersection of the virtual extensions defines the image, which is upright, virtual, and diminished, located between $\\text{P}$ and $\\text{F}$.\n    *   A distance is labeled \"40 cm\" along the principal axis (likely the object distance or the radius of curvature $R$).\n*   **Center Section (Rules/Formulas):** Contains isolated diagrams and equations related to mirror geometry. A simple rectangular diagram illustrates convergence/divergence principles.\n\n### 2. Physical Concepts or Phenomena Illustrated\n\nThe frame illustrates the fundamental principles of **Reflection in Spherical Mirrors**, specifically focusing on:\n\n*   **Image Formation by a Convex Mirror:** Demonstrating that regardless of object position (on the real side), a convex mirror always forms a **Virtual, Upright, and Diminished** image located behind the mirror, between the pole ($\\text{P}$) and the focal point ($\\text{F}$).\n*   **Geometric Ray Tracing:** Utilizing the established rules for tracing rays to determine the location and nature of the image (parallel rays diverge from $\\text{F}$, rays aimed at $\\text{C}$ reflect normally).\n*   **Mirror Geometry:** Defining and relating the primary reference points ($\\text{C}, \\text{F}, \\text{P}$).\n\n### 3. Key Relationships or Structures Shown\n\n*   **Focal Length and Radius of Curvature:** The explicit relationship for spherical mirrors is written:\n    $$f = \\frac{R}{2}$$\n    where $f$ is the focal length and $R$ (or $r$) is the radius of curvature.\n*   **Image Structure:** The diagrams show the relationship between the object height and image height, visually confirming the diminished nature of the image in the convex mirror case.\n*   **Sign Conventions (Implied):** By drawing the object in front (real space) and the image behind (virtual space, where $\\text{F}$ and $\\text{C}$ lie), the standard sign convention for spherical mirrors is visually reinforced.\n\n### 4. Labels, Annotations, or Text Visible\n\n*   **Title (Bengali):** উত্তল দর্পণে রশ্বিচিত্র/প্রতিবিম্ব (Ray diagram/Image formation in a Convex Mirror).\n*   **Reference Points:** $\\text{C}$ (Center of Curvature), $\\text{F}$ (Focal Point), $\\text{M}, \\text{M}'$ (Mirror aperture). $\\text{P}, \\text{Q}$ (Object points, visible in the auxiliary diagram).\n*   **Equations:** $f = \\frac{R}{2}$\n*   **Numerical Data:** $10 \\text{ cm}$ (in the upper left diagram), $40 \\text{ cm}$ (in the lower right diagram).\n*   **Arrows/Indicators:** Arrows 1, 2, 3 in the central section, and numbered indicators in the lower diagram possibly marking object positions or calculation steps.\n\n### 5. The Educational Purpose of the Visual\n\nThe primary educational purpose is to provide a **visual and technical demonstration** of the geometrical optics of the convex mirror. It allows the lecturer to:\n\n1.  **Establish Ray Tracing Methodology:** Teach students how to accurately draw the principal rays to locate the image position.\n2.  **Define Key Properties:** Clearly illustrate why the image formed by a convex (diverging) mirror is always virtual, upright, and diminished.\n3.  **Contextualize Formulas:** Relate the fundamental geometric equation ($f=R/2$) directly to the physical structure of the mirror displayed.\n4.  **Solve Problems:** The inclusion of numerical values (10 cm, 40 cm) suggests the visuals are being used either to set up specific numerical problems or to demonstrate scale and proportion in image formation calculations."
+    },
+    {
+      "frame_id": "REF_35_F2",
+      "frame_path": "data/frames/REF_35/frame_1287864ms_offset_2s.jpg",
+      "timestamp_ms": 1289864,
+      "offset_seconds": 2,
+      "perceptual_hash": "870fd1f2f870e0f0",
+      "is_duplicate": false,
+      "quality": {
+        "blur_score": 555.9370453024865,
+        "brightness": 149.9555718315972,
+        "contrast": 50.93462035879379
+      },
+      "reference_id": "REF_35",
+      "mathpix_data": {
+        "request_id": "2025_10_02_5c45e2b2572e5e0b54e7g",
+        "version": "SuperNet-106p1",
+        "is_printed": false,
+        "is_handwritten": false,
+        "auto_rotate_confidence": 0.22349731015563545,
+        "auto_rotate_degrees": 0,
+        "image_height": 720,
+        "image_width": 1280,
+        "error": "Content not found",
+        "error_info": {
+          "id": "image_no_content",
+          "message": "Content not found"
+        },
+        "line_data": []
+      },
+      "gemini_description": "This frame captures a segment of a lecture on geometric optics, specifically focusing on the properties and image formation via **convex (diverging) spherical mirrors**.\n\n## Detailed Description of the Visual Elements\n\n### 1. Visual Elements (Diagrams, Graphs, Illustrations)\n\nThe whiteboard displays four primary geometric optics illustrations and accompanying mathematical derivations:\n\n**A. Top Left Ray Diagram:**\n*   Illustrates the formation of a virtual image (P'Q') by a convex mirror.\n*   The object (upright) is positioned on the principal axis.\n*   Ray tracing uses standard rules: a ray parallel to the principal axis reflects such that its extension (virtual ray, indicated by dashed lines) passes through the virtual focal point (F), and a ray aimed toward the center of curvature (C) is reflected normally.\n*   The image formed is shown to be upright, diminished, and located behind the mirror, between the pole and the focal point.\n*   A numerical annotation \"10 cm\" is present, suggesting the context of a problem involving specific distances (object distance or image distance).\n\n**B. Middle/Lower Left Ray Diagram:**\n*   A second ray diagram for a convex mirror, possibly focused on the derivation of the mirror formula or magnification using similar triangles (objects/images represented as triangles PQC and P'Q'C).\n*   It clearly shows the virtual extensions of the reflected rays forming the image.\n\n**C. Right Side Conceptual Diagrams:**\n*   **Top Right Inset:** A schematic demonstrating reflection on the principal axis, possibly illustrating how rays from different object positions (labeled 4, 5, 6) behave relative to the focal point (F) and center of curvature (C).\n*   **Bottom Right Numerical Example:** Shows an object placed at a distance labeled \"40 cm\" from the mirror pole. The resulting virtual image is depicted closer to the mirror.\n\n### 2. Physical Concepts or Phenomena Illustrated\n\nThe frame illustrates the following key concepts in geometric optics:\n\n*   **Reflection by a Convex Mirror:** Specifically, the consistent divergence of incident light rays.\n*   **Virtual Image Formation:** The formation of images that cannot be projected onto a screen, created by the apparent intersection of reflected (virtual) rays behind the mirror.\n*   **Image Characteristics:** For a convex mirror, the image is *always* virtual, upright, and diminished (smaller than the object).\n*   **Focal Length and Radius of Curvature:** Definition and geometric relationship between the pole (P), focal point (F), and center of curvature (C).\n*   **Linear Magnification:** The ratio of image size to object size, mathematically proven to be less than one ($m < 1$) for convex mirrors.\n\n### 3. Key Relationships or Structures Shown\n\n*   **Header (Bengali):** উত্তল দর্পণে রশ্নিচিত্র/ প্রতিবিম্ব (Ray Diagrams/Images in a Convex Mirror).\n*   **Geometric Definitions:**\n    *   $CP = R$ (Radius of Curvature)\n    *   $FP = f$ (Focal Length)\n*   **Fundamental Mirror Relationship (Boxed):**\n    *   $f = \\frac{R}{2}$ (The focal length is half the radius of curvature). *Note: The handwritten symbol in the box looks like $\\rho$ but contextually represents $f$ or the geometric principle.*\n*   **Magnification Calculation:**\n    *   $\\frac{2 \\text{ cm}}{5 \\text{ cm}}$\n    *   $\\frac{2}{5} < 1$ (This numerical example demonstrates that the magnification is less than 1, meaning the image height (2 cm) is smaller than the object height (5 cm), confirming a diminished image.)\n\n### 4. Any Labels, Annotations, or Text Visible\n\n*   **Points/Axes:** P (Pole), C (Center of Curvature), F (Focal Point), M M' (Aperture endpoints).\n*   **Distances:** $R, f$, $10 \\text{ cm}$, $40 \\text{ cm}$.\n*   **Heights:** $2 \\text{ cm}$ (image height) and $5 \\text{ cm}$ (object height) used in the magnification ratio.\n*   **Other Text (Bengali):** Labels related to object/image positions and characteristics, partially obscured (\"বিম্ব ও শেওড়া\" - possibly related to object height or distance).\n*   **Branding:** \"AMADER SCHOOL\" logo in the top right corner.\n\n### 5. The Educational Purpose of this Visual\n\nThe primary educational purpose is **demonstration and conceptual application**. The visuals serve to:\n\n1.  **Illustrate Ray Tracing:** Provide step-by-step graphical instruction on how to locate the image formed by a convex mirror using characteristic rays.\n2.  **Verify Image Properties:** Visually confirm that convex mirrors always produce virtual, upright, and diminished images, regardless of the object position.\n3.  **Link Theory to Calculation:** Connect the geometric definitions ($f = R/2$) to practical numerical examples involving magnification, showing how the theoretical property of diminution ($m < 1$) is calculated using object and image dimensions."
+    }
+  ],
+  "frame_count": 36,
+  "unique_frame_count": 34
+}
