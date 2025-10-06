@@ -1,0 +1,577 @@
+{
+  "description": "This frame captures a detailed section of a Bengali physics lecture focused on the relationship between focal length and radius of curvature in a convex mirror (উত্তল দর্পণে). The title translates to 'Convex Mirror Ray Diagram/Image' (উত্তল দর্পণে রশ্মিচিত্র/প্রতিবিম্ব). The illustration primarily focuses on defining key distances along the principal axis.\n\nKey elements shown are:\n1.  **Principal Axis:** A horizontal line representing the axis of symmetry.\n2.  **Convex Mirror:** A rightward-facing curve (and an initial incomplete one on the left).\n3.  **Key Points:** Points P (Pole, where the axis meets the mirror), F (Focus), and C (Center of Curvature) are marked on the virtual side of the mirror (the side where light does not originate).\n4.  **Distances:** Red curved lines denote the distances CP (Radius of Curvature, R) and FP (Focal Length, f).\n5.  **Annotations:** Small, numbered red arrows (1 through 6) are positioned along the axis between C and P, possibly indicating divisions of the distance or potential points for ray tracing examples.\n6.  **Formulas:** Algebraic definitions are provided: $CP = R$ (Radius of Curvature) and $FP = f$ (Focal Length). The critical derived relationship, $f = R/2$ (The focal length is half the radius of curvature), is prominently displayed within a red box.\n\nThis visual aids the student in understanding the standard nomenclature (P, F, C, f, R) and the fundamental geometric relationship governing spherical mirrors.",
+  "diagram_structure": {
+    "diagram_type": "spherical_mirror_relationship_diagram",
+    "canvas": {
+      "width": 800,
+      "height": 600
+    },
+    "elements": [
+      {
+        "id": "E1",
+        "type": "label",
+        "description": "Title: Convex Mirror Ray Diagram/Image (Bengali)",
+        "properties": {
+          "coords": [
+            400,
+            50
+          ],
+          "style": {
+            "stroke": "#B82525",
+            "strokeWidth": 2,
+            "fill": "black"
+          },
+          "label_text": "উত্তল দর্পণে রশ্মিচিত্র/প্রতিবিম্ব"
+        },
+        "animation_order": 1,
+        "animation_duration_ms": 800,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "E2",
+        "type": "line",
+        "description": "Principal Axis (Extended)",
+        "properties": {
+          "coords": [
+            100,
+            300,
+            720,
+            300
+          ],
+          "style": {
+            "stroke": "black",
+            "strokeWidth": 1.5
+          }
+        },
+        "animation_order": 2,
+        "animation_duration_ms": 600,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "E3",
+        "type": "curve",
+        "description": "Convex Mirror Surface (Right side)",
+        "properties": {
+          "coords": "M 680 400 A 100 100 0 0 1 680 200",
+          "style": {
+            "stroke": "black",
+            "strokeWidth": 1.5,
+            "fill": "none"
+          }
+        },
+        "animation_order": 3,
+        "animation_duration_ms": 700,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "E4",
+        "type": "line",
+        "description": "Mirror Hatching (Non-reflective side)",
+        "properties": {
+          "coords": [
+            690,
+            200,
+            690,
+            400
+          ],
+          "style": {
+            "stroke": "black",
+            "strokeWidth": 1,
+            "dashArray": "3 3"
+          }
+        },
+        "animation_order": 4,
+        "animation_duration_ms": 500,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "E5",
+        "type": "label",
+        "description": "Mirror label M",
+        "properties": {
+          "coords": [
+            685,
+            180
+          ],
+          "style": {
+            "fill": "black"
+          },
+          "label_text": "M"
+        },
+        "animation_order": 5,
+        "animation_duration_ms": 300,
+        "animation_effect": "fade"
+      },
+      {
+        "id": "E6",
+        "type": "label",
+        "description": "Mirror label M prime",
+        "properties": {
+          "coords": [
+            685,
+            420
+          ],
+          "style": {
+            "fill": "black"
+          },
+          "label_text": "M'"
+        },
+        "animation_order": 6,
+        "animation_duration_ms": 300,
+        "animation_effect": "fade"
+      },
+      {
+        "id": "E7",
+        "type": "point",
+        "description": "Pole (P)",
+        "properties": {
+          "coords": [
+            680,
+            300
+          ],
+          "style": {
+            "fill": "black"
+          }
+        },
+        "animation_order": 7,
+        "animation_duration_ms": 300,
+        "animation_effect": "scale"
+      },
+      {
+        "id": "E8",
+        "type": "label",
+        "description": "Pole Label P",
+        "properties": {
+          "coords": [
+            690,
+            305
+          ],
+          "style": {
+            "fill": "black"
+          },
+          "label_text": "P"
+        },
+        "animation_order": 8,
+        "animation_duration_ms": 300,
+        "animation_effect": "fade"
+      },
+      {
+        "id": "E9",
+        "type": "point",
+        "description": "Focus (F)",
+        "properties": {
+          "coords": [
+            590,
+            300
+          ],
+          "style": {
+            "fill": "black"
+          }
+        },
+        "animation_order": 9,
+        "animation_duration_ms": 300,
+        "animation_effect": "scale"
+      },
+      {
+        "id": "E10",
+        "type": "label",
+        "description": "Focus Label F",
+        "properties": {
+          "coords": [
+            590,
+            320
+          ],
+          "style": {
+            "fill": "black"
+          },
+          "label_text": "F"
+        },
+        "animation_order": 10,
+        "animation_duration_ms": 300,
+        "animation_effect": "fade"
+      },
+      {
+        "id": "E11",
+        "type": "point",
+        "description": "Center of Curvature (C)",
+        "properties": {
+          "coords": [
+            500,
+            300
+          ],
+          "style": {
+            "fill": "black"
+          }
+        },
+        "animation_order": 11,
+        "animation_duration_ms": 300,
+        "animation_effect": "scale"
+      },
+      {
+        "id": "E12",
+        "type": "label",
+        "description": "Center Label C",
+        "properties": {
+          "coords": [
+            500,
+            320
+          ],
+          "style": {
+            "fill": "black"
+          },
+          "label_text": "C"
+        },
+        "animation_order": 12,
+        "animation_duration_ms": 300,
+        "animation_effect": "fade"
+      },
+      {
+        "id": "E13",
+        "type": "curve",
+        "description": "Distance CP (Radius of Curvature R)",
+        "properties": {
+          "coords": "M 500 330 Q 590 340 680 330",
+          "style": {
+            "stroke": "red",
+            "strokeWidth": 1.5,
+            "fill": "none"
+          }
+        },
+        "animation_order": 13,
+        "animation_duration_ms": 600,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "E14",
+        "type": "curve",
+        "description": "Distance FP (Focal Length f)",
+        "properties": {
+          "coords": "M 590 345 Q 635 355 680 345",
+          "style": {
+            "stroke": "red",
+            "strokeWidth": 1.5,
+            "fill": "none"
+          }
+        },
+        "animation_order": 14,
+        "animation_duration_ms": 600,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "E15",
+        "type": "arrow",
+        "description": "Placeholder object/ray 1",
+        "properties": {
+          "coords": [
+            520,
+            300,
+            520,
+            250
+          ],
+          "style": {
+            "stroke": "red",
+            "strokeWidth": 1.5
+          }
+        },
+        "animation_order": 15,
+        "animation_duration_ms": 300,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "E16",
+        "type": "label",
+        "description": "Label 1",
+        "properties": {
+          "coords": [
+            520,
+            230
+          ],
+          "style": {
+            "fill": "green"
+          },
+          "label_text": "1"
+        },
+        "animation_order": 16,
+        "animation_duration_ms": 100,
+        "animation_effect": "fade"
+      },
+      {
+        "id": "E17",
+        "type": "arrow",
+        "description": "Placeholder object/ray 2",
+        "properties": {
+          "coords": [
+            540,
+            300,
+            540,
+            250
+          ],
+          "style": {
+            "stroke": "red",
+            "strokeWidth": 1.5
+          }
+        },
+        "animation_order": 17,
+        "animation_duration_ms": 300,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "E18",
+        "type": "label",
+        "description": "Label 2",
+        "properties": {
+          "coords": [
+            540,
+            230
+          ],
+          "style": {
+            "fill": "green"
+          },
+          "label_text": "2"
+        },
+        "animation_order": 18,
+        "animation_duration_ms": 100,
+        "animation_effect": "fade"
+      },
+      {
+        "id": "E19",
+        "type": "arrow",
+        "description": "Placeholder object/ray 3",
+        "properties": {
+          "coords": [
+            560,
+            300,
+            560,
+            250
+          ],
+          "style": {
+            "stroke": "red",
+            "strokeWidth": 1.5
+          }
+        },
+        "animation_order": 19,
+        "animation_duration_ms": 300,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "E20",
+        "type": "label",
+        "description": "Label 3",
+        "properties": {
+          "coords": [
+            560,
+            230
+          ],
+          "style": {
+            "fill": "black"
+          },
+          "label_text": "3"
+        },
+        "animation_order": 20,
+        "animation_duration_ms": 100,
+        "animation_effect": "fade"
+      },
+      {
+        "id": "E21",
+        "type": "arrow",
+        "description": "Placeholder object/ray 4",
+        "properties": {
+          "coords": [
+            580,
+            300,
+            580,
+            250
+          ],
+          "style": {
+            "stroke": "red",
+            "strokeWidth": 1.5
+          }
+        },
+        "animation_order": 21,
+        "animation_duration_ms": 300,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "E22",
+        "type": "label",
+        "description": "Label 4",
+        "properties": {
+          "coords": [
+            580,
+            230
+          ],
+          "style": {
+            "fill": "black"
+          },
+          "label_text": "4"
+        },
+        "animation_order": 22,
+        "animation_duration_ms": 100,
+        "animation_effect": "fade"
+      },
+      {
+        "id": "E23",
+        "type": "arrow",
+        "description": "Placeholder object/ray 5",
+        "properties": {
+          "coords": [
+            600,
+            300,
+            600,
+            250
+          ],
+          "style": {
+            "stroke": "red",
+            "strokeWidth": 1.5
+          }
+        },
+        "animation_order": 23,
+        "animation_duration_ms": 300,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "E24",
+        "type": "label",
+        "description": "Label 5",
+        "properties": {
+          "coords": [
+            600,
+            230
+          ],
+          "style": {
+            "fill": "black"
+          },
+          "label_text": "5"
+        },
+        "animation_order": 24,
+        "animation_duration_ms": 100,
+        "animation_effect": "fade"
+      },
+      {
+        "id": "E25",
+        "type": "arrow",
+        "description": "Placeholder object/ray 6",
+        "properties": {
+          "coords": [
+            620,
+            300,
+            620,
+            250
+          ],
+          "style": {
+            "stroke": "red",
+            "strokeWidth": 1.5
+          }
+        },
+        "animation_order": 25,
+        "animation_duration_ms": 300,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "E26",
+        "type": "label",
+        "description": "Label 6",
+        "properties": {
+          "coords": [
+            620,
+            230
+          ],
+          "style": {
+            "fill": "black"
+          },
+          "label_text": "6"
+        },
+        "animation_order": 26,
+        "animation_duration_ms": 100,
+        "animation_effect": "fade"
+      },
+      {
+        "id": "E27",
+        "type": "label",
+        "description": "Relationship CP = R (Radius of Curvature)",
+        "properties": {
+          "coords": [
+            550,
+            450
+          ],
+          "style": {
+            "fill": "black"
+          },
+          "label_text": "CP = R"
+        },
+        "animation_order": 27,
+        "animation_duration_ms": 400,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "E28",
+        "type": "label",
+        "description": "Relationship FP = f (Focal Length)",
+        "properties": {
+          "coords": [
+            550,
+            480
+          ],
+          "style": {
+            "fill": "black"
+          },
+          "label_text": "FP = f"
+        },
+        "animation_order": 28,
+        "animation_duration_ms": 400,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "E29",
+        "type": "formula",
+        "description": "Focal length equals half the radius of curvature",
+        "properties": {
+          "coords": [
+            550,
+            530
+          ],
+          "style": {
+            "fill": "black"
+          },
+          "latex_content": "f = \\frac{R}{2}"
+        },
+        "animation_order": 30,
+        "animation_duration_ms": 800,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "E30",
+        "type": "line",
+        "description": "Box surrounding the final formula",
+        "properties": {
+          "coords": [
+            490,
+            500,
+            610,
+            550
+          ],
+          "style": {
+            "stroke": "red",
+            "strokeWidth": 1.5,
+            "dashArray": "2 2"
+          }
+        },
+        "animation_order": 29,
+        "animation_duration_ms": 300,
+        "animation_effect": "draw"
+      }
+    ],
+    "relationships": [
+      {
+        "from": "E11",
+        "to": "E7",
+        "relationship": "defines_distance_R"
+      },
+      {
+        "from": "E9",
+        "to": "E7",
+        "relationship": "defines_distance_f"
+      }
+    ]
+  }
+}

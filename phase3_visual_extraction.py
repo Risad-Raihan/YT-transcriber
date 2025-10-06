@@ -157,49 +157,34 @@ class VisualExtractor:
             return {"error": str(e), "text": "", "latex": ""}
     
     def process_frame_with_gemini(self, frame_path: str, 
-                                  mathpix_data: Dict[str, Any]) -> str:
+                                  mathpix_data: Dict[str, Any]) -> Dict[str, Any]:
         """
-        Process frame with Google Gemini Vision.
+        Process frame with Google Gemini Vision to extract description AND diagram structure.
         
         Args:
             frame_path: Path to frame image
             mathpix_data: Mathpix OCR results for context
             
         Returns:
-            Gemini description
+            Dictionary with 'description' and 'diagram_structure' keys
         """
         try:
-            # Create enhanced prompt with Mathpix context
-            mathpix_text = mathpix_data.get('text', '')
-            mathpix_latex = mathpix_data.get('latex_styled', '')
-            
-            prompt = f"""Analyze this frame from a Bengali physics lecture video.
-
-Mathpix OCR detected:
-- Text: {mathpix_text[:200] if mathpix_text else 'None'}
-- LaTeX: {mathpix_latex[:200] if mathpix_latex else 'None'}
-
-Please provide a detailed description including:
-1. Visual elements (diagrams, graphs, illustrations)
-2. Physical concepts or phenomena illustrated
-3. Key relationships or structures shown
-4. Any labels, annotations, or text visible
-5. The educational purpose of this visual
-
-Be specific and technical."""
-            
             max_retries = self.config['visual_extraction']['max_retries']
             
-            description = retry_with_backoff(
-                lambda: self.gemini_client.analyze_image(frame_path, prompt),
+            # Use new structured extraction method
+            result = retry_with_backoff(
+                lambda: self.gemini_client.extract_diagram_structure(frame_path, mathpix_data),
                 max_retries=max_retries
             )
             
-            return description
+            return result
             
         except Exception as e:
             logger.error(f"Failed to process frame with Gemini: {e}")
-            return f"Error: {str(e)}"
+            return {
+                "description": f"Error: {str(e)}",
+                "diagram_structure": None
+            }
 
 
 def run_phase3(phase1_output: Dict[str, Any], phase2_output: Dict[str, Any],
@@ -258,6 +243,7 @@ def run_phase3(phase1_output: Dict[str, Any], phase2_output: Dict[str, Any],
                     logger.debug(f"Skipping duplicate frame: {frame_info['frame_id']}")
                     frame_info['mathpix_data'] = None
                     frame_info['gemini_description'] = None
+                    frame_info['diagram_structure'] = None
                     all_frames.append(frame_info)
                     continue
                 
@@ -270,13 +256,19 @@ def run_phase3(phase1_output: Dict[str, Any], phase2_output: Dict[str, Any],
                 )
                 frame_info['mathpix_data'] = mathpix_data
                 
-                # Process with Gemini
-                logger.info(f"    - Generating description with Gemini...")
-                gemini_description = extractor.process_frame_with_gemini(
+                # Process with Gemini (now extracts both description and structure)
+                logger.info(f"    - Extracting description + diagram structure with Gemini...")
+                gemini_result = extractor.process_frame_with_gemini(
                     frame_info['frame_path'],
                     mathpix_data
                 )
-                frame_info['gemini_description'] = gemini_description
+                frame_info['gemini_description'] = gemini_result.get('description', '')
+                frame_info['diagram_structure'] = gemini_result.get('diagram_structure', None)
+                
+                # Log diagram type if extracted
+                if frame_info['diagram_structure']:
+                    diagram_type = frame_info['diagram_structure'].get('diagram_type', 'unknown')
+                    logger.info(f"    - Diagram type identified: {diagram_type}")
                 
                 all_frames.append(frame_info)
         

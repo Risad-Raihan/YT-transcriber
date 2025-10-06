@@ -1,0 +1,76 @@
+{
+  "description": "The frame captures the introductory phase of a Bengali physics lecture focused on geometric optics. The lecturer is visible, standing in front of a white whiteboard. The primary content visible on the board is the lecture title, handwritten in Bengali script: \"উত্তল দর্পণে রশ্মিচিত্র/প্রতিবিম্ব\" (Ray Diagram/Image Formation in a Convex Mirror). This title indicates the topic will cover the principles of light reflection and image construction specific to convex (diverging) spherical mirrors. The title is underlined by a red line, suggesting emphasis. A school logo/branding text, 'AMADER SCHOOL,' is visible in the upper right corner. The educational purpose of this visual is to clearly state the topic of the current lesson (Convex Mirror Ray Diagrams) to the audience.",
+  "diagram_structure": {
+    "diagram_type": "lecture_title",
+    "canvas": {
+      "width": 800,
+      "height": 600
+    },
+    "elements": [
+      {
+        "id": "T1_Title_Bengali",
+        "type": "label",
+        "description": "Lecture Title in Bengali: Ray Diagram/Image Formation in a Convex Mirror",
+        "properties": {
+          "coords": [
+            300,
+            50
+          ],
+          "style": {
+            "stroke": "#000000",
+            "strokeWidth": 1,
+            "fontSize": 32
+          },
+          "label_text": "উত্তল দর্পণে রশ্মিচিত্র/প্রতিবিম্ব"
+        },
+        "animation_order": 1,
+        "animation_duration_ms": 800,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "L1_Underline",
+        "type": "line",
+        "description": "Red underline beneath the title text",
+        "properties": {
+          "coords": [
+            [
+              280,
+              75
+            ],
+            [
+              570,
+              75
+            ]
+          ],
+          "style": {
+            "stroke": "#FF0000",
+            "strokeWidth": 2
+          }
+        },
+        "animation_order": 2,
+        "animation_duration_ms": 500,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "T2_Branding",
+        "type": "text",
+        "description": "Channel/School branding logo text",
+        "properties": {
+          "coords": [
+            680,
+            50
+          ],
+          "style": {
+            "stroke": "#000000",
+            "fontSize": 18
+          },
+          "label_text": "AMADER SCHOOL"
+        },
+        "animation_order": 3,
+        "animation_duration_ms": 300,
+        "animation_effect": "fade"
+      }
+    ],
+    "relationships": []
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "description": "This frame captures the introductory slide of a Bengali physics lecture. The video features a male instructor standing in front of a whiteboard. The primary visual content is the lecture title written at the top center in Bengali script. The title reads: 'উত্তল দর্পণে রশ্মিচিত্র/প্রতিবিম্ব' (Uttal Darpon-e Rashmichitra/Protibimbo), which translates to 'Ray diagram/Image in a Convex Mirror'. The title is underlined by a thin red line. In the top right corner, the channel or institution logo/watermark 'AMADER SCHOOL' is visible. The purpose of this visual is to clearly state the topic of the lesson: the principles of image formation and ray tracing for convex spherical mirrors.",
+  "diagram_structure": {
+    "diagram_type": "convex_mirror_ray_diagram_introduction",
+    "canvas": {
+      "width": 800,
+      "height": 600
+    },
+    "elements": [
+      {
+        "id": "title_text",
+        "type": "label",
+        "description": "Lecture title written in Bengali",
+        "properties": {
+          "coords": [
+            420,
+            70
+          ],
+          "style": {
+            "fill": "#000000",
+            "fontSize": 32
+          },
+          "label_text": "উত্তল দর্পণে রশ্মিচিত্র/প্রতিবিম্ব"
+        },
+        "animation_order": 1,
+        "animation_duration_ms": 700,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "title_underline",
+        "type": "line",
+        "description": "Underline for the lecture title, indicative of a header",
+        "properties": {
+          "coords": [
+            230,
+            105,
+            610,
+            105
+          ],
+          "style": {
+            "stroke": "#FF0000",
+            "strokeWidth": 2
+          }
+        },
+        "animation_order": 2,
+        "animation_duration_ms": 500,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "channel_logo_text",
+        "type": "label",
+        "description": "Channel branding/logo text",
+        "properties": {
+          "coords": [
+            730,
+            55
+          ],
+          "style": {
+            "fill": "#000000",
+            "fontSize": 18,
+            "fontStyle": "bold"
+          },
+          "label_text": "AMADER SCHOOL"
+        },
+        "animation_order": 3,
+        "animation_duration_ms": 300,
+        "animation_effect": "fade"
+      }
+    ],
+    "relationships": []
+  }
+}

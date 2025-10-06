@@ -1,0 +1,118 @@
+╔══════════════════════════════════════════════════════════════════╗
+║                   FILES TO COPY TO RAG APP                        ║
+╚══════════════════════════════════════════════════════════════════╝
+
+📦 REQUIRED FILES (Must Copy)
+═══════════════════════════════════════════════════════════════════
+
+1. utils/api_clients.py
+   → Copy to: your-rag-app/backend/utils/
+   → Contains: GeminiClient.extract_diagram_structure()
+   → Purpose: Extracts diagram structures from frames
+
+2. .env (add this line)
+   → GOOGLE_API_KEY=your_key_here
+   → Make sure it's in your RAG app's .env
+
+
+📊 REFERENCE FILES (For Understanding Format)
+═══════════════════════════════════════════════════════════════════
+
+3. output/test_structure_VISUAL_0.json
+4. output/test_structure_VISUAL_1.json
+5. output/test_structure_VISUAL_2.json
+6. output/test_structure_VISUAL_3.json
+   → Copy to: your-rag-app/sample_data/
+   → Purpose: Example diagram structures for testing frontend
+
+
+📚 DOCUMENTATION (For Context)
+═══════════════════════════════════════════════════════════════════
+
+7. HANDOVER_TO_RAG_APP.md
+   → Copy to: your-rag-app/docs/
+   → Purpose: Complete implementation guide
+   → SHOW THIS TO CURSOR AI for context
+
+8. This file (FILES_TO_COPY.txt)
+   → Quick reference checklist
+
+
+🎨 SAMPLE DATA (Already Have)
+═══════════════════════════════════════════════════════════════════
+
+9. output/enriched_transcript.json
+   → You already have this
+   → Contains: 4 visuals with descriptions
+   → Will be your source data for Weaviate ingestion
+
+
+═══════════════════════════════════════════════════════════════════
+COPY COMMAND (Linux/Mac):
+═══════════════════════════════════════════════════════════════════
+
+cd /home/risad/projects/YT-transcriber
+
+# Copy implementation
+cp utils/api_clients.py ../your-rag-app/backend/utils/
+
+# Copy samples
+mkdir -p ../your-rag-app/sample_data
+cp output/test_structure_*.json ../your-rag-app/sample_data/
+
+# Copy docs
+mkdir -p ../your-rag-app/docs
+cp HANDOVER_TO_RAG_APP.md ../your-rag-app/docs/
+cp FILES_TO_COPY.txt ../your-rag-app/docs/
+
+
+═══════════════════════════════════════════════════════════════════
+DEPENDENCIES TO ADD TO RAG APP:
+═══════════════════════════════════════════════════════════════════
+
+Backend (Python):
+- google-generativeai>=0.3.0
+- Pillow>=10.0.0
+- (You likely already have these)
+
+Frontend (Node/Next.js):
+- framer-motion
+- react-katex
+- katex
+
+Install:
+npm install framer-motion react-katex katex
+
+
+═══════════════════════════════════════════════════════════════════
+WHAT TO BUILD IN RAG APP:
+═══════════════════════════════════════════════════════════════════
+
+Backend:
+1. Phase 5: Weaviate ingestion script
+2. Modify RAG endpoint to return visual_aids
+
+Frontend:
+1. DiagramPlayer component
+2. Animation elements (AnimatedLine, AnimatedCurve, etc.)
+3. PlaybackControls component
+
+See HANDOVER_TO_RAG_APP.md for detailed implementation guide.
+
+
+═══════════════════════════════════════════════════════════════════
+TESTING ORDER:
+═══════════════════════════════════════════════════════════════════
+
+1. ✅ Copy utils/api_clients.py and test import
+2. ✅ Create Weaviate schema
+3. ✅ Ingest sample data (4 structures)
+4. ✅ Test Weaviate query returns diagram_structure
+5. ✅ Build basic DiagramPlayer (no animation)
+6. ✅ Add Framer Motion animations
+7. ✅ Test with all 4 sample structures
+8. ✅ Integration test end-to-end
+
+
+Done! 🚀
+

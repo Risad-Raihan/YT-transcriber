@@ -1,0 +1,307 @@
+{
+  "description": "This frame is taken from a Bengali physics lecture explaining the principles of image formation using a convex (diverging) mirror. The whiteboard contains multiple diagrams, formulas, and descriptive notes summarizing the geometric optics involved.",
+  "diagram_structure": {
+    "diagram_type": "convex_mirror_ray_diagram_and_calculations",
+    "canvas": {
+      "width": 800,
+      "height": 600
+    },
+    "elements": [
+      {
+        "id": "T1",
+        "type": "label",
+        "description": "Main title indicating the topic: Ray diagram/Image formation in Convex Mirror",
+        "properties": {
+          "coords": [
+            250,
+            50
+          ],
+          "style": {
+            "stroke": "red",
+            "strokeWidth": 2
+          },
+          "label_text": "উত্তল দর্পণে রশ্মিচিত্র/প্রতিবিম্ব"
+        },
+        "animation_order": 1,
+        "animation_duration_ms": 500,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "F1",
+        "type": "formula",
+        "description": "The general mirror formula",
+        "properties": {
+          "coords": [
+            100,
+            150
+          ],
+          "latex_content": "\\frac{1}{v} + \\frac{1}{u} = \\frac{1}{f}"
+        },
+        "animation_order": 2,
+        "animation_duration_ms": 800,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "D1_Axis",
+        "type": "line",
+        "description": "Principal Axis for the top diagram",
+        "properties": {
+          "coords": [
+            150,
+            260,
+            550,
+            260
+          ],
+          "style": {
+            "stroke": "black",
+            "strokeWidth": 1
+          }
+        },
+        "animation_order": 3,
+        "animation_duration_ms": 400,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "D1_Mirror",
+        "type": "curve",
+        "description": "Convex Mirror surface M M'",
+        "properties": {
+          "coords": "arc_center: [200, 260], radius: 140, angle_start: -60, angle_end: 60",
+          "style": {
+            "stroke": "black",
+            "strokeWidth": 2,
+            "hatch": true
+          },
+          "label_text": "M M'"
+        },
+        "animation_order": 4,
+        "animation_duration_ms": 600,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "D1_P",
+        "type": "point",
+        "description": "Pole P",
+        "properties": {
+          "coords": [
+            400,
+            260
+          ],
+          "label_text": "P"
+        },
+        "animation_order": 5,
+        "animation_duration_ms": 300,
+        "animation_effect": "fade"
+      },
+      {
+        "id": "D1_F",
+        "type": "point",
+        "description": "Virtual Focus F",
+        "properties": {
+          "coords": [
+            310,
+            260
+          ],
+          "label_text": "F"
+        },
+        "animation_order": 6,
+        "animation_duration_ms": 300,
+        "animation_effect": "fade"
+      },
+      {
+        "id": "D1_Object",
+        "type": "line",
+        "description": "Object PQ",
+        "properties": {
+          "coords": [
+            250,
+            220,
+            250,
+            260
+          ],
+          "style": {
+            "stroke": "black",
+            "strokeWidth": 2
+          },
+          "label_text": "PQ"
+        },
+        "animation_order": 7,
+        "animation_duration_ms": 500,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "D1_R1_Inc",
+        "type": "arrow",
+        "description": "Incident Ray 1 (Parallel to axis)",
+        "properties": {
+          "coords": [
+            250,
+            220,
+            400,
+            220
+          ],
+          "style": {
+            "stroke": "black",
+            "strokeWidth": 1
+          }
+        },
+        "animation_order": 8,
+        "animation_duration_ms": 400,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "D1_R1_Ext",
+        "type": "line",
+        "description": "Ray 1 Extension (Appears to pass through F)",
+        "properties": {
+          "coords": [
+            400,
+            220,
+            310,
+            260
+          ],
+          "style": {
+            "stroke": "black",
+            "strokeWidth": 1,
+            "dashArray": "3, 3"
+          }
+        },
+        "animation_order": 9,
+        "animation_duration_ms": 600,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "D1_R1_Ref",
+        "type": "arrow",
+        "description": "Ray 1 Reflected (Diverging)",
+        "properties": {
+          "coords": [
+            400,
+            220,
+            550,
+            180
+          ],
+          "style": {
+            "stroke": "black",
+            "strokeWidth": 1
+          }
+        },
+        "animation_order": 10,
+        "animation_duration_ms": 400,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "D1_Image",
+        "type": "line",
+        "description": "Virtual Image P'Q'",
+        "properties": {
+          "coords": [
+            325,
+            245,
+            325,
+            260
+          ],
+          "style": {
+            "stroke": "green",
+            "strokeWidth": 2
+          },
+          "label_text": "P'Q'"
+        },
+        "animation_order": 11,
+        "animation_duration_ms": 500,
+        "animation_effect": "scale"
+      },
+      {
+        "id": "A1",
+        "type": "label",
+        "description": "Image Location Note (Between F and P)",
+        "properties": {
+          "coords": [
+            100,
+            350
+          ],
+          "label_text": "অবস্থান: F ও P এর মাঝখানে"
+        },
+        "animation_order": 12,
+        "animation_duration_ms": 400,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "A2",
+        "type": "label",
+        "description": "Image Size Note (Diminished)",
+        "properties": {
+          "coords": [
+            100,
+            380
+          ],
+          "label_text": "আকৃতি: খর্বিত"
+        },
+        "animation_order": 13,
+        "animation_duration_ms": 400,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "A3",
+        "type": "label",
+        "description": "Image Nature Note (Virtual and Erect)",
+        "properties": {
+          "coords": [
+            100,
+            410
+          ],
+          "label_text": "প্রকৃতি: অসদ ও সোজা"
+        },
+        "animation_order": 14,
+        "animation_duration_ms": 400,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "D2_F_Rel",
+        "type": "formula",
+        "description": "Relationship between Radius of Curvature (R) and Focal Length (f)",
+        "properties": {
+          "coords": [
+            600,
+            420
+          ],
+          "latex_content": "R = 2f \\text{ or } f = R/2"
+        },
+        "animation_order": 15,
+        "animation_duration_ms": 500,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "M2_Formula",
+        "type": "formula",
+        "description": "Magnification formula and numerical example",
+        "properties": {
+          "coords": [
+            400,
+            470
+          ],
+          "latex_content": "m = \\frac{l_i}{l_o} = \\frac{2 \\text{ cm}}{5 \\text{ cm}}"
+        },
+        "animation_order": 16,
+        "animation_duration_ms": 700,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "M3_Result",
+        "type": "formula",
+        "description": "Magnification result showing diminished image",
+        "properties": {
+          "coords": [
+            560,
+            520
+          ],
+          "latex_content": "\\frac{2}{5} < 1"
+        },
+        "animation_order": 17,
+        "animation_duration_ms": 400,
+        "animation_effect": "draw"
+      }
+    ],
+    "relationships": []
+  }
+}

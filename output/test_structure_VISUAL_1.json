@@ -1,0 +1,631 @@
+{
+  "description": "The image captures a frame from a Bengali physics lecture dedicated to optics, specifically the study of image formation and ray diagrams using a convex spherical mirror. The main title is 'উত্তল দর্পণে রশ্মিচিত্র/প্রতিবিম্ব' (Ray Diagram/Image Formation in a Convex Mirror).\n\nThe visual elements are divided into two primary sections:\n1.  **Left Diagram:** Shows a standard setup of a convex mirror, principal axis, the virtual focus (F), and a representative object (PQ) placed in front of the reflecting surface.\n2.  **Right Diagram (Conceptual Analysis):** Illustrates the geometry of the mirror, labeling the aperture limits (M, M'), the Pole (P), the Focus (F), and the Center of Curvature (C). Six distinct object positions (labeled 1 through 6) are marked along the principal axis using upward red arrows, indicating different potential locations for object placement to analyze subsequent image characteristics.\n\nKey geometric relationships are explicitly written below the right diagram:\n*   CP = R (Radius of Curvature)\n*   FP = f (Focal Length)\n*   $f = R/2$ (Relationship between focal length and radius of curvature, boxed in red).\n\nThe visual serves to introduce the terminology (C, F, P, R, f) specific to convex mirrors and set up the different case scenarios for object positioning before demonstrating the corresponding ray tracing and image characteristics.",
+  "diagram_structure": {
+    "diagram_type": "convex_mirror_geometry_and_case_setup",
+    "canvas": {
+      "width": 800,
+      "height": 600
+    },
+    "elements": [
+      {
+        "id": "T1",
+        "type": "label",
+        "description": "Main Title (Convex Mirror Ray Diagram/Image)",
+        "properties": {
+          "coords": [
+            350,
+            50
+          ],
+          "style": {
+            "stroke": "red",
+            "strokeWidth": 2
+          },
+          "label_text": "উত্তল দর্পণে রশ্মিচিত্র/প্রতিবিম্ব"
+        },
+        "animation_order": 1,
+        "animation_duration_ms": 800,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "L_Axis",
+        "type": "line",
+        "description": "Principal Axis (Left Setup)",
+        "properties": {
+          "coords": [
+            [
+              50,
+              250
+            ],
+            [
+              380,
+              250
+            ]
+          ],
+          "style": {
+            "stroke": "black",
+            "strokeWidth": 2
+          }
+        },
+        "animation_order": 2,
+        "animation_duration_ms": 500,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "L_Mirror",
+        "type": "curve",
+        "description": "Convex Mirror (Left Setup)",
+        "properties": {
+          "coords": [
+            380,
+            180,
+            380,
+            320
+          ],
+          "style": {
+            "stroke": "black",
+            "strokeWidth": 2,
+            "fill": "none",
+            "dashArray": "2 5"
+          }
+        },
+        "animation_order": 3,
+        "animation_duration_ms": 700,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "L_F",
+        "type": "point",
+        "description": "Virtual Focus F (Left)",
+        "properties": {
+          "coords": [
+            250,
+            250
+          ],
+          "label_text": "F"
+        },
+        "animation_order": 4,
+        "animation_duration_ms": 300,
+        "animation_effect": "fade"
+      },
+      {
+        "id": "L_Object_Arrow",
+        "type": "arrow",
+        "description": "Object PQ",
+        "properties": {
+          "coords": [
+            [
+              350,
+              250
+            ],
+            [
+              350,
+              200
+            ]
+          ],
+          "style": {
+            "stroke": "green",
+            "strokeWidth": 2
+          }
+        },
+        "animation_order": 5,
+        "animation_duration_ms": 500,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "L_Q",
+        "type": "label",
+        "description": "Object Base Label Q",
+        "properties": {
+          "coords": [
+            360,
+            265
+          ],
+          "label_text": "Q"
+        },
+        "animation_order": 6,
+        "animation_duration_ms": 300,
+        "animation_effect": "fade"
+      },
+      {
+        "id": "L_P",
+        "type": "label",
+        "description": "Object Tip Label P",
+        "properties": {
+          "coords": [
+            360,
+            190
+          ],
+          "label_text": "P"
+        },
+        "animation_order": 7,
+        "animation_duration_ms": 300,
+        "animation_effect": "fade"
+      },
+      {
+        "id": "R_Axis",
+        "type": "line",
+        "description": "Principal Axis (Right Setup)",
+        "properties": {
+          "coords": [
+            [
+              480,
+              300
+            ],
+            [
+              730,
+              300
+            ]
+          ],
+          "style": {
+            "stroke": "black",
+            "strokeWidth": 2
+          }
+        },
+        "animation_order": 8,
+        "animation_duration_ms": 500,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "R_Mirror",
+        "type": "curve",
+        "description": "Convex Mirror (Right Setup)",
+        "properties": {
+          "coords": [
+            730,
+            230,
+            730,
+            370
+          ],
+          "style": {
+            "stroke": "black",
+            "strokeWidth": 2,
+            "fill": "none",
+            "dashArray": "2 5"
+          }
+        },
+        "animation_order": 9,
+        "animation_duration_ms": 700,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "R_P",
+        "type": "point",
+        "description": "Pole P",
+        "properties": {
+          "coords": [
+            730,
+            300
+          ],
+          "label_text": "P"
+        },
+        "animation_order": 10,
+        "animation_duration_ms": 300,
+        "animation_effect": "fade"
+      },
+      {
+        "id": "R_F",
+        "type": "point",
+        "description": "Virtual Focus F",
+        "properties": {
+          "coords": [
+            640,
+            300
+          ],
+          "label_text": "F"
+        },
+        "animation_order": 11,
+        "animation_duration_ms": 300,
+        "animation_effect": "fade"
+      },
+      {
+        "id": "R_C",
+        "type": "point",
+        "description": "Virtual Center of Curvature C",
+        "properties": {
+          "coords": [
+            550,
+            300
+          ],
+          "label_text": "C"
+        },
+        "animation_order": 12,
+        "animation_duration_ms": 300,
+        "animation_effect": "fade"
+      },
+      {
+        "id": "R_M",
+        "type": "label",
+        "description": "Aperture Limit M",
+        "properties": {
+          "coords": [
+            745,
+            230
+          ],
+          "label_text": "M"
+        },
+        "animation_order": 13,
+        "animation_duration_ms": 300,
+        "animation_effect": "fade"
+      },
+      {
+        "id": "R_Mp",
+        "type": "label",
+        "description": "Aperture Limit M prime",
+        "properties": {
+          "coords": [
+            745,
+            370
+          ],
+          "label_text": "M'"
+        },
+        "animation_order": 14,
+        "animation_duration_ms": 300,
+        "animation_effect": "fade"
+      },
+      {
+        "id": "R_A1",
+        "type": "arrow",
+        "description": "Object Position 1",
+        "properties": {
+          "coords": [
+            [
+              500,
+              300
+            ],
+            [
+              500,
+              260
+            ]
+          ],
+          "style": {
+            "stroke": "red",
+            "strokeWidth": 2
+          }
+        },
+        "animation_order": 15,
+        "animation_duration_ms": 400,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "R_L1",
+        "type": "label",
+        "description": "Label 1",
+        "properties": {
+          "coords": [
+            500,
+            250
+          ],
+          "label_text": "1"
+        },
+        "animation_order": 16,
+        "animation_duration_ms": 300,
+        "animation_effect": "fade"
+      },
+      {
+        "id": "R_A2",
+        "type": "arrow",
+        "description": "Object Position 2",
+        "properties": {
+          "coords": [
+            [
+              530,
+              300
+            ],
+            [
+              530,
+              260
+            ]
+          ],
+          "style": {
+            "stroke": "red",
+            "strokeWidth": 2
+          }
+        },
+        "animation_order": 17,
+        "animation_duration_ms": 400,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "R_L2",
+        "type": "label",
+        "description": "Label 2",
+        "properties": {
+          "coords": [
+            530,
+            250
+          ],
+          "label_text": "2"
+        },
+        "animation_order": 18,
+        "animation_duration_ms": 300,
+        "animation_effect": "fade"
+      },
+      {
+        "id": "R_A3",
+        "type": "arrow",
+        "description": "Object Position 3",
+        "properties": {
+          "coords": [
+            [
+              570,
+              300
+            ],
+            [
+              570,
+              260
+            ]
+          ],
+          "style": {
+            "stroke": "red",
+            "strokeWidth": 2
+          }
+        },
+        "animation_order": 19,
+        "animation_duration_ms": 400,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "R_L3",
+        "type": "label",
+        "description": "Label 3",
+        "properties": {
+          "coords": [
+            570,
+            250
+          ],
+          "label_text": "3"
+        },
+        "animation_order": 20,
+        "animation_duration_ms": 300,
+        "animation_effect": "fade"
+      },
+      {
+        "id": "R_A4",
+        "type": "arrow",
+        "description": "Object Position 4",
+        "properties": {
+          "coords": [
+            [
+              600,
+              300
+            ],
+            [
+              600,
+              260
+            ]
+          ],
+          "style": {
+            "stroke": "red",
+            "strokeWidth": 2
+          }
+        },
+        "animation_order": 21,
+        "animation_duration_ms": 400,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "R_L4",
+        "type": "label",
+        "description": "Label 4",
+        "properties": {
+          "coords": [
+            600,
+            250
+          ],
+          "label_text": "4"
+        },
+        "animation_order": 22,
+        "animation_duration_ms": 300,
+        "animation_effect": "fade"
+      },
+      {
+        "id": "R_A5",
+        "type": "arrow",
+        "description": "Object Position 5",
+        "properties": {
+          "coords": [
+            [
+              650,
+              300
+            ],
+            [
+              650,
+              260
+            ]
+          ],
+          "style": {
+            "stroke": "red",
+            "strokeWidth": 2
+          }
+        },
+        "animation_order": 23,
+        "animation_duration_ms": 400,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "R_L5",
+        "type": "label",
+        "description": "Label 5",
+        "properties": {
+          "coords": [
+            650,
+            250
+          ],
+          "label_text": "5"
+        },
+        "animation_order": 24,
+        "animation_duration_ms": 300,
+        "animation_effect": "fade"
+      },
+      {
+        "id": "R_A6",
+        "type": "arrow",
+        "description": "Object Position 6",
+        "properties": {
+          "coords": [
+            [
+              690,
+              300
+            ],
+            [
+              690,
+              260
+            ]
+          ],
+          "style": {
+            "stroke": "red",
+            "strokeWidth": 2
+          }
+        },
+        "animation_order": 25,
+        "animation_duration_ms": 400,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "R_L6",
+        "type": "label",
+        "description": "Label 6",
+        "properties": {
+          "coords": [
+            690,
+            250
+          ],
+          "label_text": "6"
+        },
+        "animation_order": 26,
+        "animation_duration_ms": 300,
+        "animation_effect": "fade"
+      },
+      {
+        "id": "R_Bracket",
+        "type": "line",
+        "description": "Grouping Bracket (Object positions)",
+        "properties": {
+          "coords": [
+            [
+              470,
+              150
+            ],
+            [
+              470,
+              420
+            ]
+          ],
+          "style": {
+            "stroke": "green",
+            "strokeWidth": 3
+          }
+        },
+        "animation_order": 27,
+        "animation_duration_ms": 600,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "R_Arc_R",
+        "type": "curve",
+        "description": "Arc indicating Radius R (CP)",
+        "properties": {
+          "coords": [
+            550,
+            325,
+            730,
+            325
+          ],
+          "style": {
+            "stroke": "red",
+            "strokeWidth": 2
+          }
+        },
+        "animation_order": 28,
+        "animation_duration_ms": 500,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "R_Arc_f",
+        "type": "curve",
+        "description": "Arc indicating Focal Length f (FP)",
+        "properties": {
+          "coords": [
+            640,
+            345,
+            730,
+            345
+          ],
+          "style": {
+            "stroke": "red",
+            "strokeWidth": 2
+          }
+        },
+        "animation_order": 29,
+        "animation_duration_ms": 500,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "F_R",
+        "type": "formula",
+        "description": "CP equals R definition",
+        "properties": {
+          "coords": [
+            600,
+            440
+          ],
+          "latex_content": "CP = R"
+        },
+        "animation_order": 30,
+        "animation_duration_ms": 400,
+        "animation_effect": "fade"
+      },
+      {
+        "id": "F_f",
+        "type": "formula",
+        "description": "FP equals f definition",
+        "properties": {
+          "coords": [
+            600,
+            470
+          ],
+          "latex_content": "FP = f"
+        },
+        "animation_order": 31,
+        "animation_duration_ms": 400,
+        "animation_effect": "fade"
+      },
+      {
+        "id": "F_Rel",
+        "type": "formula",
+        "description": "Focal length radius relationship",
+        "properties": {
+          "coords": [
+            600,
+            510
+          ],
+          "latex_content": "f = \\frac{R}{2}",
+          "style": {
+            "stroke": "red",
+            "strokeWidth": 2
+          }
+        },
+        "animation_order": 32,
+        "animation_duration_ms": 700,
+        "animation_effect": "draw"
+      }
+    ],
+    "relationships": [
+      {
+        "from": "R_C",
+        "to": "R_P",
+        "relationship": "defines_radius_R"
+      },
+      {
+        "from": "R_F",
+        "to": "R_P",
+        "relationship": "defines_focal_length_f"
+      },
+      {
+        "from": "R_C",
+        "to": "R_F",
+        "relationship": "F_is_midpoint_of_CP"
+      }
+    ]
+  }
+}

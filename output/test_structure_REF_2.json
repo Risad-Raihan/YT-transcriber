@@ -1,0 +1,526 @@
+{
+  "description": "This frame illustrates concepts related to spherical mirrors, primarily focusing on the geometric setup and the relationship between focal length and radius of curvature. The overall title, written in Bengali, states 'Uttol Dorpone Roshmichitro/Protibimbo' (Convex Mirror Ray Diagram/Image), although the detailed schematic below features characteristics typical of a Concave Mirror (Obtol Dorpon) analysis.\n\nThere are two main diagrams:\n1.  **Left Diagram (D1):** Shows a standard principal axis, a mirror structure (hatching suggests it's a convex mirror, reflecting surface facing left), a labeled Focus (F), and an object (arrow P standing on Q) placed along the axis.\n2.  **Right Diagram (D2):** This is a detailed schematic of a Concave Mirror (MM') setup, where the reflection occurs on the left side. The principal axis defines key geometric points: C (Center of Curvature), F (Focus), and P (Pole). Six numbered vertical arrows (1 through 6, colored red) represent different object positions relative to C, F, and P, used to analyze the six standard cases of image formation in a concave mirror.\n\nMathematical relationships are displayed below the diagram:\n*   $CP = R$ (R is the Radius of Curvature, measured from the Pole P to the Center C).\n*   $FP = f$ (f is the Focal Length, measured from the Pole P to the Focus F).\n*   A boxed formula states the fundamental relationship: $f = R/2$. \n\nThe educational purpose is to introduce the terminology (Pole, Focus, Center) and the critical mathematical relationship linking the geometric properties of spherical mirrors, using the six standard object positions as context.",
+  "diagram_structure": {
+    "diagram_type": "concave_mirror_setup",
+    "canvas": {
+      "width": 800,
+      "height": 600
+    },
+    "elements": [
+      {
+        "id": "T01",
+        "type": "label",
+        "description": "Video Title (Convex Mirror Ray Diagram/Image)",
+        "properties": {
+          "coords": [
+            250,
+            60
+          ],
+          "style": {
+            "stroke": "red",
+            "strokeWidth": 2
+          },
+          "label_text": "উত্তল দর্পণে রশ্মিচিত্র/প্রতিবিম্ব"
+        },
+        "animation_order": 1,
+        "animation_duration_ms": 1000,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "D1_A1",
+        "type": "line",
+        "description": "Principal Axis (Left Diagram)",
+        "properties": {
+          "coords": [
+            [
+              100,
+              300
+            ],
+            [
+              400,
+              300
+            ]
+          ],
+          "style": {
+            "stroke": "black",
+            "strokeWidth": 2
+          }
+        },
+        "animation_order": 2,
+        "animation_duration_ms": 500,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "D1_A2",
+        "type": "curve",
+        "description": "Convex Mirror profile (hatching indicates reflecting surface is outside/left)",
+        "properties": {
+          "coords": "Arc center approx (450, 300), sweep 270 degrees",
+          "style": {
+            "stroke": "black",
+            "strokeWidth": 1.5
+          }
+        },
+        "animation_order": 3,
+        "animation_duration_ms": 600,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "D1_L_F",
+        "type": "point",
+        "description": "Focus F (Left Diagram)",
+        "properties": {
+          "coords": [
+            270,
+            300
+          ],
+          "style": {
+            "fill": "black"
+          },
+          "label_text": "F"
+        },
+        "animation_order": 4,
+        "animation_duration_ms": 300,
+        "animation_effect": "fade"
+      },
+      {
+        "id": "D1_L_Q",
+        "type": "point",
+        "description": "Object base point Q",
+        "properties": {
+          "coords": [
+            350,
+            300
+          ],
+          "style": {
+            "fill": "black"
+          },
+          "label_text": "Q"
+        },
+        "animation_order": 5,
+        "animation_duration_ms": 300,
+        "animation_effect": "fade"
+      },
+      {
+        "id": "D1_O_P",
+        "type": "arrow",
+        "description": "Object P Q",
+        "properties": {
+          "coords": [
+            [
+              350,
+              300
+            ],
+            [
+              350,
+              240
+            ]
+          ],
+          "style": {
+            "stroke": "black",
+            "strokeWidth": 2
+          },
+          "label_text": "P"
+        },
+        "animation_order": 6,
+        "animation_duration_ms": 400,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "D2_A1",
+        "type": "line",
+        "description": "Principal Axis (Right Diagram)",
+        "properties": {
+          "coords": [
+            [
+              480,
+              300
+            ],
+            [
+              780,
+              300
+            ]
+          ],
+          "style": {
+            "stroke": "black",
+            "strokeWidth": 2
+          }
+        },
+        "animation_order": 7,
+        "animation_duration_ms": 500,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "D2_A2",
+        "type": "curve",
+        "description": "Concave Mirror M M' (reflecting left)",
+        "properties": {
+          "coords": "Vertical arc through (780, 300), radius 230",
+          "style": {
+            "stroke": "black",
+            "strokeWidth": 1.5,
+            "hatching": "right"
+          }
+        },
+        "animation_order": 8,
+        "animation_duration_ms": 600,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "D2_L_M",
+        "type": "label",
+        "description": "Mirror top label M",
+        "properties": {
+          "coords": [
+            770,
+            220
+          ],
+          "label_text": "M"
+        },
+        "animation_order": 9,
+        "animation_duration_ms": 100,
+        "animation_effect": "fade"
+      },
+      {
+        "id": "D2_L_MP",
+        "type": "label",
+        "description": "Mirror bottom label M'",
+        "properties": {
+          "coords": [
+            770,
+            380
+          ],
+          "label_text": "M'"
+        },
+        "animation_order": 10,
+        "animation_duration_ms": 100,
+        "animation_effect": "fade"
+      },
+      {
+        "id": "D2_P",
+        "type": "point",
+        "description": "Pole P",
+        "properties": {
+          "coords": [
+            780,
+            300
+          ],
+          "style": {
+            "fill": "black"
+          },
+          "label_text": "P"
+        },
+        "animation_order": 11,
+        "animation_duration_ms": 300,
+        "animation_effect": "fade"
+      },
+      {
+        "id": "D2_L_F",
+        "type": "point",
+        "description": "Focus F",
+        "properties": {
+          "coords": [
+            665,
+            300
+          ],
+          "style": {
+            "fill": "black"
+          },
+          "label_text": "F"
+        },
+        "animation_order": 12,
+        "animation_duration_ms": 300,
+        "animation_effect": "fade"
+      },
+      {
+        "id": "D2_L_C",
+        "type": "point",
+        "description": "Center of Curvature C",
+        "properties": {
+          "coords": [
+            550,
+            300
+          ],
+          "style": {
+            "fill": "black"
+          },
+          "label_text": "C"
+        },
+        "animation_order": 13,
+        "animation_duration_ms": 300,
+        "animation_effect": "fade"
+      },
+      {
+        "id": "D2_O_1",
+        "type": "arrow",
+        "description": "Object position 1 (Beyond C)",
+        "properties": {
+          "coords": [
+            [
+              490,
+              300
+            ],
+            [
+              490,
+              240
+            ]
+          ],
+          "style": {
+            "stroke": "red",
+            "strokeWidth": 2
+          },
+          "label_text": "1"
+        },
+        "animation_order": 14,
+        "animation_duration_ms": 300,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "D2_O_2",
+        "type": "arrow",
+        "description": "Object position 2 (Beyond C)",
+        "properties": {
+          "coords": [
+            [
+              520,
+              300
+            ],
+            [
+              520,
+              240
+            ]
+          ],
+          "style": {
+            "stroke": "red",
+            "strokeWidth": 2
+          },
+          "label_text": "2"
+        },
+        "animation_order": 15,
+        "animation_duration_ms": 300,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "D2_O_3",
+        "type": "arrow",
+        "description": "Object position 3 (At C)",
+        "properties": {
+          "coords": [
+            [
+              550,
+              300
+            ],
+            [
+              550,
+              240
+            ]
+          ],
+          "style": {
+            "stroke": "red",
+            "strokeWidth": 2
+          },
+          "label_text": "3"
+        },
+        "animation_order": 16,
+        "animation_duration_ms": 300,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "D2_O_4",
+        "type": "arrow",
+        "description": "Object position 4 (Between C and F)",
+        "properties": {
+          "coords": [
+            [
+              600,
+              300
+            ],
+            [
+              600,
+              240
+            ]
+          ],
+          "style": {
+            "stroke": "red",
+            "strokeWidth": 2
+          },
+          "label_text": "4"
+        },
+        "animation_order": 17,
+        "animation_duration_ms": 300,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "D2_O_5",
+        "type": "arrow",
+        "description": "Object position 5 (Approaching F)",
+        "properties": {
+          "coords": [
+            [
+              635,
+              300
+            ],
+            [
+              635,
+              240
+            ]
+          ],
+          "style": {
+            "stroke": "red",
+            "strokeWidth": 2
+          },
+          "label_text": "5"
+        },
+        "animation_order": 18,
+        "animation_duration_ms": 300,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "D2_O_6",
+        "type": "arrow",
+        "description": "Object position 6 (Between F and P)",
+        "properties": {
+          "coords": [
+            [
+              690,
+              300
+            ],
+            [
+              690,
+              240
+            ]
+          ],
+          "style": {
+            "stroke": "red",
+            "strokeWidth": 2
+          },
+          "label_text": "6"
+        },
+        "animation_order": 19,
+        "animation_duration_ms": 300,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "D2_Bracket",
+        "type": "line",
+        "description": "Vertical bracket indicating range of object positions",
+        "properties": {
+          "coords": [
+            [
+              460,
+              230
+            ],
+            [
+              460,
+              370
+            ]
+          ],
+          "style": {
+            "stroke": "green",
+            "strokeWidth": 2,
+            "dashArray": ""
+          }
+        },
+        "animation_order": 20,
+        "animation_duration_ms": 500,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "D2_Arc_CP",
+        "type": "curve",
+        "description": "Arc showing distance CP = R",
+        "properties": {
+          "coords": "Arc segment from C (550, 310) to P (780, 310)",
+          "style": {
+            "stroke": "red",
+            "strokeWidth": 1.5
+          }
+        },
+        "animation_order": 21,
+        "animation_duration_ms": 400,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "D2_Arc_FP",
+        "type": "curve",
+        "description": "Arc showing distance FP = f",
+        "properties": {
+          "coords": "Arc segment from F (665, 315) to P (780, 315)",
+          "style": {
+            "stroke": "red",
+            "strokeWidth": 1.5
+          }
+        },
+        "animation_order": 22,
+        "animation_duration_ms": 400,
+        "animation_effect": "draw"
+      },
+      {
+        "id": "F1",
+        "type": "formula",
+        "description": "Definition of Radius of Curvature R",
+        "properties": {
+          "coords": [
+            600,
+            420
+          ],
+          "latex_content": "CP = R"
+        },
+        "animation_order": 23,
+        "animation_duration_ms": 500,
+        "animation_effect": "fade"
+      },
+      {
+        "id": "F2",
+        "type": "formula",
+        "description": "Definition of Focal Length f",
+        "properties": {
+          "coords": [
+            600,
+            450
+          ],
+          "latex_content": "FP = f"
+        },
+        "animation_order": 24,
+        "animation_duration_ms": 500,
+        "animation_effect": "fade"
+      },
+      {
+        "id": "F3",
+        "type": "formula",
+        "description": "Focal Length equals half the Radius of Curvature (boxed)",
+        "properties": {
+          "coords": [
+            600,
+            490
+          ],
+          "latex_content": "f = \\frac{R}{2}",
+          "style": {
+            "stroke": "red",
+            "strokeWidth": 2
+          }
+        },
+        "animation_order": 25,
+        "animation_duration_ms": 800,
+        "animation_effect": "scale"
+      }
+    ],
+    "relationships": [
+      {
+        "from": "D2_L_F",
+        "to": "D2_P",
+        "relationship": "defines_focal_length"
+      },
+      {
+        "from": "D2_L_C",
+        "to": "D2_P",
+        "relationship": "defines_radius_of_curvature"
+      },
+      {
+        "from": "D2_L_C",
+        "to": "D2_L_F",
+        "relationship": "is_double_the_distance_to"
+      }
+    ]
+  }
+}
